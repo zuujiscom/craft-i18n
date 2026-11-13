@@ -12065,6 +12065,9 @@ msgstr "Este documento aún no está en una carpeta: guárdelo primero"
 msgid "This document isn't password-protected"
 msgstr "Este documento no está protegido con contraseña"
 
+msgid "This document's script is asking"
+msgstr "El script de este documento pregunta"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Este dibujo supera el límite de ajuste; solo se usan los primeros trazados."
 
@@ -12205,6 +12208,9 @@ msgstr "Esta impresora solo imprime por una cara."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "El controlador de esta impresora no acepta los ajustes de doble cara de otros programas, así que se aplica su propio ajuste. Cámbialo en Propiedades…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Esta solicitud procede del documento, no de PdfCraft. Introduzca una contraseña solo si confía en este documento."
 
 msgid "this signature can't be removed on its own"
 msgstr "esta firma no se puede quitar por sí sola"

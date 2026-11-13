@@ -3410,7 +3410,7 @@ msgid "Document title is showing in title bar"
 msgstr "ޓައިޓަލް ބާރގައި ޑޮކިއުމަންޓުގެ ސުރުޚީ ފެންނަނީ"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "ލިޔުން: {name}"
 
 msgid "Documents and view"
 msgstr "ޑޮކިއުމަންޓްތަކާއި ބަލާ ގޮތް"
@@ -12065,6 +12065,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "މި ޑޮކިއުމަންޓަކީ ޕާސްވޯޑެއްގެ ރައްކާތެރިކަން ލިބިފައިވާ އެއްޗެއް ނޫން"
 
+msgid "This document's script is asking"
+msgstr "މި ލިޔުމުގެ ސްކްރިޕްޓް ސުވާލުކުރަނީ"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "މި ޑްރޯއިންގް ސްނެޕްކުރުމުގެ ލިމިޓް ފަހަނައަޅައިފި؛ ބޭނުންކުރެވެނީ ފުރަތަމަ ޕާތްތައް އެކަނި."
 
@@ -12205,6 +12208,9 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "މި ޕްރިންޓަރުގެ ޑްރައިވަރު އެހެން ޕްރޮގްރާމްތަކުން ދެފުށް ސެޓިންގްސް ނުނަގާތީ، އޭގެ އަމިއްލަ ސެޓިންގް ހިނގާނެ. އެ ބަދަލުކުރަން ޕްރޮޕަޓީޒް…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "މި އެދުމަކީ ލިޔުމުން އަންނަ އެދުމެއް، PdfCraft އިން ނޫން. މި ލިޔުމަށް ބަރޯސާވާނަމަ އެކަންޏެވެ ޕާސްވޯޑް ޖަހާނީ."
 
 msgid "this signature can't be removed on its own"
 msgstr ""

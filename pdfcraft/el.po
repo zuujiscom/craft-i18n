@@ -3410,7 +3410,7 @@ msgid "Document title is showing in title bar"
 msgstr "Ο τίτλος του εγγράφου εμφανίζεται στη γραμμή τίτλου"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Έγγραφο: {name}"
 
 msgid "Documents and view"
 msgstr "Έγγραφα και προβολή"
@@ -12065,6 +12065,9 @@ msgstr "Αυτό το έγγραφο δεν βρίσκεται ακόμη σε �
 msgid "This document isn't password-protected"
 msgstr "Το έγγραφο δεν προστατεύεται με κωδικό"
 
+msgid "This document's script is asking"
+msgstr "Το σενάριο αυτού του εγγράφου ρωτά"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Το σχέδιο υπερβαίνει το όριο προσκόλλησης· χρησιμοποιούνται μόνο οι πρώτες διαδρομές."
 
@@ -12205,6 +12208,9 @@ msgstr "Αυτός ο εκτυπωτής εκτυπώνει μόνο στη μί
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Το πρόγραμμα οδήγησης αυτού του εκτυπωτή δεν δέχεται ρυθμίσεις εκτύπωσης διπλής όψης από άλλα προγράμματα, οπότε ισχύει η δική του ρύθμιση. Αλλάξτε τη στις Ιδιότητες…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Αυτό το αίτημα προέρχεται από το έγγραφο, όχι από το PdfCraft. Εισαγάγετε κωδικό πρόσβασης μόνο αν εμπιστεύεστε αυτό το έγγραφο."
 
 msgid "this signature can't be removed on its own"
 msgstr "αυτή η υπογραφή δεν μπορεί να αφαιρεθεί μόνη της"

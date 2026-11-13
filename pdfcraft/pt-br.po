@@ -12065,6 +12065,9 @@ msgstr "Este documento ainda não está em uma pasta: salve-o primeiro"
 msgid "This document isn't password-protected"
 msgstr "Este documento não está protegido por senha"
 
+msgid "This document's script is asking"
+msgstr "O script deste documento está perguntando"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Este desenho excede o limite de alinhamento inteligente; apenas os primeiros traçados são usados."
 
@@ -12205,6 +12208,9 @@ msgstr "Esta impressora imprime apenas em um lado."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "O driver desta impressora não aceita configurações de frente e verso de outros programas, então vale a configuração dele. Altere em Propriedades…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Esta solicitação vem do documento, não do PdfCraft. Digite uma senha somente se você confiar neste documento."
 
 msgid "this signature can't be removed on its own"
 msgstr "esta assinatura não pode ser removida sozinha"

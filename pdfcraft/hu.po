@@ -3410,7 +3410,7 @@ msgid "Document title is showing in title bar"
 msgstr "A dokumentum címe látszik a címsorban"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Dokumentum: {name}"
 
 msgid "Documents and view"
 msgstr "Dokumentumok és nézet"
@@ -12065,6 +12065,9 @@ msgstr "Ez a dokumentum még nincs mappában: előbb mentse el"
 msgid "This document isn't password-protected"
 msgstr "Ez a dokumentum nincs jelszóval védve"
 
+msgid "This document's script is asking"
+msgstr "A dokumentum szkriptje kérdez"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Ez a rajz túllépi az illesztési korlátot; csak az első útvonalak vannak használatban."
 
@@ -12205,6 +12208,9 @@ msgstr "Ez a nyomtató csak egyoldalas nyomtatásra képes."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "A nyomtató illesztőprogramja nem fogadja el más programoktól a kétoldalas nyomtatás beállítását, ezért a saját beállítása érvényes. Módosítás: Tulajdonságok…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Ez a kérés a dokumentumtól származik, nem a PdfCrafttól. Csak akkor adjon meg jelszót, ha megbízik ebben a dokumentumban."
 
 msgid "this signature can't be removed on its own"
 msgstr "ez az aláírás nem távolítható el önmagában"

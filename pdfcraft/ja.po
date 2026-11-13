@@ -3407,7 +3407,7 @@ msgid "Document title is showing in title bar"
 msgstr "タイトルバーに文書タイトルが表示されています"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "文書: {name}"
 
 msgid "Documents and view"
 msgstr "文書と表示"
@@ -12060,6 +12060,9 @@ msgstr "この文書はまだフォルダーに保存されていません。先
 msgid "This document isn't password-protected"
 msgstr "この文書はパスワード保護されていません"
 
+msgid "This document's script is asking"
+msgstr "この文書のスクリプトからの質問"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "図面がスナップの上限を超えているため、最初のパスのみを使用します。"
 
@@ -12200,6 +12203,9 @@ msgstr "このプリンターは片面印刷のみ対応しています。"
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "このプリンターのドライバーは他のプログラムからの両面印刷の設定を受け付けないため、ドライバー自身の設定が使われます。変更先: プロパティ…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "この要求は PdfCraft ではなく文書から送られています。この文書を信頼できる場合にのみパスワードを入力してください。"
 
 msgid "this signature can't be removed on its own"
 msgstr "この署名だけを削除することはできません"

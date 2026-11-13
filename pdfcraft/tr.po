@@ -3410,7 +3410,7 @@ msgid "Document title is showing in title bar"
 msgstr "Belge başlığı başlık çubuğunda gösteriliyor"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Belge: {name}"
 
 msgid "Documents and view"
 msgstr "Belgeler ve görünüm"
@@ -12065,6 +12065,9 @@ msgstr "Bu belge henüz bir klasörde değil: önce kaydedin"
 msgid "This document isn't password-protected"
 msgstr "Bu belge parola korumalı değil"
 
+msgid "This document's script is asking"
+msgstr "Bu belgenin betiği soruyor"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Bu çizim yakalama sınırını aşıyor; yalnızca ilk yollar kullanılır."
 
@@ -12205,6 +12208,9 @@ msgstr "Bu yazıcı yalnızca tek yüze yazdırır."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Bu yazıcının sürücüsü diğer programlardan gelen çift taraflı yazdırma ayarlarını kabul etmez, bu yüzden kendi ayarı geçerlidir. Değiştirmek için: Özellikler…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Bu istek PdfCraft'tan değil, belgeden geliyor. Yalnızca bu belgeye güveniyorsanız parola girin."
 
 msgid "this signature can't be removed on its own"
 msgstr "bu imza tek başına kaldırılamaz"

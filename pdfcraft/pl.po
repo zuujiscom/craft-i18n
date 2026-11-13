@@ -3413,7 +3413,7 @@ msgid "Document title is showing in title bar"
 msgstr "Tytuł dokumentu jest wyświetlany na pasku tytułu"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Dokument: {name}"
 
 msgid "Documents and view"
 msgstr "Dokumenty i widok"
@@ -12070,6 +12070,9 @@ msgstr "Ten dokument nie jest jeszcze w żadnym folderze: najpierw go zapisz"
 msgid "This document isn't password-protected"
 msgstr "Ten dokument nie jest chroniony hasłem"
 
+msgid "This document's script is asking"
+msgstr "Skrypt tego dokumentu pyta"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Ten rysunek przekracza limit przyciągania; używane są tylko pierwsze ścieżki."
 
@@ -12210,6 +12213,9 @@ msgstr "Ta drukarka drukuje tylko jednostronnie."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Sterownik tej drukarki nie przyjmuje ustawień druku dwustronnego z innych programów, więc obowiązuje jego własne ustawienie. Zmień je w oknie Właściwości…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "To żądanie pochodzi z dokumentu, a nie z PdfCraft. Wpisz hasło tylko wtedy, gdy ufasz temu dokumentowi."
 
 msgid "this signature can't be removed on its own"
 msgstr "tego podpisu nie można usunąć osobno"

@@ -3410,7 +3410,7 @@ msgid "Document title is showing in title bar"
 msgstr "عنوان کی پٹی میں دستاویز کا عنوان دکھ رہا ہے"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "دستاویز: {name}"
 
 msgid "Documents and view"
 msgstr "دستاویزات اور منظر"
@@ -12065,6 +12065,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "یہ دستاویز پاس ورڈ سے محفوظ نہیں"
 
+msgid "This document's script is asking"
+msgstr "اس دستاویز کا اسکرپٹ پوچھ رہا ہے"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "یہ خاکہ سنیپنگ کی حد سے بڑا ہے؛ صرف ابتدائی راستے استعمال ہوں گے۔"
 
@@ -12205,6 +12208,9 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "اس پرنٹر کا ڈرائیور دوسرے پروگراموں سے دو طرفہ ترتیبات قبول نہیں کرتا، اس لیے اس کی اپنی ترتیب لاگو ہوتی ہے۔ اسے یہاں تبدیل کریں: خصوصیات…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "یہ درخواست دستاویز کی طرف سے ہے، PdfCraft کی طرف سے نہیں۔ پاس ورڈ صرف تب درج کریں جب آپ کو اس دستاویز پر بھروسہ ہو۔"
 
 msgid "this signature can't be removed on its own"
 msgstr ""

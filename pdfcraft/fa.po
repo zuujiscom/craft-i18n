@@ -3410,7 +3410,7 @@ msgid "Document title is showing in title bar"
 msgstr "عنوان سند در نوار عنوان نمایش داده می‌شود"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "سند: {name}"
 
 msgid "Documents and view"
 msgstr "سند‌ها و نمایش"
@@ -12065,6 +12065,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "این سند با گذرواژه محافظت نشده است"
 
+msgid "This document's script is asking"
+msgstr "اسکریپت این سند می‌پرسد"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "این ترسیم از حد چسبیدن فرا‌تر می‌رود؛ فقط مسیر‌های اول استفاده می‌شوند."
 
@@ -12205,6 +12208,9 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "درایور این چاپگر تنظیمات دوطرفه را از برنامه‌های دیگر نمی‌پذیرد، بنابراین تنظیم خودش اعمال می‌شود. آن را در «ویژگی‌ها…» تغییر دهید…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "این درخواست از سند است، نه از PdfCraft. فقط در صورتی گذرواژه وارد کنید که به این سند اعتماد دارید."
 
 msgid "this signature can't be removed on its own"
 msgstr ""

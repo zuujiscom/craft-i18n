@@ -3410,7 +3410,7 @@ msgid "Document title is showing in title bar"
 msgstr "শিরোনাম বারে নথির শিরোনাম দেখানো হচ্ছে"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "নথি: {name}"
 
 msgid "Documents and view"
 msgstr "নথি ও দৃশ্য"
@@ -12065,6 +12065,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "এই নথি পাসওয়ার্ড-সুরক্ষিত নয়"
 
+msgid "This document's script is asking"
+msgstr "এই নথির স্ক্রিপ্ট জানতে চাইছে"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "এই অঙ্কন স্ন্যাপিং সীমা ছাড়িয়েছে; শুধু প্রথম দিকের পথ ব্যবহার করা হয়।"
 
@@ -12205,6 +12208,9 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "এই প্রিন্টারের ড্রাইভার অন্য প্রোগ্রাম থেকে দুই-পাশের সেটিং নেয় না, তাই এর নিজস্ব সেটিং প্রযোজ্য। এটি বদলাতে যান: বৈশিষ্ট্য…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "এই অনুরোধটি নথি থেকে এসেছে, PdfCraft থেকে নয়। এই নথিকে বিশ্বাস করলে তবেই পাসওয়ার্ড লিখুন।"
 
 msgid "this signature can't be removed on its own"
 msgstr ""

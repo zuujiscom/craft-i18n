@@ -12070,6 +12070,9 @@ msgstr "Tento dokument zatím není v žádné složce: nejprve ho uložte"
 msgid "This document isn't password-protected"
 msgstr "Tento dokument není chráněný heslem"
 
+msgid "This document's script is asking"
+msgstr "Skript tohoto dokumentu se ptá"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Tato kresba překračuje limit přichytávání; použijí se jen první cesty."
 
@@ -12210,6 +12213,9 @@ msgstr "Tato tiskárna tiskne pouze jednostranně."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Ovladač této tiskárny nepřijímá nastavení oboustranného tisku z jiných programů, proto platí jeho vlastní nastavení. Změňte ho ve Vlastnosti…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Tento požadavek pochází z dokumentu, ne z PdfCraftu. Heslo zadejte, jen pokud tomuto dokumentu důvěřujete."
 
 msgid "this signature can't be removed on its own"
 msgstr "tento podpis nelze odstranit samostatně"

@@ -3413,7 +3413,7 @@ msgid "Document title is showing in title bar"
 msgstr "כותרת המסמך מוצגת בשורת הכותרת"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "מסמך: {name}"
 
 msgid "Documents and view"
 msgstr "מסמכים ותצוגה"
@@ -12070,6 +12070,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "מסמך זה אינו מוגן בסיסמה"
 
+msgid "This document's script is asking"
+msgstr "הסקריפט של מסמך זה שואל"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "השרטוט חורג ממגבלת ההצמדה; נעשה שימוש בנתיבים הראשונים בלבד."
 
@@ -12210,6 +12213,9 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "מנהל ההתקן של מדפסת זו אינו מקבל הגדרות דו־צדדיות מתוכנות אחרות, ולכן חלה ההגדרה שלו. ניתן לשנות אותה במאפיינים…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "בקשה זו מגיעה מהמסמך, לא מ-PdfCraft. הזינו סיסמה רק אם אתם סומכים על מסמך זה."
 
 msgid "this signature can't be removed on its own"
 msgstr ""

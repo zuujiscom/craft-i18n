@@ -12065,6 +12065,9 @@ msgstr "Tämä asiakirja ei ole vielä missään kansiossa: tallenna se ensin"
 msgid "This document isn't password-protected"
 msgstr "Tätä asiakirjaa ei ole suojattu salasanalla"
 
+msgid "This document's script is asking"
+msgstr "Tämän asiakirjan skripti kysyy"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Tämä piirustus ylittää tartunnan rajan; vain ensimmäiset polut käytetään."
 
@@ -12205,6 +12208,9 @@ msgstr "Tämä tulostin tulostaa vain yksipuolisesti."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Tämän tulostimen ohjain ei hyväksy kaksipuolisuusasetuksia muilta ohjelmilta, joten sen oma asetus on voimassa. Muuta sitä kohdassa Ominaisuudet…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Tämä pyyntö tulee asiakirjasta, ei PdfCraftista. Kirjoita salasana vain, jos luotat tähän asiakirjaan."
 
 msgid "this signature can't be removed on its own"
 msgstr "tätä allekirjoitusta ei voi poistaa yksinään"

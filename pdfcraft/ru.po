@@ -3413,7 +3413,7 @@ msgid "Document title is showing in title bar"
 msgstr "Название документа отображается в заголовке окна"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Документ: {name}"
 
 msgid "Documents and view"
 msgstr "Документы и вид"
@@ -12070,6 +12070,9 @@ msgstr "Этот документ ещё не находится в папке: 
 msgid "This document isn't password-protected"
 msgstr "Этот документ не защищён паролем"
 
+msgid "This document's script is asking"
+msgstr "Скрипт этого документа спрашивает"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Этот чертеж превышает предел привязки; используются только первые контуры."
 
@@ -12210,6 +12213,9 @@ msgstr "Этот принтер печатает только на одной с
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Драйвер этого принтера не принимает настройки двусторонней печати от других программ, поэтому действует его собственная настройка. Измените её в окне Свойства…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Этот запрос исходит от документа, а не от PdfCraft. Вводите пароль, только если доверяете этому документу."
 
 msgid "this signature can't be removed on its own"
 msgstr "эту подпись нельзя удалить отдельно"

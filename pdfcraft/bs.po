@@ -3413,7 +3413,7 @@ msgid "Document title is showing in title bar"
 msgstr "Naslov dokumenta se prikazuje u naslovnoj traci"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Dokument: {name}"
 
 msgid "Documents and view"
 msgstr "Dokumenti i prikaz"
@@ -12070,6 +12070,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "Ovaj dokument nije zaštićen lozinkom"
 
+msgid "This document's script is asking"
+msgstr "Skripta ovog dokumenta pita"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Ovaj crtež premašuje ograničenje hvatanja; koriste se samo prve putanje."
 
@@ -12210,6 +12213,9 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Upravljački program ovog štampača ne prihvata postavke obostranog štampanja od drugih programa, pa važi njegova vlastita postavka. Promijenite je u Svojstva…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Ovaj zahtjev dolazi iz dokumenta, a ne iz PdfCrafta. Unesite lozinku samo ako vjerujete ovom dokumentu."
 
 msgid "this signature can't be removed on its own"
 msgstr ""

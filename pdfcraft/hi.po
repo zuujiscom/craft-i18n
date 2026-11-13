@@ -3410,7 +3410,7 @@ msgid "Document title is showing in title bar"
 msgstr "दस्तावेज़ शीर्षक शीर्षक पट्टी में दिख रहा है"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "दस्तावेज़: {name}"
 
 msgid "Documents and view"
 msgstr "दस्तावेज़ और दृश्य"
@@ -12065,6 +12065,9 @@ msgstr "यह दस्तावेज़ अभी किसी फ़ोल�
 msgid "This document isn't password-protected"
 msgstr "यह दस्तावेज़ पासवर्ड-सुरक्षित नहीं है"
 
+msgid "This document's script is asking"
+msgstr "इस दस्तावेज़ की स्क्रिप्ट पूछ रही है"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "यह रेखाचित्र स्नैपिंग सीमा से बड़ा है; केवल पहले पथ ही उपयोग में आते हैं।"
 
@@ -12205,6 +12208,9 @@ msgstr "यह प्रिंटर केवल एक तरफ़ प्र�
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "इस प्रिंटर का ड्राइवर दूसरे प्रोग्रामों से दोतरफ़ा सेटिंग नहीं लेता, इसलिए उसकी अपनी सेटिंग लागू रहती है। इसे “गुण…” में बदलें।…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "यह अनुरोध दस्तावेज़ से आया है, PdfCraft से नहीं। पासवर्ड तभी दर्ज करें जब आपको इस दस्तावेज़ पर भरोसा हो।"
 
 msgid "this signature can't be removed on its own"
 msgstr "इस हस्ताक्षर को अकेले नहीं हटाया जा सकता"

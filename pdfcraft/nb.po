@@ -3410,7 +3410,7 @@ msgid "Document title is showing in title bar"
 msgstr "Dokumenttittelen vises i tittellinjen"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Dokument: {name}"
 
 msgid "Documents and view"
 msgstr "Dokumenter og visning"
@@ -12065,6 +12065,9 @@ msgstr "Dette dokumentet ligger ikke i en mappe ennå: lagre det først"
 msgid "This document isn't password-protected"
 msgstr "Dette dokumentet er ikke passordbeskyttet"
 
+msgid "This document's script is asking"
+msgstr "Skriptet i dette dokumentet spør"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Denne tegningen overskrider festegrensen; bare de første banene brukes."
 
@@ -12205,6 +12208,9 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Driveren til denne skriveren tar ikke imot tosidig-innstillinger fra andre programmer, så dens egen innstilling gjelder. Endre den under Egenskaper…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Denne forespørselen kommer fra dokumentet, ikke fra PdfCraft. Skriv bare inn et passord hvis du stoler på dette dokumentet."
 
 msgid "this signature can't be removed on its own"
 msgstr "denne signaturen kan ikke fjernes alene"

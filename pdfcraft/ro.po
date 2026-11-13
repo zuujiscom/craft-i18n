@@ -12070,6 +12070,9 @@ msgstr "Acest document nu este încă într-un folder: salvați-l mai întâi"
 msgid "This document isn't password-protected"
 msgstr "Acest document nu este protejat cu parolă"
 
+msgid "This document's script is asking"
+msgstr "Scriptul acestui document întreabă"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Acest desen depășește limita de aliniere; se folosesc doar primele trasee."
 
@@ -12210,6 +12213,9 @@ msgstr "Această imprimantă tipărește doar pe o singură față."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Driverul acestei imprimante nu preia setările față-verso de la alte programe, așa că se aplică setarea proprie. Schimbați-o în Proprietăți…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Această solicitare vine de la document, nu de la PdfCraft. Introduceți o parolă doar dacă aveți încredere în acest document."
 
 msgid "this signature can't be removed on its own"
 msgstr "această semnătură nu poate fi eliminată separat"

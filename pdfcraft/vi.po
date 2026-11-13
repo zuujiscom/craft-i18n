@@ -12060,6 +12060,9 @@ msgstr "Tài liệu này chưa nằm trong thư mục nào: hãy lưu trước"
 msgid "This document isn't password-protected"
 msgstr "Tài liệu này không được bảo vệ bằng mật khẩu"
 
+msgid "This document's script is asking"
+msgstr "Tập lệnh của tài liệu này đang hỏi"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Bản vẽ này vượt quá giới hạn bắt dính; chỉ các đường đầu tiên được sử dụng."
 
@@ -12200,6 +12203,9 @@ msgstr "Máy in này chỉ in một mặt."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Trình điều khiển của máy in này không nhận cài đặt in hai mặt từ các chương trình khác, nên cài đặt riêng của nó được áp dụng. Hãy thay đổi trong Thuộc tính…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Yêu cầu này đến từ tài liệu, không phải từ PdfCraft. Chỉ nhập mật khẩu nếu bạn tin cậy tài liệu này."
 
 msgid "this signature can't be removed on its own"
 msgstr "không thể gỡ riêng chữ ký này"

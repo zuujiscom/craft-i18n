@@ -3410,7 +3410,7 @@ msgid "Document title is showing in title bar"
 msgstr "De documenttitel staat in de titelbalk"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Document: {name}"
 
 msgid "Documents and view"
 msgstr "Documenten en weergave"
@@ -12065,6 +12065,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "Dit document is niet met een wachtwoord beveiligd"
 
+msgid "This document's script is asking"
+msgstr "Het script van dit document vraagt"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Deze tekening overschrijdt de limiet voor vastklikken; alleen de eerste paden worden gebruikt."
 
@@ -12205,6 +12208,9 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Het stuurprogramma van deze printer neemt dubbelzijdige instellingen niet over van andere programma's, dus de eigen instelling geldt. Wijzig die in Eigenschappen…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Dit verzoek komt van het document, niet van PdfCraft. Voer alleen een wachtwoord in als u dit document vertrouwt."
 
 msgid "this signature can't be removed on its own"
 msgstr ""

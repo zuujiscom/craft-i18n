@@ -12070,6 +12070,9 @@ msgstr "Šis dokuments vēl nav mapē: vispirms saglabājiet to"
 msgid "This document isn't password-protected"
 msgstr "Šis dokuments nav aizsargāts ar paroli"
 
+msgid "This document's script is asking"
+msgstr "Šī dokumenta skripts jautā"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Šis zīmējums pārsniedz piesaistes ierobežojumu; tiek izmantoti tikai pirmie ceļi."
 
@@ -12210,6 +12213,9 @@ msgstr "Šis printeris drukā tikai vienpusēji."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Šī printera draiveris nepieņem abpusējās drukas iestatījumus no citām programmām, tāpēc tiek lietots tā paša iestatījums. Mainiet to sadaļā Rekvizīti…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Šis pieprasījums nāk no dokumenta, nevis no PdfCraft. Ievadiet paroli tikai tad, ja uzticaties šim dokumentam."
 
 msgid "this signature can't be removed on its own"
 msgstr "šo parakstu nevar noņemt atsevišķi"

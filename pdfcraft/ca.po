@@ -12065,6 +12065,9 @@ msgstr "Aquest document encara no és en cap carpeta: deseu-lo primer"
 msgid "This document isn't password-protected"
 msgstr "Aquest document no està protegit amb contrasenya"
 
+msgid "This document's script is asking"
+msgstr "L'script d'aquest document pregunta"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Aquest dibuix supera el límit d'ajust; només s'utilitzen els primers traçats."
 
@@ -12205,6 +12208,9 @@ msgstr "Aquesta impressora només imprimeix a una cara."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "El controlador d'aquesta impressora no accepta la configuració de doble cara d'altres programes, de manera que s'aplica la seva pròpia configuració. Canvia-la a Propietats…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Aquesta sol·licitud prové del document, no de PdfCraft. Introduïu una contrasenya només si confieu en aquest document."
 
 msgid "this signature can't be removed on its own"
 msgstr "aquesta signatura no es pot eliminar tota sola"

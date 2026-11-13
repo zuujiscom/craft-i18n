@@ -12070,6 +12070,9 @@ msgstr "Šis dokumentas dar nėra jokiame aplanke: pirmiausia jį įrašykite"
 msgid "This document isn't password-protected"
 msgstr "Šis dokumentas neapsaugotas slaptažodžiu"
 
+msgid "This document's script is asking"
+msgstr "Šio dokumento scenarijus klausia"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Brėžinys viršija pritraukimo ribą; naudojami tik pirmieji keliai."
 
@@ -12210,6 +12213,9 @@ msgstr "Šis spausdintuvas spausdina tik vienoje pusėje."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Šio spausdintuvo tvarkyklė neperima dvipusio spausdinimo nuostatų iš kitų programų, todėl taikoma jos nuostata. Pakeiskite ją skiltyje „Savybės“…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Ši užklausa gauta iš dokumento, o ne iš PdfCraft. Slaptažodį įveskite tik tada, jei pasitikite šiuo dokumentu."
 
 msgid "this signature can't be removed on its own"
 msgstr "šio parašo negalima pašalinti atskirai"

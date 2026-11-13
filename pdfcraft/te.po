@@ -3410,7 +3410,7 @@ msgid "Document title is showing in title bar"
 msgstr "టైటిల్ బార్‌లో పత్రం శీర్షిక కనిపిస్తోంది"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "పత్రం: {name}"
 
 msgid "Documents and view"
 msgstr "పత్రాలు, వీక్షణ"
@@ -12065,6 +12065,9 @@ msgstr "ఈ పత్రం ఇంకా ఏ ఫోల్డర్‌లోన�
 msgid "This document isn't password-protected"
 msgstr "ఈ పత్రం పాస్‌వర్డ్‌తో రక్షించబడలేదు"
 
+msgid "This document's script is asking"
+msgstr "ఈ పత్రం యొక్క స్క్రిప్ట్ అడుగుతోంది"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "ఈ డ్రాయింగ్ స్నాపింగ్ పరిమితిని మించిపోయింది; మొదటి పాత్‌లు మాత్రమే ఉపయోగించబడతాయి."
 
@@ -12205,6 +12208,9 @@ msgstr "ఈ ప్రింటర్ ఒకవైపు మాత్రమే �
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr ""
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "ఈ అభ్యర్థన PdfCraft నుండి కాదు, పత్రం నుండి వస్తోంది. ఈ పత్రాన్ని మీరు నమ్మితేనే పాస్‌వర్డ్ నమోదు చేయండి."
 
 msgid "this signature can't be removed on its own"
 msgstr "ఈ సంతకాన్ని ఒక్కదాన్నే తొలగించలేము"

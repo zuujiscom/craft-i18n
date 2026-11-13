@@ -3410,7 +3410,7 @@ msgid "Document title is showing in title bar"
 msgstr "ஆவணத் தலைப்பு தலைப்புப் பட்டையில் காட்டப்படுகிறது"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "ஆவணம்: {name}"
 
 msgid "Documents and view"
 msgstr "ஆவணங்களும் காட்சியும்"
@@ -12065,6 +12065,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "இந்த ஆவணம் கடவுச்சொல்லால் பாதுகாக்கப்படவில்லை"
 
+msgid "This document's script is asking"
+msgstr "இந்த ஆவணத்தின் ஸ்கிரிப்ட் கேட்கிறது"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "இந்த வரைபடம் ஒட்டுதல் வரம்பை மீறுகிறது; முதல் சில பாதைகள் மட்டுமே பயன்படுத்தப்படுகின்றன."
 
@@ -12205,6 +12208,9 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "இந்த அச்சுப்பொறியின் இயக்கி பிற நிரல்களிலிருந்து இருபக்க அமைப்புகளை ஏற்காது, எனவே அதன் சொந்த அமைப்பு பொருந்தும். அதைப் பண்புகளில் மாற்றவும்…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "இந்தக் கோரிக்கை PdfCraft-இலிருந்து அல்ல, ஆவணத்திலிருந்து வருகிறது. இந்த ஆவணத்தை நம்பினால் மட்டுமே கடவுச்சொல்லை உள்ளிடவும்."
 
 msgid "this signature can't be removed on its own"
 msgstr ""

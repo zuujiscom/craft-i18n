@@ -3410,7 +3410,7 @@ msgid "Document title is showing in title bar"
 msgstr "დოკუმენტის სათაური სათაურის ზოლში ჩანს"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "დოკუმენტი: {name}"
 
 msgid "Documents and view"
 msgstr "დოკუმენტები და ხედი"
@@ -12065,6 +12065,9 @@ msgstr ""
 msgid "This document isn't password-protected"
 msgstr "ეს დოკუმენტი პაროლით დაცული არ არის"
 
+msgid "This document's script is asking"
+msgstr "ამ დოკუმენტის სკრიპტი გეკითხებათ"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "ეს ნახაზი მიბმის ლიმიტს აღემატება; გამოიყენება მხოლოდ პირველი კონტურები."
 
@@ -12205,6 +12208,9 @@ msgstr ""
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "ამ პრინტერის დრაივერი ორმხრივი ბეჭდვის პარამეტრებს სხვა პროგრამებიდან არ იღებს, ამიტომ მისი საკუთარი პარამეტრი მოქმედებს. შეცვალეთ ის აქ: თვისებები…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "ეს მოთხოვნა დოკუმენტიდან მოდის და არა PdfCraft-იდან. პაროლი შეიყვანეთ მხოლოდ იმ შემთხვევაში, თუ ამ დოკუმენტს ენდობით."
 
 msgid "this signature can't be removed on its own"
 msgstr ""

@@ -3407,7 +3407,7 @@ msgid "Document title is showing in title bar"
 msgstr "Judul dokumen tampil di bilah judul"
 
 msgid "Document: {name}"
-msgstr ""
+msgstr "Dokumen: {name}"
 
 msgid "Documents and view"
 msgstr "Dokumen dan tampilan"
@@ -12060,6 +12060,9 @@ msgstr "Dokumen ini belum ada di folder: simpan dulu"
 msgid "This document isn't password-protected"
 msgstr "Dokumen ini tidak terlindungi kata sandi"
 
+msgid "This document's script is asking"
+msgstr "Skrip dokumen ini bertanya"
+
 msgid "This drawing exceeds the snapping limit; only the first paths are used."
 msgstr "Gambar ini melampaui batas tempelan; hanya jalur pertama yang dipakai."
 
@@ -12200,6 +12203,9 @@ msgstr "Printer ini hanya mencetak satu sisi."
 
 msgid "This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…"
 msgstr "Driver printer ini tidak mengambil pengaturan cetak dua sisi dari program lain, jadi pengaturan miliknya yang berlaku. Ubah di Properti…"
+
+msgid "This request comes from the document, not PdfCraft. Only enter a password if you trust this document."
+msgstr "Permintaan ini berasal dari dokumen, bukan dari PdfCraft. Masukkan kata sandi hanya jika Anda memercayai dokumen ini."
 
 msgid "this signature can't be removed on its own"
 msgstr "tanda tangan ini tidak dapat dihapus sendiri"
