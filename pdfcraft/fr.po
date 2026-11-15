@@ -137,7 +137,7 @@ msgid "; cancelled — {n} files were not run"
 msgstr "; annulé — {n} fichiers n'ont pas été traités"
 
 msgid "; converted to {level}, but not everything complies yet ({first}); see Apply PDF standards ▸ Save as PDF/A"
-msgstr "; converti en {level}, mais tout n'est pas encore conforme ({first}) ; voir Appliquer les normes PDF ▸ Enregistrer au format PDF/A"
+msgstr "; converti en {level}, mais tout n'est pas encore conforme ({first}) ; voir Appliquer les normes PDF > Enregistrer au format PDF/A"
 
 msgid "; corrected {n} pages"
 msgstr "; {n} pages corrigées"
@@ -146,7 +146,7 @@ msgid "; failed: {list}"
 msgstr "; échecs : {list}"
 
 msgid "; not PDF/A yet: {list} (open them in Apply PDF standards ▸ Save as PDF/A)"
-msgstr "; pas encore PDF/A : {list} (ouvrez-les dans Appliquer les normes PDF ▸ Enregistrer au format PDF/A)"
+msgstr "; pas encore PDF/A : {list} (ouvrez-les dans Appliquer les normes PDF > Enregistrer au format PDF/A)"
 
 msgid "; not saved as {level}: {why}"
 msgstr "; non enregistré en tant que {level} : {why}"
@@ -3683,7 +3683,7 @@ msgid "Each set is a text file in"
 msgstr "Chaque jeu est un fichier texte dans"
 
 msgid "Each set is a text file in the guide-set folder (Preferences ▸ Units and guides ▸ Open folder). Edit it in any text editor, send it to others, or drop theirs into the folder, then click Reload. Distances are measured from the edge you name, so a set fits other page sizes."
-msgstr "Chaque jeu est un fichier texte dans le dossier des jeux de repères (Préférences ▸ Unités et repères ▸ Ouvrir le dossier). Modifiez-le dans n'importe quel éditeur de texte, envoyez-le à d'autres, ou déposez les leurs dans le dossier, puis cliquez sur Recharger. Les distances sont mesurées à partir du bord que vous indiquez, de sorte qu'un jeu s'adapte à d'autres formats de page."
+msgstr "Chaque jeu est un fichier texte dans le dossier des jeux de repères (Préférences > Unités et repères > Ouvrir le dossier). Modifiez-le dans n'importe quel éditeur de texte, envoyez-le à d'autres, ou déposez les leurs dans le dossier, puis cliquez sur Recharger. Les distances sont mesurées à partir du bord que vous indiquez, de sorte qu'un jeu s'adapte à d'autres formats de page."
 
 msgid "Earlier in calculation order"
 msgstr "Plus tôt dans l'ordre de calcul"
@@ -6728,7 +6728,7 @@ msgid "No saved sets yet"
 msgstr "Aucun jeu enregistré pour le moment"
 
 msgid "No saved sets yet. Right-click a ruler ▸ Save guides as a set…, or put a set file in the folder."
-msgstr "Aucun jeu enregistré pour le moment. Faites un clic droit sur une règle ▸ Enregistrer les repères en tant que jeu…, ou placez un fichier de jeu dans le dossier."
+msgstr "Aucun jeu enregistré pour le moment. Faites un clic droit sur une règle > Enregistrer les repères en tant que jeu…, ou placez un fichier de jeu dans le dossier."
 
 msgid "No scanned pages were cleaned up."
 msgstr "Aucune page numérisée n'a été nettoyée."
@@ -8977,7 +8977,7 @@ msgid "Right-click a guide for a colour, Properties… (colour, thickness, label
 msgstr "Faites un clic droit sur un repère pour une couleur, Propriétés… (couleur, épaisseur, étiquette, toutes les pages) et Supprimer. Un double-clic ouvre aussi Propriétés."
 
 msgid "Right-click a ruler ▸ Save guides as a set… keeps the guides, the unit and, if you like, the grid under a name and a shortcut. {first} … {last} shows and hides a set over any document; Edit in document turns it back into guides you can move."
-msgstr "Clic droit sur une règle ▸ Enregistrer les repères en tant que jeu… conserve les repères, l'unité et, si vous le souhaitez, la grille sous un nom et un raccourci. {first} … {last} affiche et masque un jeu sur n'importe quel document ; Modifier dans le document le retransforme en repères déplaçables."
+msgstr "Clic droit sur une règle > Enregistrer les repères en tant que jeu… conserve les repères, l'unité et, si vous le souhaitez, la grille sous un nom et un raccourci. {first} … {last} affiche et masque un jeu sur n'importe quel document ; Modifier dans le document le retransforme en repères déplaçables."
 
 msgid "Right-to-left page order"
 msgstr "Ordre des pages de droite à gauche"
@@ -10360,7 +10360,7 @@ msgid "Spacing between copies"
 msgstr "Espacement entre les copies"
 
 msgid "Spacing, offset, subdivisions, colour and thickness are in Preferences ▸ Units and guides."
-msgstr "L'espacement, le décalage, les subdivisions, la couleur et l'épaisseur se trouvent dans Préférences ▸ Unités et repères."
+msgstr "L'espacement, le décalage, les subdivisions, la couleur et l'épaisseur se trouvent dans Préférences > Unités et repères."
 
 msgid "spans two paragraphs"
 msgstr "s'étend sur deux paragraphes"
@@ -12883,13 +12883,13 @@ msgid "View signed version"
 msgstr "Voir la version signée"
 
 msgid "View ▸ Grid ({grid}) draws a grid over the pages; View ▸ Snap to grid ({snap}) makes a dragged guide snap to it."
-msgstr "Affichage ▸ Grille ({grid}) dessine une grille sur les pages ; Affichage ▸ Accrocher à la grille ({snap}) accroche à la grille le repère que l'on fait glisser."
+msgstr "Affichage > Grille ({grid}) dessine une grille sur les pages ; Affichage > Accrocher à la grille ({snap}) accroche à la grille le repère que l'on fait glisser."
 
 msgid "View ▸ Guides ({guides}) hides and shows them; View ▸ Clear guides removes this document's guides. Guides are never saved in the PDF."
-msgstr "Affichage ▸ Repères ({guides}) les masque ou les affiche ; Affichage ▸ Effacer les repères supprime les repères de ce document. Les repères ne sont jamais enregistrés dans le PDF."
+msgstr "Affichage > Repères ({guides}) les masque ou les affiche ; Affichage > Effacer les repères supprime les repères de ce document. Les repères ne sont jamais enregistrés dans le PDF."
 
 msgid "View ▸ Rulers ({rulers}) shows a ruler above and beside the pages. Click the corner between them to step to the next unit, or right-click a ruler to choose one."
-msgstr "Affichage ▸ Règles ({rulers}) affiche une règle au-dessus et à côté des pages. Cliquez sur l'angle entre elles pour passer à l'unité suivante, ou faites un clic droit sur une règle pour en choisir une."
+msgstr "Affichage > Règles ({rulers}) affiche une règle au-dessus et à côté des pages. Cliquez sur l'angle entre elles pour passer à l'unité suivante, ou faites un clic droit sur une règle pour en choisir une."
 
 msgid "Viewing"
 msgstr "Affichage"
