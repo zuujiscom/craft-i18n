@@ -132,6 +132,9 @@ msgstr "O secvență numerotată (figuri, tabele…)"
 msgid "A password is required to open this document."
 msgstr "Pentru a deschide acest document este necesară o parolă."
 
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
 msgid "A table of contents"
 msgstr "Un cuprins"
 
@@ -521,6 +524,9 @@ msgstr "Oricine deschide documentul va avea nevoie de această parolă."
 
 msgid "APA"
 msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
 
 msgid "Apply as you type"
 msgstr "Aplicați pe măsură ce scrieți"
@@ -2027,6 +2033,9 @@ msgstr "Comunitatea Discord"
 msgid "Display for Review"
 msgstr "Afișare pentru revizuire"
 
+msgid "Display server:"
+msgstr ""
+
 msgid "Display text"
 msgstr "Text afișat"
 
@@ -2359,6 +2368,9 @@ msgstr "Conector în unghi"
 
 msgid "Emphasis"
 msgstr "Accentuare"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "Matrice goale"
@@ -2713,6 +2725,9 @@ msgstr "Fixare poziție pe pagină"
 
 msgid "Fixed Column Width"
 msgstr "Lățime fixă a coloanei"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3234,6 +3249,9 @@ msgstr "Dacă…Atunci…Altfel"
 msgid "If…Then…Else…"
 msgstr "Dacă…Atunci…Altfel…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "Ignorați semnele de punctuație"
 
@@ -3573,6 +3591,9 @@ msgstr "Intersecție cu limită inferioară"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Intersecție cu limite în indice și exponent"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Funcția cosecantă inversă"
 
@@ -3647,6 +3668,9 @@ msgstr "Se pare că scrieți o scrisoare. Doriți un plic pentru ea sau un șabl
 
 msgid "Italy"
 msgstr "Italia"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "Dicționarul ei nu a putut fi citit: {reason}"
@@ -3724,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4030,6 +4057,9 @@ msgstr "Linkuri și referințe"
 msgid "Link…"
 msgstr "Link…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "Definiție listă"
 
@@ -4275,6 +4305,9 @@ msgstr "Margini în oglindă"
 
 msgid "Mirrored"
 msgstr "În oglindă"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team și contribuitorii WordCraft."
@@ -4921,6 +4954,9 @@ msgstr "Deschideți un fișier cu propriul browser al WordCraft când dialogul d
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "Text OpenDocument (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "Se deschide dialogul de imprimare…"
@@ -6140,6 +6176,9 @@ msgstr "selectați mai întâi o casetă de text"
 msgid "select a text box linked to another first"
 msgstr "selectați mai întâi o casetă de text legată de alta"
 
+msgid "Select Canvas Member"
+msgstr ""
+
 msgid "Select Cell"
 msgstr "Selectare celulă"
 
@@ -6296,6 +6335,9 @@ msgstr "Setare formatare paragraf"
 msgid "Set Proofing Language…"
 msgstr "Setare limbă de verificare…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "Setare:"
 
@@ -6304,6 +6346,9 @@ msgstr "Umbrire"
 
 msgid "Shadow, glow and soft edges"
 msgstr "Umbră, strălucire și margini estompate"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "Umplere formă"
@@ -6466,6 +6511,9 @@ msgstr "Afișare\ncomentarii"
 
 msgid "Showing the first {count} items."
 msgstr "Se afișează primele {count} elemente."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Afișează un arbore: fiecare element sub elementul căruia îi aparține."
@@ -6796,6 +6844,12 @@ msgstr "Stat"
 
 msgid "Statement   5.50\" × 8.50\""
 msgstr "Statement   5,50\" × 8,50\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
 
 msgid "Still there? I can hear you thinking."
 msgstr "Mai sunteți acolo? Vă aud gândind."
@@ -7983,6 +8037,9 @@ msgstr "An"
 msgid "Yields"
 msgstr "Rezultă"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Nu ați mai salvat de ceva vreme, iar Salvarea automată este dezactivată. Salvați acum?"
 
@@ -8038,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "Vor fi îmbinați {count} din {total} destinatari."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

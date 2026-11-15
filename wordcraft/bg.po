@@ -132,6 +132,9 @@ msgstr "Номерирана последователност (фигури, т�
 msgid "A password is required to open this document."
 msgstr "За отваряне на този документ е необходима парола."
 
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
 msgid "A table of contents"
 msgstr "Съдържание"
 
@@ -521,6 +524,9 @@ msgstr "Всеки, който отваря документа, ще се нуж
 
 msgid "APA"
 msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
 
 msgid "Apply as you type"
 msgstr "Прилагане при въвеждане"
@@ -2027,6 +2033,9 @@ msgstr "Общност в Discord"
 msgid "Display for Review"
 msgstr "Показване за преглед"
 
+msgid "Display server:"
+msgstr ""
+
 msgid "Display text"
 msgstr "Показван текст"
 
@@ -2359,6 +2368,9 @@ msgstr "Начупен съединител"
 
 msgid "Emphasis"
 msgstr "Акцент"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "Празни матрици"
@@ -2713,6 +2725,9 @@ msgstr "Фиксирана позиция на страницата"
 
 msgid "Fixed Column Width"
 msgstr "Фиксирана ширина на колоните"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3234,6 +3249,9 @@ msgstr "Ако…Тогава…Иначе"
 msgid "If…Then…Else…"
 msgstr "Ако…Тогава…Иначе…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "Пренебрегване на пунктуационните знаци"
 
@@ -3573,6 +3591,9 @@ msgstr "Сечение с долна граница"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Сечение с граници като индекси"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Функция аркускосеканс"
 
@@ -3647,6 +3668,9 @@ msgstr "Изглежда, че пишете писмо. Да подготвя л
 
 msgid "Italy"
 msgstr "Италия"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "Речникът му не можа да бъде прочетен: {reason}"
@@ -3724,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4030,6 +4057,9 @@ msgstr "Връзки и препратки"
 msgid "Link…"
 msgstr "Връзка…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "Дефиниция на списък"
 
@@ -4275,6 +4305,9 @@ msgstr "Огледални полета"
 
 msgid "Mirrored"
 msgstr "Огледални"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. Авторско право (c) 2026 ArtCraft Team и сътрудниците на WordCraft."
@@ -4921,6 +4954,9 @@ msgstr "Отваряне на файл чрез собствения брауз�
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "OpenDocument текст (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "Отваряне на диалоговия прозорец за печат…"
@@ -6140,6 +6176,9 @@ msgstr "първо изберете текстово поле"
 msgid "select a text box linked to another first"
 msgstr "първо изберете текстово поле, свързано с друго"
 
+msgid "Select Canvas Member"
+msgstr ""
+
 msgid "Select Cell"
 msgstr "Избиране на клетка"
 
@@ -6296,6 +6335,9 @@ msgstr "Задаване на форматиране на абзаца"
 msgid "Set Proofing Language…"
 msgstr "Задаване на езика за проверка…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "Настройка:"
 
@@ -6304,6 +6346,9 @@ msgstr "Засенчване"
 
 msgid "Shadow, glow and soft edges"
 msgstr "Сянка, сияние и меки ръбове"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "Запълване на фигура"
@@ -6466,6 +6511,9 @@ msgstr "Показване на\nкоментарите"
 
 msgid "Showing the first {count} items."
 msgstr "Показани са първите {count} елемента."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Показва дърво: всеки елемент е под елемента, към който принадлежи."
@@ -6795,6 +6843,12 @@ msgid "State"
 msgstr "Област"
 
 msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
 msgstr ""
 
 msgid "Still there? I can hear you thinking."
@@ -7983,6 +8037,9 @@ msgstr "Година"
 msgid "Yields"
 msgstr "Води до"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Отдавна не сте запазвали, а автоматичното запазване е изключено. Да запазя ли сега?"
 
@@ -8038,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "Ще бъдат обединени {count} от {total} получатели."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

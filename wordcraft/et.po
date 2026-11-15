@@ -132,6 +132,9 @@ msgstr "Nummerdatud jada (joonised, tabelid…)"
 msgid "A password is required to open this document."
 msgstr "Selle dokumendi avamiseks on vaja parooli."
 
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
 msgid "A table of contents"
 msgstr "Sisukord"
 
@@ -520,6 +523,9 @@ msgid "Anyone who opens the document will need this password."
 msgstr "Igaüks, kes dokumendi avab, vajab seda parooli."
 
 msgid "APA"
+msgstr ""
+
+msgid "Applies the next time WordCraft starts."
 msgstr ""
 
 msgid "Apply as you type"
@@ -2027,6 +2033,9 @@ msgstr "Discordi kogukond"
 msgid "Display for Review"
 msgstr "Kuva läbivaatuseks"
 
+msgid "Display server:"
+msgstr ""
+
 msgid "Display text"
 msgstr "Kuvatav tekst"
 
@@ -2359,6 +2368,9 @@ msgstr "Nurgeline ühendusjoon"
 
 msgid "Emphasis"
 msgstr "Rõhutus"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr ""
@@ -2713,6 +2725,9 @@ msgstr "Fikseeri asukoht lehel"
 
 msgid "Fixed Column Width"
 msgstr "Fikseeritud veerulaius"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3234,6 +3249,9 @@ msgstr "Kui…Siis…Muidu"
 msgid "If…Then…Else…"
 msgstr "Kui…Siis…Muidu…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "Eira kirjavahemärke"
 
@@ -3573,6 +3591,9 @@ msgstr ""
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr ""
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr ""
 
@@ -3647,6 +3668,9 @@ msgstr "Paistab, et kirjutad kirja. Kas soovid sellele ümbrikku või kirjamalli
 
 msgid "Italy"
 msgstr "Itaalia"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "Selle sõnastikku ei saanud lugeda: {reason}"
@@ -3724,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4030,6 +4057,9 @@ msgstr "Lingid ja viited"
 msgid "Link…"
 msgstr "Link…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "Loendi määratlus"
 
@@ -4275,6 +4305,9 @@ msgstr "Peegelveerised"
 
 msgid "Mirrored"
 msgstr "Peegeldatud"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. Autoriõigus (c) 2026 ArtCrafti meeskond ja WordCrafti kaasautorid."
@@ -4921,6 +4954,9 @@ msgstr "Ava fail WordCrafti enda failisirvijaga, kui süsteemi failidialoog ei i
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "OpenDocumenti tekst (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "Prindidialoogi avamine…"
@@ -6140,6 +6176,9 @@ msgstr "valige esmalt tekstiväli"
 msgid "select a text box linked to another first"
 msgstr "valige esmalt teisega lingitud tekstiväli"
 
+msgid "Select Canvas Member"
+msgstr ""
+
 msgid "Select Cell"
 msgstr "Vali lahter"
 
@@ -6296,6 +6335,9 @@ msgstr "Määra lõiguvormindus"
 msgid "Set Proofing Language…"
 msgstr "Määra õigekeelsuskontrolli keel…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "Säte:"
 
@@ -6304,6 +6346,9 @@ msgstr "Taustavärv"
 
 msgid "Shadow, glow and soft edges"
 msgstr "Vari, kuma ja pehmed servad"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "Kujundi täide"
@@ -6466,6 +6511,9 @@ msgstr "Kuva\nkommentaarid"
 
 msgid "Showing the first {count} items."
 msgstr "Kuvatud on ainult esimesed kirjed: {count}."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Näitab puud: iga üksus on selle üksuse all, kuhu see kuulub."
@@ -6795,6 +6843,12 @@ msgid "State"
 msgstr "Maakond või osariik"
 
 msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
 msgstr ""
 
 msgid "Still there? I can hear you thinking."
@@ -7983,6 +8037,9 @@ msgstr "Aasta"
 msgid "Yields"
 msgstr ""
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Sa pole ammu salvestanud ja Automaatsalvestus on välja lülitatud. Kas salvestada kohe?"
 
@@ -8038,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "Ühendatavaid adressaate: {count} / {total}."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

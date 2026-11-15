@@ -132,6 +132,9 @@ msgstr "Нумерована послідовність (рисунки, таб�
 msgid "A password is required to open this document."
 msgstr "Щоб відкрити цей документ, потрібен пароль."
 
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
 msgid "A table of contents"
 msgstr "Зміст"
 
@@ -520,6 +523,9 @@ msgid "Anyone who opens the document will need this password."
 msgstr "Кожному, хто відкриватиме документ, знадобиться цей пароль."
 
 msgid "APA"
+msgstr ""
+
+msgid "Applies the next time WordCraft starts."
 msgstr ""
 
 msgid "Apply as you type"
@@ -2027,6 +2033,9 @@ msgstr "Спільнота Discord"
 msgid "Display for Review"
 msgstr "Відображення для рецензування"
 
+msgid "Display server:"
+msgstr ""
+
 msgid "Display text"
 msgstr "Текст для показу"
 
@@ -2358,6 +2367,9 @@ msgid "Elbow Connector"
 msgstr "Ламаний з'єднувач"
 
 msgid "Emphasis"
+msgstr ""
+
+msgid "Emphasis Mark"
 msgstr ""
 
 msgid "Empty Matrices"
@@ -2713,6 +2725,9 @@ msgstr "Зафіксувати положення на сторінці"
 
 msgid "Fixed Column Width"
 msgstr "Фіксована ширина стовпця"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3234,6 +3249,9 @@ msgstr "Якщо…То…Інакше"
 msgid "If…Then…Else…"
 msgstr "Якщо…То…Інакше…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "Ігнорувати розділові знаки"
 
@@ -3573,6 +3591,9 @@ msgstr ""
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr ""
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr ""
 
@@ -3647,6 +3668,9 @@ msgstr "Схоже, ви пишете лист. Підготувати для н
 
 msgid "Italy"
 msgstr "Італія"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "Не вдалося прочитати його словник: {reason}"
@@ -3724,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4030,6 +4057,9 @@ msgstr "Зв'язки й посилання"
 msgid "Link…"
 msgstr "Посилання…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "Визначення списку"
 
@@ -4275,6 +4305,9 @@ msgstr "Дзеркальні поля"
 
 msgid "Mirrored"
 msgstr "Дзеркальні"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. Авторські права (c) 2026 команди ArtCraft і учасників WordCraft."
@@ -4921,6 +4954,9 @@ msgstr "Відкрити файл власним оглядачем WordCraft, �
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "Текст OpenDocument (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "Відкриття діалогу друку…"
@@ -6140,6 +6176,9 @@ msgstr "спочатку виділіть текстове поле"
 msgid "select a text box linked to another first"
 msgstr "спочатку виділіть текстове поле, зв’язане з іншим"
 
+msgid "Select Canvas Member"
+msgstr ""
+
 msgid "Select Cell"
 msgstr "Виділити клітинку"
 
@@ -6296,6 +6335,9 @@ msgstr "Установити форматування абзацу"
 msgid "Set Proofing Language…"
 msgstr "Вибрати мову перевірки правопису…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "Тип:"
 
@@ -6304,6 +6346,9 @@ msgstr "Заливка"
 
 msgid "Shadow, glow and soft edges"
 msgstr "Тінь, світіння та м'які краї"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "Заливка фігури"
@@ -6466,6 +6511,9 @@ msgstr "Показати\nкоментарі"
 
 msgid "Showing the first {count} items."
 msgstr "Показано лише перші елементи: {count}."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Показує дерево: кожен елемент під елементом, до якого він належить."
@@ -6795,6 +6843,12 @@ msgid "State"
 msgstr "Область"
 
 msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
 msgstr ""
 
 msgid "Still there? I can hear you thinking."
@@ -7983,6 +8037,9 @@ msgstr "Рік"
 msgid "Yields"
 msgstr ""
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Ви давно не зберігали, а автозбереження вимкнено. Зберегти зараз?"
 
@@ -8038,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "Одержувачів для злиття: {count} з {total}."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

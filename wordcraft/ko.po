@@ -132,6 +132,9 @@ msgstr "그림, 표 등에 붙이는 번호 매기기 시퀀스"
 msgid "A password is required to open this document."
 msgstr "문서를 열려면 암호가 필요합니다."
 
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
 msgid "A table of contents"
 msgstr "목차"
 
@@ -520,6 +523,9 @@ msgid "Anyone who opens the document will need this password."
 msgstr "문서를 여는 사람은 누구나 이 암호가 필요합니다."
 
 msgid "APA"
+msgstr ""
+
+msgid "Applies the next time WordCraft starts."
 msgstr ""
 
 msgid "Apply as you type"
@@ -2027,6 +2033,9 @@ msgstr "Discord 커뮤니티"
 msgid "Display for Review"
 msgstr "검토용 표시"
 
+msgid "Display server:"
+msgstr ""
+
 msgid "Display text"
 msgstr "표시 텍스트"
 
@@ -2359,6 +2368,9 @@ msgstr "꺾은선 연결선"
 
 msgid "Emphasis"
 msgstr "강조"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "빈 행렬"
@@ -2713,6 +2725,9 @@ msgstr "페이지에서 위치 고정"
 
 msgid "Fixed Column Width"
 msgstr "고정 열 너비"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3234,6 +3249,9 @@ msgstr "조건문 (If…Then…Else)"
 msgid "If…Then…Else…"
 msgstr "조건문 (If…Then…Else…)…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "문장 부호 무시"
 
@@ -3573,6 +3591,9 @@ msgstr "교집합 (아래 한계 포함)"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "교집합 (아래·위 첨자 한계 포함)"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "역 코시컨트 함수"
 
@@ -3647,6 +3668,9 @@ msgstr "편지를 쓰시는 것 같네요. 봉투를 만들까요, 아니면 편
 
 msgid "Italy"
 msgstr "이탈리아"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "사전을 읽을 수 없습니다: {reason}"
@@ -3724,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4030,6 +4057,9 @@ msgstr "링크 및 참조"
 msgid "Link…"
 msgstr "링크…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "목록 정의"
 
@@ -4275,6 +4305,9 @@ msgstr "좌우 대칭 여백"
 
 msgid "Mirrored"
 msgstr "좌우 대칭"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
@@ -4921,6 +4954,9 @@ msgstr "시스템 파일 대화상자가 나타나지 않을 때 WordCraft의 �
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "OpenDocument Text (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "인쇄 대화 상자 여는 중…"
@@ -6140,6 +6176,9 @@ msgstr "먼저 텍스트 상자를 선택하세요"
 msgid "select a text box linked to another first"
 msgstr "먼저 다른 상자에 연결된 텍스트 상자를 선택하세요"
 
+msgid "Select Canvas Member"
+msgstr ""
+
 msgid "Select Cell"
 msgstr "셀 선택"
 
@@ -6296,6 +6335,9 @@ msgstr "단락 서식 설정"
 msgid "Set Proofing Language…"
 msgstr "맞춤법 언어 정하기…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "설정:"
 
@@ -6304,6 +6346,9 @@ msgstr "음영"
 
 msgid "Shadow, glow and soft edges"
 msgstr "그림자, 광채 및 부드러운 가장자리"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "도형 채우기"
@@ -6466,6 +6511,9 @@ msgstr "메모\n표시"
 
 msgid "Showing the first {count} items."
 msgstr "처음 {count}개 항목 표시 중"
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "항목 아래에 해당 항목의 하위 항목을 배치해 트리 구조로 표시합니다."
@@ -6795,6 +6843,12 @@ msgid "State"
 msgstr "주/도"
 
 msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
 msgstr ""
 
 msgid "Still there? I can hear you thinking."
@@ -7983,6 +8037,9 @@ msgstr "연도"
 msgid "Yields"
 msgstr "결과"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "한동안 저장하지 않으셨고 자동 저장도 꺼져 있어요. 지금 저장할까요?"
 
@@ -8038,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "받는 사람 {total} 명 중 {count} 명을 병합합니다."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

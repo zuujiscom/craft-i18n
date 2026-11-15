@@ -132,6 +132,9 @@ msgstr "編號序列（圖、表…）"
 msgid "A password is required to open this document."
 msgstr "開啟此文件需要密碼。"
 
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
 msgid "A table of contents"
 msgstr "目錄"
 
@@ -520,6 +523,9 @@ msgid "Anyone who opens the document will need this password."
 msgstr "開啟文件的任何人都需要此密碼。"
 
 msgid "APA"
+msgstr ""
+
+msgid "Applies the next time WordCraft starts."
 msgstr ""
 
 msgid "Apply as you type"
@@ -2027,6 +2033,9 @@ msgstr "Discord 社群"
 msgid "Display for Review"
 msgstr "顯示以供檢閱"
 
+msgid "Display server:"
+msgstr ""
+
 msgid "Display text"
 msgstr "顯示文字"
 
@@ -2358,6 +2367,9 @@ msgid "Elbow Connector"
 msgstr "肘形接點"
 
 msgid "Emphasis"
+msgstr ""
+
+msgid "Emphasis Mark"
 msgstr ""
 
 msgid "Empty Matrices"
@@ -2713,6 +2725,9 @@ msgstr "固定於頁面上的位置"
 
 msgid "Fixed Column Width"
 msgstr "固定欄寬"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3234,6 +3249,9 @@ msgstr "如果…則…否則"
 msgid "If…Then…Else…"
 msgstr "如果…則…否則…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "忽略標點符號"
 
@@ -3573,6 +3591,9 @@ msgstr ""
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr ""
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr ""
 
@@ -3647,6 +3668,9 @@ msgstr "看起來你在寫信。要為它加個信封，還是從信函範本開
 
 msgid "Italy"
 msgstr "義大利"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "無法讀取其字典：{reason}"
@@ -3724,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4030,6 +4057,9 @@ msgstr "連結和參照"
 msgid "Link…"
 msgstr "連結…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "清單定義"
 
@@ -4275,6 +4305,9 @@ msgstr "左右對稱邊界"
 
 msgid "Mirrored"
 msgstr "左右對稱"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0。著作權所有 (c) 2026 ArtCraft 團隊及 WordCraft 貢獻者。"
@@ -4921,6 +4954,9 @@ msgstr "當系統檔案對話方塊沒有出現時，使用 WordCraft 內建的�
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "OpenDocument 文字 (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "正在開啟列印對話方塊…"
@@ -6140,6 +6176,9 @@ msgstr "請先選取文字方塊"
 msgid "select a text box linked to another first"
 msgstr "請先選取已連結到另一個文字方塊的文字方塊"
 
+msgid "Select Canvas Member"
+msgstr ""
+
 msgid "Select Cell"
 msgstr "選取儲存格"
 
@@ -6296,6 +6335,9 @@ msgstr "設定段落格式"
 msgid "Set Proofing Language…"
 msgstr "設定校訂語言…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "設定："
 
@@ -6304,6 +6346,9 @@ msgstr "網底"
 
 msgid "Shadow, glow and soft edges"
 msgstr "陰影、光暈和柔化邊緣"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "圖案填滿"
@@ -6466,6 +6511,9 @@ msgstr "顯示註解"
 
 msgid "Showing the first {count} items."
 msgstr "僅顯示前 {count} 個項目。"
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "顯示樹狀結構：每個項目位於其所屬項目的下方。"
@@ -6795,6 +6843,12 @@ msgid "State"
 msgstr "省/州"
 
 msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
 msgstr ""
 
 msgid "Still there? I can hear you thinking."
@@ -7983,6 +8037,9 @@ msgstr "年份"
 msgid "Yields"
 msgstr ""
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "你已經有一陣子沒儲存了，而且自動儲存已關閉。現在儲存嗎？"
 
@@ -8038,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "將合併 {total} 位收件者中的 {count} 位。"
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

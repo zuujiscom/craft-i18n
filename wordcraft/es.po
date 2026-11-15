@@ -132,6 +132,9 @@ msgstr "Una secuencia numerada (figuras, tablas…)"
 msgid "A password is required to open this document."
 msgstr "Se necesita una contraseña para abrir este documento."
 
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
 msgid "A table of contents"
 msgstr "Una tabla de contenido"
 
@@ -520,6 +523,9 @@ msgid "Anyone who opens the document will need this password."
 msgstr "Quien abra el documento necesitará esta contraseña."
 
 msgid "APA"
+msgstr ""
+
+msgid "Applies the next time WordCraft starts."
 msgstr ""
 
 msgid "Apply as you type"
@@ -2027,6 +2033,9 @@ msgstr "Comunidad de Discord"
 msgid "Display for Review"
 msgstr "Mostrar para revisión"
 
+msgid "Display server:"
+msgstr ""
+
 msgid "Display text"
 msgstr "Texto mostrado"
 
@@ -2359,6 +2368,9 @@ msgstr "Conector angular"
 
 msgid "Emphasis"
 msgstr "Énfasis"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "Matrices vacías"
@@ -2713,6 +2725,9 @@ msgstr "Fijar posición en la página"
 
 msgid "Fixed Column Width"
 msgstr "Ancho de columna fijo"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3234,6 +3249,9 @@ msgstr "Si…Entonces…Si no"
 msgid "If…Then…Else…"
 msgstr "Si…Entonces…Si no…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "Omitir signos de puntuación"
 
@@ -3573,6 +3591,9 @@ msgstr "Intersección con límite inferior"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Intersección con límites en subíndice y superíndice"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Función cosecante inversa"
 
@@ -3647,6 +3668,9 @@ msgstr "Parece que estás escribiendo una carta. ¿Quieres un sobre para ella o 
 
 msgid "Italy"
 msgstr "Italia"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "No se pudo leer su diccionario: {reason}"
@@ -3724,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4030,6 +4057,9 @@ msgstr "Vínculos y referencias"
 msgid "Link…"
 msgstr "Vínculo…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "Definición de lista"
 
@@ -4275,6 +4305,9 @@ msgstr "Márgenes simétricos"
 
 msgid "Mirrored"
 msgstr "Reflejado"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT o Apache-2.0. Copyright (c) 2026 ArtCraft Team y los colaboradores de WordCraft."
@@ -4921,6 +4954,9 @@ msgstr "Abre un archivo con el explorador propio de WordCraft cuando no aparece 
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "Texto de OpenDocument (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "Abriendo el cuadro de diálogo de impresión…"
@@ -6140,6 +6176,9 @@ msgstr "seleccione primero un cuadro de texto"
 msgid "select a text box linked to another first"
 msgstr "seleccione primero un cuadro de texto vinculado a otro"
 
+msgid "Select Canvas Member"
+msgstr ""
+
 msgid "Select Cell"
 msgstr "Seleccionar celda"
 
@@ -6296,6 +6335,9 @@ msgstr "Establecer formato de párrafo"
 msgid "Set Proofing Language…"
 msgstr "Establecer idioma de revisión…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "Valor:"
 
@@ -6304,6 +6346,9 @@ msgstr "Sombreado"
 
 msgid "Shadow, glow and soft edges"
 msgstr "Sombra, resplandor y bordes suaves"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "Relleno de forma"
@@ -6466,6 +6511,9 @@ msgstr "Mostrar\ncomentarios"
 
 msgid "Showing the first {count} items."
 msgstr "Se muestran los primeros {count} elementos."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Muestra un árbol: cada elemento debajo del elemento al que pertenece."
@@ -6795,6 +6843,12 @@ msgid "State"
 msgstr "Estado o provincia"
 
 msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
 msgstr ""
 
 msgid "Still there? I can hear you thinking."
@@ -7983,6 +8037,9 @@ msgstr "Año"
 msgid "Yields"
 msgstr "Produce"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Hace rato que no guardas y el autoguardado está desactivado. ¿Guardar ahora?"
 
@@ -8038,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "Se combinarán {count} de {total} destinatarios."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

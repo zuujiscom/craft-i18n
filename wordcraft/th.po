@@ -132,6 +132,9 @@ msgstr ""
 msgid "A password is required to open this document."
 msgstr ""
 
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
 msgid "A table of contents"
 msgstr ""
 
@@ -520,6 +523,9 @@ msgid "Anyone who opens the document will need this password."
 msgstr ""
 
 msgid "APA"
+msgstr ""
+
+msgid "Applies the next time WordCraft starts."
 msgstr ""
 
 msgid "Apply as you type"
@@ -2027,6 +2033,9 @@ msgstr ""
 msgid "Display for Review"
 msgstr ""
 
+msgid "Display server:"
+msgstr ""
+
 msgid "Display text"
 msgstr ""
 
@@ -2358,6 +2367,9 @@ msgid "Elbow Connector"
 msgstr ""
 
 msgid "Emphasis"
+msgstr ""
+
+msgid "Emphasis Mark"
 msgstr ""
 
 msgid "Empty Matrices"
@@ -2712,6 +2724,9 @@ msgid "Fix Position on Page"
 msgstr ""
 
 msgid "Fixed Column Width"
+msgstr ""
+
+msgid "Flat OpenDocument Text (*.fodt)"
 msgstr ""
 
 msgid "Float"
@@ -3234,6 +3249,9 @@ msgstr ""
 msgid "If…Then…Else…"
 msgstr ""
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr ""
 
@@ -3573,6 +3591,9 @@ msgstr ""
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr ""
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr ""
 
@@ -3646,6 +3667,9 @@ msgid "It looks like you're writing a letter. Want an envelope for it, or a lett
 msgstr ""
 
 msgid "Italy"
+msgstr ""
+
+msgid "Item Color"
 msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
@@ -3724,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4030,6 +4057,9 @@ msgstr ""
 msgid "Link…"
 msgstr ""
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr ""
 
@@ -4274,6 +4304,9 @@ msgid "Mirror margins"
 msgstr ""
 
 msgid "Mirrored"
+msgstr ""
+
+msgid "Missing Fonts"
 msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
@@ -4920,6 +4953,9 @@ msgid "Open a file with WordCraft's own browser when the system file dialog does
 msgstr ""
 
 msgid "OpenDocument Text (*.odt)"
+msgstr ""
+
+msgid "OpenDocument Text Template (*.ott)"
 msgstr ""
 
 msgid "Opening print dialog…"
@@ -6140,6 +6176,9 @@ msgstr ""
 msgid "select a text box linked to another first"
 msgstr ""
 
+msgid "Select Canvas Member"
+msgstr ""
+
 msgid "Select Cell"
 msgstr ""
 
@@ -6296,6 +6335,9 @@ msgstr ""
 msgid "Set Proofing Language…"
 msgstr ""
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr ""
 
@@ -6303,6 +6345,9 @@ msgid "Shading"
 msgstr ""
 
 msgid "Shadow, glow and soft edges"
+msgstr ""
+
+msgid "Shape color"
 msgstr ""
 
 msgid "Shape Fill"
@@ -6465,6 +6510,9 @@ msgid "Show\nComments"
 msgstr ""
 
 msgid "Showing the first {count} items."
+msgstr ""
+
+msgid "Shown in substitute fonts. Click for details."
 msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
@@ -6795,6 +6843,12 @@ msgid "State"
 msgstr ""
 
 msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
 msgstr ""
 
 msgid "Still there? I can hear you thinking."
@@ -7983,6 +8037,9 @@ msgstr ""
 msgid "Yields"
 msgstr ""
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr ""
 
@@ -8038,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr ""
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

@@ -132,6 +132,9 @@ msgstr "Numurēta secība (attēli, tabulas…)"
 msgid "A password is required to open this document."
 msgstr "Lai atvērtu šo dokumentu, nepieciešama parole."
 
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
 msgid "A table of contents"
 msgstr "Satura rādītājs"
 
@@ -521,6 +524,9 @@ msgstr "Ikvienam, kas atver dokumentu, būs vajadzīga šī parole."
 
 msgid "APA"
 msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
 
 msgid "Apply as you type"
 msgstr "Lietot rakstīšanas laikā"
@@ -2027,6 +2033,9 @@ msgstr "Discord kopiena"
 msgid "Display for Review"
 msgstr "Rādījums pārskatīšanai"
 
+msgid "Display server:"
+msgstr ""
+
 msgid "Display text"
 msgstr "Parādāmais teksts"
 
@@ -2359,6 +2368,9 @@ msgstr "Lauzts savienotājs"
 
 msgid "Emphasis"
 msgstr "Uzsvars"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "Tukšas matricas"
@@ -2713,6 +2725,9 @@ msgstr "Fiksēt novietojumu lapā"
 
 msgid "Fixed Column Width"
 msgstr "Fiksēts kolonnas platums"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr "Peldošs"
@@ -3234,6 +3249,9 @@ msgstr "Ja…Tad…Citādi"
 msgid "If…Then…Else…"
 msgstr "Ja…Tad…Citādi…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "Ignorēt pieturzīmes"
 
@@ -3573,6 +3591,9 @@ msgstr "Šķēlums ar apakšējo robežu"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Šķēlums ar apakšraksta un augšraksta robežām"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Apgrieztā kosekanta funkcija"
 
@@ -3647,6 +3668,9 @@ msgstr "Izskatās, ka rakstāt vēstuli. Vai vēlaties tai aploksni vai vēstule
 
 msgid "Italy"
 msgstr "Itālija"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "Tās vārdnīcu neizdevās nolasīt: {reason}"
@@ -3724,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4030,6 +4057,9 @@ msgstr "Saites un atsauces"
 msgid "Link…"
 msgstr "Saite…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "Saraksta definīcija"
 
@@ -4275,6 +4305,9 @@ msgstr "Spoguļot piemales"
 
 msgid "Mirrored"
 msgstr "Spoguļots"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. Autortiesības (c) 2026 ArtCraft Team un WordCraft līdzdalībnieki."
@@ -4921,6 +4954,9 @@ msgstr "Atvērt failu ar WordCraft pārlūku, ja sistēmas failu dialoglodziņš
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "OpenDocument teksts (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "Atver drukas dialoglodziņu…"
@@ -6140,6 +6176,9 @@ msgstr "vispirms atlasiet teksta lodziņu"
 msgid "select a text box linked to another first"
 msgstr "vispirms atlasiet teksta lodziņu, kas saistīts ar citu"
 
+msgid "Select Canvas Member"
+msgstr ""
+
 msgid "Select Cell"
 msgstr "Atlasīt šūnu"
 
@@ -6296,6 +6335,9 @@ msgstr "Iestatīt rindkopas formatējumu"
 msgid "Set Proofing Language…"
 msgstr "Iestatīt korektūras valodu…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "Iestatījums:"
 
@@ -6304,6 +6346,9 @@ msgstr "Ēnojums"
 
 msgid "Shadow, glow and soft edges"
 msgstr "Ēna, mirdzums un mīkstas malas"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "Figūras aizpildījums"
@@ -6466,6 +6511,9 @@ msgstr "Rādīt\nkomentārus"
 
 msgid "Showing the first {count} items."
 msgstr "Rādīti pirmie {count} vienumi."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Rāda koku: katrs vienums zem tā, kam tas pieder."
@@ -6796,6 +6844,12 @@ msgstr "Štats"
 
 msgid "Statement   5.50\" × 8.50\""
 msgstr "Statement   5.50\" × 8.50\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
 
 msgid "Still there? I can hear you thinking."
 msgstr "Vēl tur? Es dzirdu, kā jūs domājat."
@@ -7983,6 +8037,9 @@ msgstr "Gads"
 msgid "Yields"
 msgstr "Rezultāts"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Sen neesat saglabājis, un automātiskā saglabāšana ir izslēgta. Vai saglabāt tagad?"
 
@@ -8039,6 +8096,9 @@ msgstr "Tiks sapludināti {count} no {total} adresātiem."
 
 msgid "{field}, record {n}"
 msgstr "{field}, ieraksts {n}"
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
 
 msgid "{group} settings"
 msgstr "{group}: iestatījumi"

@@ -132,6 +132,9 @@ msgstr "Een genummerde reeks (figuren, tabellen…)"
 msgid "A password is required to open this document."
 msgstr "Er is een wachtwoord vereist om dit document te openen."
 
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
 msgid "A table of contents"
 msgstr "Een inhoudsopgave"
 
@@ -521,6 +524,9 @@ msgstr "Iedereen die het document opent, heeft dit wachtwoord nodig."
 
 msgid "APA"
 msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
 
 msgid "Apply as you type"
 msgstr "Toepassen tijdens het typen"
@@ -2027,6 +2033,9 @@ msgstr "Discord-community"
 msgid "Display for Review"
 msgstr "Weergave voor revisies"
 
+msgid "Display server:"
+msgstr ""
+
 msgid "Display text"
 msgstr "Weergavetekst"
 
@@ -2359,6 +2368,9 @@ msgstr "Hoekverbindingslijn"
 
 msgid "Emphasis"
 msgstr "Nadruk"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "Lege matrices"
@@ -2713,6 +2725,9 @@ msgstr "Positie op pagina vastzetten"
 
 msgid "Fixed Column Width"
 msgstr "Vaste kolombreedte"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3234,6 +3249,9 @@ msgstr "Als…Dan…Anders"
 msgid "If…Then…Else…"
 msgstr "Als…Dan…Anders…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "Leestekens negeren"
 
@@ -3573,6 +3591,9 @@ msgstr "Doorsnede met ondergrens"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Doorsnede met grenzen in subscript en superscript"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Inverse cosecansfunctie"
 
@@ -3647,6 +3668,9 @@ msgstr "Zo te zien schrijf je een brief. Wil je er een envelop bij, of een brief
 
 msgid "Italy"
 msgstr "Italië"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "Het woordenboek kon niet worden gelezen: {reason}"
@@ -3724,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4030,6 +4057,9 @@ msgstr "Koppelingen en verwijzingen"
 msgid "Link…"
 msgstr "Verwijzing…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "Lijstdefinitie"
 
@@ -4275,6 +4305,9 @@ msgstr "Marges spiegelen"
 
 msgid "Mirrored"
 msgstr "Gespiegeld"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team en de WordCraft-bijdragers."
@@ -4921,6 +4954,9 @@ msgstr "Een bestand openen met de eigen browser van WordCraft wanneer het systee
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "OpenDocument-tekst (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "Afdrukvenster wordt geopend…"
@@ -6140,6 +6176,9 @@ msgstr "selecteer eerst een tekstvak"
 msgid "select a text box linked to another first"
 msgstr "selecteer eerst een tekstvak dat aan een ander is gekoppeld"
 
+msgid "Select Canvas Member"
+msgstr ""
+
 msgid "Select Cell"
 msgstr "Cel selecteren"
 
@@ -6296,6 +6335,9 @@ msgstr "Alineaopmaak instellen"
 msgid "Set Proofing Language…"
 msgstr "Controleertaal instellen…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "Instelling:"
 
@@ -6304,6 +6346,9 @@ msgstr "Arcering"
 
 msgid "Shadow, glow and soft edges"
 msgstr "Schaduw, schijnsel en zachte randen"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "Vormopvulling"
@@ -6466,6 +6511,9 @@ msgstr "Opmerkingen\ntonen"
 
 msgid "Showing the first {count} items."
 msgstr "De eerste {count} items worden weergegeven."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Geeft een boomstructuur: elk item onder het item waartoe het behoort."
@@ -6795,6 +6843,12 @@ msgid "State"
 msgstr "Provincie"
 
 msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
 msgstr ""
 
 msgid "Still there? I can hear you thinking."
@@ -7983,6 +8037,9 @@ msgstr "Jaar"
 msgid "Yields"
 msgstr "Levert op"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Je hebt al een tijdje niet opgeslagen en Automatisch opslaan staat uit. Nu opslaan?"
 
@@ -8038,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "{count} van de {total} geadresseerden worden samengevoegd."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

@@ -132,6 +132,9 @@ msgstr "Numaralı bir dizi (şekiller, tablolar…)"
 msgid "A password is required to open this document."
 msgstr "Bu belgeyi açmak için parola gerekiyor."
 
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
 msgid "A table of contents"
 msgstr "Bir içindekiler tablosu"
 
@@ -520,6 +523,9 @@ msgid "Anyone who opens the document will need this password."
 msgstr "Belgeyi açmak isteyen herkesin bu parolaya ihtiyacı olacak."
 
 msgid "APA"
+msgstr ""
+
+msgid "Applies the next time WordCraft starts."
 msgstr ""
 
 msgid "Apply as you type"
@@ -2027,6 +2033,9 @@ msgstr "Discord topluluğu"
 msgid "Display for Review"
 msgstr "İnceleme Görünümü"
 
+msgid "Display server:"
+msgstr ""
+
 msgid "Display text"
 msgstr "Görünen metin"
 
@@ -2359,6 +2368,9 @@ msgstr "Dirsekli Bağlayıcı"
 
 msgid "Emphasis"
 msgstr "Vurgu"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "Boş Matrisler"
@@ -2713,6 +2725,9 @@ msgstr "Sayfadaki konumu sabitle"
 
 msgid "Fixed Column Width"
 msgstr "Sabit Sütun Genişliği"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3234,6 +3249,9 @@ msgstr "Eğer…O Zaman…Yoksa"
 msgid "If…Then…Else…"
 msgstr "Eğer…O Zaman…Yoksa…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "Noktalama karakterlerini yoksay"
 
@@ -3573,6 +3591,9 @@ msgstr "Alt Sınırlı Kesişim"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Alt ve Üst İndis Sınırlı Kesişim"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Ters Kosekant Fonksiyonu"
 
@@ -3647,6 +3668,9 @@ msgstr "Bir mektup yazıyorsunuz gibi görünüyor. Bunun için bir zarf mı ist
 
 msgid "Italy"
 msgstr "İtalya"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "Sözlüğü okunamadı: {reason}"
@@ -3724,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4030,6 +4057,9 @@ msgstr "Bağlantılar ve Başvurular"
 msgid "Link…"
 msgstr "Bağlantı…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "Liste Tanımı"
 
@@ -4275,6 +4305,9 @@ msgstr "Yansıtılmış kenar boşlukları"
 
 msgid "Mirrored"
 msgstr "Aynalı"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. Telif hakkı (c) 2026 ArtCraft ekibi ve WordCraft'a katkıda bulunanlar."
@@ -4921,6 +4954,9 @@ msgstr "Sistemin dosya iletişim kutusu açılmadığında dosyayı WordCraft'ı
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "OpenDocument Metni (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "Yazdırma iletişim kutusu açılıyor…"
@@ -6140,6 +6176,9 @@ msgstr "önce bir metin kutusu seçin"
 msgid "select a text box linked to another first"
 msgstr "önce başka bir kutuya bağlı bir metin kutusu seçin"
 
+msgid "Select Canvas Member"
+msgstr ""
+
 msgid "Select Cell"
 msgstr "Hücre Seç"
 
@@ -6296,6 +6335,9 @@ msgstr "Paragraf Biçimlendirmesini Ayarla"
 msgid "Set Proofing Language…"
 msgstr "Yazım denetimi dilini ayarla…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "Ayar:"
 
@@ -6304,6 +6346,9 @@ msgstr "Gölgelendirme"
 
 msgid "Shadow, glow and soft edges"
 msgstr "Gölge, parlama ve yumuşak kenarlar"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "Şekil Dolgusu"
@@ -6466,6 +6511,9 @@ msgstr "Yorumları\nGöster"
 
 msgid "Showing the first {count} items."
 msgstr "İlk {count} öğe gösteriliyor."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Bir ağaç gösterir: her öğe ait olduğu öğenin altındadır."
@@ -6795,6 +6843,12 @@ msgid "State"
 msgstr "İl/Eyalet"
 
 msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
 msgstr ""
 
 msgid "Still there? I can hear you thinking."
@@ -7983,6 +8037,9 @@ msgstr "Yıl"
 msgid "Yields"
 msgstr "Sonuç"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Bir süredir kaydetmediniz ve Otomatik Kaydet kapalı. Şimdi kaydedilsin mi?"
 
@@ -8038,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "Birleştirilecek alıcılar: {count} / {total}."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

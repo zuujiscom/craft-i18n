@@ -132,6 +132,9 @@ msgstr "Нумерисани низ (слике, табеле…)"
 msgid "A password is required to open this document."
 msgstr "За отварање овог документа потребна је лозинка."
 
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
 msgid "A table of contents"
 msgstr "Садржај"
 
@@ -520,6 +523,9 @@ msgid "Anyone who opens the document will need this password."
 msgstr "Свакоме ко отвори документ биће потребна ова лозинка."
 
 msgid "APA"
+msgstr ""
+
+msgid "Applies the next time WordCraft starts."
 msgstr ""
 
 msgid "Apply as you type"
@@ -2027,6 +2033,9 @@ msgstr "Заједница на Discord-у"
 msgid "Display for Review"
 msgstr "Приказ за преглед"
 
+msgid "Display server:"
+msgstr ""
+
 msgid "Display text"
 msgstr "Приказани текст"
 
@@ -2358,6 +2367,9 @@ msgid "Elbow Connector"
 msgstr "Угаони конектор"
 
 msgid "Emphasis"
+msgstr ""
+
+msgid "Emphasis Mark"
 msgstr ""
 
 msgid "Empty Matrices"
@@ -2713,6 +2725,9 @@ msgstr "Фиксирај положај на страници"
 
 msgid "Fixed Column Width"
 msgstr "Фиксна ширина колоне"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3234,6 +3249,9 @@ msgstr "Ако…Онда…Иначе"
 msgid "If…Then…Else…"
 msgstr "Ако…Онда…Иначе…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "Занемари знаке интерпункције"
 
@@ -3573,6 +3591,9 @@ msgstr ""
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr ""
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr ""
 
@@ -3647,6 +3668,9 @@ msgstr "Изгледа да пишете писмо. Да ли вам треба
 
 msgid "Italy"
 msgstr "Италија"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "Његов речник није могао да се прочита: {reason}"
@@ -3724,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4030,6 +4057,9 @@ msgstr "Везе и референце"
 msgid "Link…"
 msgstr "Веза…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "Дефиниција листе"
 
@@ -4275,6 +4305,9 @@ msgstr "Пресликане маргине"
 
 msgid "Mirrored"
 msgstr "Зрцаљено"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. Ауторска права (c) 2026 ArtCraft Team и сарадници на WordCraft-у."
@@ -4921,6 +4954,9 @@ msgstr "Отворите датотеку помоћу WordCraft-овог пре
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "OpenDocument текст (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "Отвара се дијалог за штампу…"
@@ -6140,6 +6176,9 @@ msgstr "прво изаберите оквир за текст"
 msgid "select a text box linked to another first"
 msgstr "прво изаберите оквир за текст повезан са другим"
 
+msgid "Select Canvas Member"
+msgstr ""
+
 msgid "Select Cell"
 msgstr "Изабери ћелију"
 
@@ -6296,6 +6335,9 @@ msgstr "Постави форматирање пасуса"
 msgid "Set Proofing Language…"
 msgstr "Постави језик провере…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "Врста:"
 
@@ -6304,6 +6346,9 @@ msgstr "Сенчење"
 
 msgid "Shadow, glow and soft edges"
 msgstr "Сенка, сјај и меке ивице"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "Попуна облика"
@@ -6466,6 +6511,9 @@ msgstr "Прикажи\nкоментаре"
 
 msgid "Showing the first {count} items."
 msgstr "Приказане су само прве ставке: {count}."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Приказује стабло: свака ставка испод ставке којој припада."
@@ -6795,6 +6843,12 @@ msgid "State"
 msgstr "Држава/покрајина"
 
 msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
 msgstr ""
 
 msgid "Still there? I can hear you thinking."
@@ -7983,6 +8037,9 @@ msgstr "Година"
 msgid "Yields"
 msgstr ""
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Дуго нисте сачували, а аутоматско чување је искључено. Сачувати сада?"
 
@@ -8038,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "Прималаца за спајање: {count} од {total}."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"
