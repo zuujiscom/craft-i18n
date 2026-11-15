@@ -3822,7 +3822,7 @@ msgstr "Ferramenta Zoom"
 
 msgctxt "unit"
 msgid "{n} B"
-msgstr ""
+msgstr "{n} B"
 
 msgctxt "@plural"
 msgid "{n} byte"
@@ -3841,11 +3841,11 @@ msgstr "{n} arquivos"
 
 msgctxt "unit"
 msgid "{n} GB"
-msgstr ""
+msgstr "{n} GB"
 
 msgctxt "unit"
 msgid "{n} GiB"
-msgstr ""
+msgstr "{n} GiB"
 
 msgid "{n} h ago"
 msgstr "há {n} h"
@@ -3858,11 +3858,11 @@ msgstr[1] "{n} itens"
 
 msgctxt "unit"
 msgid "{n} KB"
-msgstr ""
+msgstr "{n} KB"
 
 msgctxt "unit"
 msgid "{n} KiB"
-msgstr ""
+msgstr "{n} KiB"
 
 msgctxt "@plural"
 msgid "{n} Layer"
@@ -3872,11 +3872,11 @@ msgstr[1] "{n} Camadas"
 
 msgctxt "unit"
 msgid "{n} MB"
-msgstr ""
+msgstr "{n} MB"
 
 msgctxt "unit"
 msgid "{n} MiB"
-msgstr ""
+msgstr "{n} MiB"
 
 msgid "{n} min ago"
 msgstr "há {n} min"
@@ -3889,11 +3889,11 @@ msgstr[1] "{n} passos"
 
 msgctxt "unit"
 msgid "{n} TB"
-msgstr ""
+msgstr "{n} TB"
 
 msgctxt "unit"
 msgid "{n} TiB"
-msgstr ""
+msgstr "{n} TiB"
 
 msgid "−Bin"
 msgstr "−Bin"
