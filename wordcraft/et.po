@@ -562,6 +562,9 @@ msgstr "Argentina"
 msgid "Armenian"
 msgstr "armeenia"
 
+msgid "Arrange All"
+msgstr "Korralda kõik"
+
 msgid "Arrange\nAll"
 msgstr "Paiguta\nkõik"
 
@@ -4639,6 +4642,9 @@ msgstr "Selles versioonis pole mudelite autoriteavet."
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr "Muid WordCrafti aknaid pole avatud."
+
 msgid "No Outline"
 msgstr "Kontuurita"
 
@@ -4935,6 +4941,9 @@ msgstr ""
 
 msgid "Only the allowed styles can be applied."
 msgstr "Rakendada saab ainult lubatud laade."
+
+msgid "only the desktop app has several windows"
+msgstr ""
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "Avada saab ainult veebi- (http, https) ja e-posti (mailto) linke"
@@ -7005,16 +7014,19 @@ msgid "Switch Modes"
 msgstr "Vaheta režiimi"
 
 msgid "Switch Windows"
-msgstr ""
+msgstr "Vaheta akent"
 
 msgid "Switch\nModes"
 msgstr "Vaheta\nrežiimi"
 
 msgid "Switch\nWindows"
-msgstr ""
+msgstr "Vaheta\nakent"
 
 msgid "Switzerland"
 msgstr "Šveits"
+
+msgid "Synchronous Scrolling"
+msgstr "Sünkroonne kerimine"
 
 msgid "Synonyms"
 msgstr "Sünonüümid"
@@ -7579,6 +7591,9 @@ msgstr ""
 msgid "Turkish"
 msgstr "Türgi"
 
+msgid "turn on View Side by Side first"
+msgstr ""
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7844,6 +7859,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Kuva ruudujooned"
+
+msgid "View Side by Side"
+msgstr "Kuva kõrvuti"
 
 msgid "View State"
 msgstr "Vaate olek"

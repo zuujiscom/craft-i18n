@@ -562,6 +562,9 @@ msgstr "الأرجنتين"
 msgid "Armenian"
 msgstr "الأرمنية"
 
+msgid "Arrange All"
+msgstr ""
+
 msgid "Arrange\nAll"
 msgstr "ترتيب\nالكل"
 
@@ -4639,6 +4642,9 @@ msgstr "لم تُضمَّن بيانات النماذج في هذه النسخة
 msgid "No new sources in that file"
 msgstr "لا توجد مصادر جديدة في ذلك الملف"
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "بلا حد خارجي"
 
@@ -4935,6 +4941,9 @@ msgstr "يمكن تغيير الخصائص النصية فقط."
 
 msgid "Only the allowed styles can be applied."
 msgstr "يمكن تطبيق الأنماط المسموح بها فقط."
+
+msgid "only the desktop app has several windows"
+msgstr ""
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "يمكن فتح ارتباطات الويب (http، https) والبريد (mailto) فقط"
@@ -7016,6 +7025,9 @@ msgstr "تبديل\nالنوافذ"
 msgid "Switzerland"
 msgstr "سويسرا"
 
+msgid "Synchronous Scrolling"
+msgstr ""
+
 msgid "Synonyms"
 msgstr "المرادفات"
 
@@ -7579,6 +7591,9 @@ msgstr "Turabian"
 msgid "Turkish"
 msgstr "التركية"
 
+msgid "turn on View Side by Side first"
+msgstr ""
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7844,6 +7859,9 @@ msgstr "عرض الخصائص المخصصة للمستند وتحريرها."
 
 msgid "View Gridlines"
 msgstr "عرض خطوط الشبكة"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "حالة العرض"

@@ -562,6 +562,9 @@ msgstr "არგენტინა"
 msgid "Armenian"
 msgstr "სომხური"
 
+msgid "Arrange All"
+msgstr ""
+
 msgid "Arrange\nAll"
 msgstr "ყველას\nდალაგება"
 
@@ -4639,6 +4642,9 @@ msgstr "ამ ასლში მოდელების მონაცემ
 msgid "No new sources in that file"
 msgstr "იმ ფაილში ახალი წყაროები არ არის"
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "კონტურის გარეშე"
 
@@ -4935,6 +4941,9 @@ msgstr ""
 
 msgid "Only the allowed styles can be applied."
 msgstr "შესაძლებელია მხოლოდ დაშვებული სტილების გამოყენება."
+
+msgid "only the desktop app has several windows"
+msgstr ""
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "გადასვლა შესაძლებელია მხოლოდ ვებ (http, https) და ელფოსტის (mailto) ბმულებზე"
@@ -7016,6 +7025,9 @@ msgstr "ფანჯრების\nგადართვა"
 msgid "Switzerland"
 msgstr "შვეიცარია"
 
+msgid "Synchronous Scrolling"
+msgstr ""
+
 msgid "Synonyms"
 msgstr "სინონიმები"
 
@@ -7579,6 +7591,9 @@ msgstr "Turabian"
 msgid "Turkish"
 msgstr "თურქული"
 
+msgid "turn on View Side by Side first"
+msgstr ""
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7844,6 +7859,9 @@ msgstr "დოკუმენტის მორგებული თვის�
 
 msgid "View Gridlines"
 msgstr "ბადის ჩვენება"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "ხედის მდგომარეობა"

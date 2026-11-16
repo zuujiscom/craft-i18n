@@ -562,6 +562,9 @@ msgstr ""
 msgid "Armenian"
 msgstr ""
 
+msgid "Arrange All"
+msgstr ""
+
 msgid "Arrange\nAll"
 msgstr ""
 
@@ -4639,6 +4642,9 @@ msgstr ""
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr ""
 
@@ -4934,6 +4940,9 @@ msgid "Only text properties can be changed."
 msgstr ""
 
 msgid "Only the allowed styles can be applied."
+msgstr ""
+
+msgid "only the desktop app has several windows"
 msgstr ""
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
@@ -7016,6 +7025,9 @@ msgstr ""
 msgid "Switzerland"
 msgstr ""
 
+msgid "Synchronous Scrolling"
+msgstr ""
+
 msgid "Synonyms"
 msgstr ""
 
@@ -7579,6 +7591,9 @@ msgstr ""
 msgid "Turkish"
 msgstr ""
 
+msgid "turn on View Side by Side first"
+msgstr ""
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7843,6 +7858,9 @@ msgid "View and edit the document's custom properties."
 msgstr ""
 
 msgid "View Gridlines"
+msgstr ""
+
+msgid "View Side by Side"
 msgstr ""
 
 msgid "View State"

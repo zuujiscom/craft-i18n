@@ -562,6 +562,9 @@ msgstr "Argentina"
 msgid "Armenian"
 msgstr "armeniska"
 
+msgid "Arrange All"
+msgstr "Ordna alla"
+
 msgid "Arrange\nAll"
 msgstr "Ordna\nalla"
 
@@ -4639,6 +4642,9 @@ msgstr "Den här kopian innehåller inga uppgifter om medverkande AI-modeller."
 msgid "No new sources in that file"
 msgstr "Inga nya källor i den filen"
 
+msgid "No other WordCraft windows are open."
+msgstr "Inga andra WordCraft-fönster är öppna."
+
 msgid "No Outline"
 msgstr "Ingen kontur"
 
@@ -4935,6 +4941,9 @@ msgstr "Endast textegenskaper kan ändras."
 
 msgid "Only the allowed styles can be applied."
 msgstr "Bara de tillåtna stilarna kan användas."
+
+msgid "only the desktop app has several windows"
+msgstr "bara skrivbordsappen har flera fönster"
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "Bara webblänkar (http, https) och e-postlänkar (mailto) kan följas"
@@ -7016,6 +7025,9 @@ msgstr "Växla\nfönster"
 msgid "Switzerland"
 msgstr "Schweiz"
 
+msgid "Synchronous Scrolling"
+msgstr "Synkron rullning"
+
 msgid "Synonyms"
 msgstr "Synonymer"
 
@@ -7579,6 +7591,9 @@ msgstr "Turabian"
 msgid "Turkish"
 msgstr "Turkiska"
 
+msgid "turn on View Side by Side first"
+msgstr "aktivera Visa sida vid sida först"
+
 msgid "Turquoise"
 msgstr "Turkos"
 
@@ -7844,6 +7859,9 @@ msgstr "Visa och redigera dokumentets anpassade egenskaper."
 
 msgid "View Gridlines"
 msgstr "Visa stödlinjer"
+
+msgid "View Side by Side"
+msgstr "Visa sida vid sida"
 
 msgid "View State"
 msgstr "Visningstillstånd"

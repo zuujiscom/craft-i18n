@@ -562,6 +562,9 @@ msgstr "Argentina"
 msgid "Armenian"
 msgstr "Armeno"
 
+msgid "Arrange All"
+msgstr "Disponi tutto"
+
 msgid "Arrange\nAll"
 msgstr "Disponi\ntutto"
 
@@ -4639,6 +4642,9 @@ msgstr "Questa copia non include i crediti dei modelli."
 msgid "No new sources in that file"
 msgstr "Nessuna nuova fonte in quel file"
 
+msgid "No other WordCraft windows are open."
+msgstr "Nessun'altra finestra di WordCraft è aperta."
+
 msgid "No Outline"
 msgstr "Nessun contorno"
 
@@ -4935,6 +4941,9 @@ msgstr "Si possono modificare solo le proprietà di tipo testo."
 
 msgid "Only the allowed styles can be applied."
 msgstr "Si possono applicare solo gli stili consentiti."
+
+msgid "only the desktop app has several windows"
+msgstr "solo l'app desktop ha più finestre"
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "Si possono seguire solo collegamenti web (http, https) e di posta elettronica (mailto)"
@@ -7005,16 +7014,19 @@ msgid "Switch Modes"
 msgstr "Cambia modalità"
 
 msgid "Switch Windows"
-msgstr ""
+msgstr "Cambia finestra"
 
 msgid "Switch\nModes"
 msgstr "Cambia\nmodalità"
 
 msgid "Switch\nWindows"
-msgstr ""
+msgstr "Cambia\nfinestra"
 
 msgid "Switzerland"
 msgstr "Svizzera"
+
+msgid "Synchronous Scrolling"
+msgstr "Scorrimento sincrono"
 
 msgid "Synonyms"
 msgstr "Sinonimi"
@@ -7579,6 +7591,9 @@ msgstr "Turabian"
 msgid "Turkish"
 msgstr "Turco"
 
+msgid "turn on View Side by Side first"
+msgstr "attiva prima Visualizza affiancate"
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7844,6 +7859,9 @@ msgstr "Visualizza e modifica le proprietà personalizzate del documento."
 
 msgid "View Gridlines"
 msgstr "Visualizza griglia"
+
+msgid "View Side by Side"
+msgstr "Visualizza affiancate"
 
 msgid "View State"
 msgstr "Stato visualizzazione"

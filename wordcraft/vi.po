@@ -562,6 +562,9 @@ msgstr "Argentina"
 msgid "Armenian"
 msgstr "Tiếng Armenia"
 
+msgid "Arrange All"
+msgstr "Sắp xếp tất cả"
+
 msgid "Arrange\nAll"
 msgstr "Sắp xếp\ntất cả"
 
@@ -4639,6 +4642,9 @@ msgstr "Bản sao này không tích hợp sẵn thông tin ghi công mô hình."
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr "Không có cửa sổ WordCraft nào khác đang mở."
+
 msgid "No Outline"
 msgstr "Không viền"
 
@@ -4935,6 +4941,9 @@ msgstr ""
 
 msgid "Only the allowed styles can be applied."
 msgstr "Chỉ có thể áp dụng các kiểu được cho phép."
+
+msgid "only the desktop app has several windows"
+msgstr "chỉ ứng dụng máy tính mới có nhiều cửa sổ"
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "Chỉ mở được liên kết web (http, https) và email (mailto)"
@@ -7005,16 +7014,19 @@ msgid "Switch Modes"
 msgstr "Chuyển chế độ"
 
 msgid "Switch Windows"
-msgstr ""
+msgstr "Chuyển cửa sổ"
 
 msgid "Switch\nModes"
 msgstr "Chuyển\nchế độ"
 
 msgid "Switch\nWindows"
-msgstr ""
+msgstr "Chuyển\ncửa sổ"
 
 msgid "Switzerland"
 msgstr "Thụy Sĩ"
+
+msgid "Synchronous Scrolling"
+msgstr "Cuộn đồng bộ"
 
 msgid "Synonyms"
 msgstr "Từ đồng nghĩa"
@@ -7579,6 +7591,9 @@ msgstr "Turabian"
 msgid "Turkish"
 msgstr "Tiếng Thổ Nhĩ Kỳ"
 
+msgid "turn on View Side by Side first"
+msgstr "hãy bật Xem song song trước"
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7844,6 +7859,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Hiện đường lưới bảng"
+
+msgid "View Side by Side"
+msgstr "Xem song song"
 
 msgid "View State"
 msgstr "Trạng thái hiển thị"

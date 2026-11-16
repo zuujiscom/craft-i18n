@@ -562,6 +562,9 @@ msgstr "아르헨티나"
 msgid "Armenian"
 msgstr "아르메니아어"
 
+msgid "Arrange All"
+msgstr "모두 정렬"
+
 msgid "Arrange\nAll"
 msgstr "모두\n정렬"
 
@@ -4639,6 +4642,9 @@ msgstr "이 빌드에는 모델 크레딧이 포함되지 않았습니다."
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr "열려 있는 다른 WordCraft 창이 없습니다."
+
 msgid "No Outline"
 msgstr "윤곽선 없음"
 
@@ -4935,6 +4941,9 @@ msgstr ""
 
 msgid "Only the allowed styles can be applied."
 msgstr "허용된 스타일만 적용할 수 있습니다."
+
+msgid "only the desktop app has several windows"
+msgstr ""
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "웹(http, https) 및 이메일(mailto) 링크만 열 수 있습니다."
@@ -7005,16 +7014,19 @@ msgid "Switch Modes"
 msgstr "모드 전환"
 
 msgid "Switch Windows"
-msgstr ""
+msgstr "창 전환"
 
 msgid "Switch\nModes"
 msgstr "모드\n전환"
 
 msgid "Switch\nWindows"
-msgstr ""
+msgstr "창\n전환"
 
 msgid "Switzerland"
 msgstr "스위스"
+
+msgid "Synchronous Scrolling"
+msgstr "동기 스크롤"
 
 msgid "Synonyms"
 msgstr "유의어"
@@ -7579,6 +7591,9 @@ msgstr ""
 msgid "Turkish"
 msgstr "터키어"
 
+msgid "turn on View Side by Side first"
+msgstr ""
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7844,6 +7859,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "눈금선 표시"
+
+msgid "View Side by Side"
+msgstr "나란히 보기"
 
 msgid "View State"
 msgstr "보기 상태"

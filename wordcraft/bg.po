@@ -562,6 +562,9 @@ msgstr "Аржентина"
 msgid "Armenian"
 msgstr "арменски"
 
+msgid "Arrange All"
+msgstr "Подреди всички"
+
 msgid "Arrange\nAll"
 msgstr "Подреждане\nна всички"
 
@@ -4639,6 +4642,9 @@ msgstr "В това копие няма вградени сведения за �
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr "Няма други отворени прозорци на WordCraft."
+
 msgid "No Outline"
 msgstr "Без контур"
 
@@ -4935,6 +4941,9 @@ msgstr ""
 
 msgid "Only the allowed styles can be applied."
 msgstr "Могат да се прилагат само разрешените стилове."
+
+msgid "only the desktop app has several windows"
+msgstr "няколко прозореца има само в настолното приложение"
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "Могат да се отварят само уеб (http, https) и имейл (mailto) връзки"
@@ -7005,16 +7014,19 @@ msgid "Switch Modes"
 msgstr "Смяна на режима"
 
 msgid "Switch Windows"
-msgstr ""
+msgstr "Превключване на прозорци"
 
 msgid "Switch\nModes"
 msgstr "Смяна на\nрежима"
 
 msgid "Switch\nWindows"
-msgstr ""
+msgstr "Превключване\nна прозорци"
 
 msgid "Switzerland"
 msgstr "Швейцария"
+
+msgid "Synchronous Scrolling"
+msgstr "Синхронно превъртане"
 
 msgid "Synonyms"
 msgstr "Синоними"
@@ -7579,6 +7591,9 @@ msgstr "Turabian"
 msgid "Turkish"
 msgstr "Турски"
 
+msgid "turn on View Side by Side first"
+msgstr "първо включете Преглед един до друг"
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7844,6 +7859,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Показване на линиите на мрежата"
+
+msgid "View Side by Side"
+msgstr "Преглед един до друг"
 
 msgid "View State"
 msgstr "Състояние на изгледа"

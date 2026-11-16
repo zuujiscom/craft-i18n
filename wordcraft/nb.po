@@ -562,6 +562,9 @@ msgstr "Argentina"
 msgid "Armenian"
 msgstr "armensk"
 
+msgid "Arrange All"
+msgstr ""
+
 msgid "Arrange\nAll"
 msgstr "Ordne\nalle"
 
@@ -4639,6 +4642,9 @@ msgstr "Denne kopien ble bygget uten modellkreditteringer."
 msgid "No new sources in that file"
 msgstr "Ingen nye kilder i den filen"
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Uten omriss"
 
@@ -4935,6 +4941,9 @@ msgstr ""
 
 msgid "Only the allowed styles can be applied."
 msgstr "Bare de tillatte stilene kan brukes."
+
+msgid "only the desktop app has several windows"
+msgstr ""
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "Bare nettlenker (http, https) og e-postlenker (mailto) kan følges"
@@ -7016,6 +7025,9 @@ msgstr "Bytt\nvindu"
 msgid "Switzerland"
 msgstr "Sveits"
 
+msgid "Synchronous Scrolling"
+msgstr ""
+
 msgid "Synonyms"
 msgstr "Synonymer"
 
@@ -7579,6 +7591,9 @@ msgstr "Turabian"
 msgid "Turkish"
 msgstr "Tyrkisk"
 
+msgid "turn on View Side by Side first"
+msgstr ""
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7844,6 +7859,9 @@ msgstr "Vis og rediger dokumentets egendefinerte egenskaper."
 
 msgid "View Gridlines"
 msgstr "Vis rutenettlinjer"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Visningstilstand"

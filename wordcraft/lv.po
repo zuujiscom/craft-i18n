@@ -562,6 +562,9 @@ msgstr "Argentīna"
 msgid "Armenian"
 msgstr "Armēņu"
 
+msgid "Arrange All"
+msgstr ""
+
 msgid "Arrange\nAll"
 msgstr "Sakārtot\nvisu"
 
@@ -4639,6 +4642,9 @@ msgstr "Šajā kopijā nav iekļauta informācija par modeļu autoriem."
 msgid "No new sources in that file"
 msgstr "Šajā failā nav jaunu avotu"
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "Bez kontūras"
 
@@ -4935,6 +4941,9 @@ msgstr "Var mainīt tikai teksta rekvizītus."
 
 msgid "Only the allowed styles can be applied."
 msgstr "Var lietot tikai atļautos stilus."
+
+msgid "only the desktop app has several windows"
+msgstr ""
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "Var sekot tikai tīmekļa (http, https) un e-pasta (mailto) saitēm"
@@ -7016,6 +7025,9 @@ msgstr "Pārslēgt\nlogus"
 msgid "Switzerland"
 msgstr "Šveice"
 
+msgid "Synchronous Scrolling"
+msgstr ""
+
 msgid "Synonyms"
 msgstr "Sinonīmi"
 
@@ -7579,6 +7591,9 @@ msgstr "Turabian"
 msgid "Turkish"
 msgstr "Turku"
 
+msgid "turn on View Side by Side first"
+msgstr ""
+
 msgid "Turquoise"
 msgstr "Tirkīzs"
 
@@ -7844,6 +7859,9 @@ msgstr "Skatīt un rediģēt dokumenta pielāgotos rekvizītus."
 
 msgid "View Gridlines"
 msgstr "Skatīt režģa līnijas"
+
+msgid "View Side by Side"
+msgstr ""
 
 msgid "View State"
 msgstr "Skata stāvoklis"

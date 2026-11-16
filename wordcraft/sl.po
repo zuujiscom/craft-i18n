@@ -562,6 +562,9 @@ msgstr "Argentina"
 msgid "Armenian"
 msgstr "armenščina"
 
+msgid "Arrange All"
+msgstr "Razporedi vse"
+
 msgid "Arrange\nAll"
 msgstr "Razporedi\nvse"
 
@@ -4639,6 +4642,9 @@ msgstr "V to kopijo ni vgrajenih podatkov o modelih."
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr "Ni odprtih drugih oken WordCraft."
+
 msgid "No Outline"
 msgstr "Brez obrisa"
 
@@ -4935,6 +4941,9 @@ msgstr ""
 
 msgid "Only the allowed styles can be applied."
 msgstr "Uporabiti je mogoče samo dovoljene sloge."
+
+msgid "only the desktop app has several windows"
+msgstr "samo namizna aplikacija ima več oken"
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "Slediti je mogoče samo spletnim (http, https) in e-poštnim (mailto) povezavam"
@@ -7005,16 +7014,19 @@ msgid "Switch Modes"
 msgstr "Preklopi način"
 
 msgid "Switch Windows"
-msgstr ""
+msgstr "Preklopi okna"
 
 msgid "Switch\nModes"
 msgstr "Preklopi\nnačin"
 
 msgid "Switch\nWindows"
-msgstr ""
+msgstr "Preklopi\nokna"
 
 msgid "Switzerland"
 msgstr "Švica"
+
+msgid "Synchronous Scrolling"
+msgstr "Sinhrono pomikanje"
 
 msgid "Synonyms"
 msgstr "Sopomenke"
@@ -7579,6 +7591,9 @@ msgstr "Turabian"
 msgid "Turkish"
 msgstr "Turščina"
 
+msgid "turn on View Side by Side first"
+msgstr "najprej vklopi Ogled drug ob drugem"
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7844,6 +7859,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Pokaži mrežne črte"
+
+msgid "View Side by Side"
+msgstr "Ogled drug ob drugem"
 
 msgid "View State"
 msgstr "Stanje pogleda"

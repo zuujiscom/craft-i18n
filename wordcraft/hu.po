@@ -562,6 +562,9 @@ msgstr "Argentína"
 msgid "Armenian"
 msgstr "örmény"
 
+msgid "Arrange All"
+msgstr "Összes rendezése"
+
 msgid "Arrange\nAll"
 msgstr "Ablakok\nrendezése"
 
@@ -4639,6 +4642,9 @@ msgstr "Ebbe a példányba nem kerültek modell-közreműködői adatok."
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr "Nincs másik megnyitott WordCraft-ablak."
+
 msgid "No Outline"
 msgstr "Nincs körvonal"
 
@@ -4935,6 +4941,9 @@ msgstr ""
 
 msgid "Only the allowed styles can be applied."
 msgstr "Csak az engedélyezett stílusok alkalmazhatók."
+
+msgid "only the desktop app has several windows"
+msgstr "csak az asztali alkalmazásban van több ablak"
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "Csak webes (http, https) és e-mail (mailto) link nyitható meg"
@@ -7005,16 +7014,19 @@ msgid "Switch Modes"
 msgstr "Módváltás"
 
 msgid "Switch Windows"
-msgstr ""
+msgstr "Ablakváltás"
 
 msgid "Switch\nModes"
 msgstr "Módváltás"
 
 msgid "Switch\nWindows"
-msgstr ""
+msgstr "Ablak-\nváltás"
 
 msgid "Switzerland"
 msgstr "Svájc"
+
+msgid "Synchronous Scrolling"
+msgstr "Szinkron görgetés"
 
 msgid "Synonyms"
 msgstr "Szinonimák"
@@ -7579,6 +7591,9 @@ msgstr "Turabian"
 msgid "Turkish"
 msgstr "Török"
 
+msgid "turn on View Side by Side first"
+msgstr "előbb kapcsolja be az Egymás melletti nézetet"
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7844,6 +7859,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Rácsvonalak megjelenítése"
+
+msgid "View Side by Side"
+msgstr "Egymás melletti nézet"
 
 msgid "View State"
 msgstr "Nézet állapota"

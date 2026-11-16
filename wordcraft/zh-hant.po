@@ -562,6 +562,9 @@ msgstr "阿根廷"
 msgid "Armenian"
 msgstr "亞美尼亞文"
 
+msgid "Arrange All"
+msgstr "全部排列"
+
 msgid "Arrange\nAll"
 msgstr "全部排列"
 
@@ -4639,6 +4642,9 @@ msgstr "此版本未內建模型致謝資訊。"
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr "沒有其他開啟的 WordCraft 視窗。"
+
 msgid "No Outline"
 msgstr "無外框"
 
@@ -4935,6 +4941,9 @@ msgstr ""
 
 msgid "Only the allowed styles can be applied."
 msgstr "只能套用允許的樣式。"
+
+msgid "only the desktop app has several windows"
+msgstr ""
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "只能開啟網頁（http、https）和電子郵件（mailto）連結"
@@ -7005,16 +7014,19 @@ msgid "Switch Modes"
 msgstr "切換模式"
 
 msgid "Switch Windows"
-msgstr ""
+msgstr "切換視窗"
 
 msgid "Switch\nModes"
 msgstr "切換模式"
 
 msgid "Switch\nWindows"
-msgstr ""
+msgstr "切換\n視窗"
 
 msgid "Switzerland"
 msgstr "瑞士"
+
+msgid "Synchronous Scrolling"
+msgstr "同步捲動"
 
 msgid "Synonyms"
 msgstr "同義字"
@@ -7579,6 +7591,9 @@ msgstr ""
 msgid "Turkish"
 msgstr "土耳其文"
 
+msgid "turn on View Side by Side first"
+msgstr ""
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7844,6 +7859,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "檢視格線"
+
+msgid "View Side by Side"
+msgstr "並排檢視"
 
 msgid "View State"
 msgstr "檢視狀態"

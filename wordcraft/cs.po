@@ -562,6 +562,9 @@ msgstr "Argentina"
 msgid "Armenian"
 msgstr "arménština"
 
+msgid "Arrange All"
+msgstr "Uspořádat vše"
+
 msgid "Arrange\nAll"
 msgstr "Uspořádat\nvše"
 
@@ -4639,6 +4642,9 @@ msgstr "Tato kopie neobsahuje uvedení modelů."
 msgid "No new sources in that file"
 msgstr "V tom souboru nejsou žádné nové prameny"
 
+msgid "No other WordCraft windows are open."
+msgstr "Nejsou otevřena žádná další okna WordCraft."
+
 msgid "No Outline"
 msgstr "Bez obrysu"
 
@@ -4935,6 +4941,9 @@ msgstr ""
 
 msgid "Only the allowed styles can be applied."
 msgstr "Lze použít pouze povolené styly."
+
+msgid "only the desktop app has several windows"
+msgstr "více oken má jen desktopová aplikace"
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "Otevřít lze pouze webové (http, https) a e-mailové (mailto) odkazy"
@@ -7005,16 +7014,19 @@ msgid "Switch Modes"
 msgstr "Přepnout režimy"
 
 msgid "Switch Windows"
-msgstr ""
+msgstr "Přepnout okna"
 
 msgid "Switch\nModes"
 msgstr "Přepnout\nrežimy"
 
 msgid "Switch\nWindows"
-msgstr ""
+msgstr "Přepnout\nokna"
 
 msgid "Switzerland"
 msgstr "Švýcarsko"
+
+msgid "Synchronous Scrolling"
+msgstr "Synchronní posouvání"
 
 msgid "Synonyms"
 msgstr "Synonyma"
@@ -7579,6 +7591,9 @@ msgstr "Turabian"
 msgid "Turkish"
 msgstr "Turečtina"
 
+msgid "turn on View Side by Side first"
+msgstr "nejdřív zapněte Zobrazit vedle sebe"
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7844,6 +7859,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Zobrazit mřížku"
+
+msgid "View Side by Side"
+msgstr "Zobrazit vedle sebe"
 
 msgid "View State"
 msgstr "Stav zobrazení"

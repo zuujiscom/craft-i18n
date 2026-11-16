@@ -562,6 +562,9 @@ msgstr "Argentina"
 msgid "Armenian"
 msgstr "armeană"
 
+msgid "Arrange All"
+msgstr "Aranjează toate"
+
 msgid "Arrange\nAll"
 msgstr "Aranjare\ntot"
 
@@ -4639,6 +4642,9 @@ msgstr "Această copie nu include mențiuni despre modele."
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr "Nu sunt deschise alte ferestre WordCraft."
+
 msgid "No Outline"
 msgstr "Fără contur"
 
@@ -4935,6 +4941,9 @@ msgstr ""
 
 msgid "Only the allowed styles can be applied."
 msgstr "Se pot aplica doar stilurile permise."
+
+msgid "only the desktop app has several windows"
+msgstr "doar aplicația desktop are mai multe ferestre"
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "Se pot urma doar linkurile web (http, https) și de e-mail (mailto)"
@@ -7005,16 +7014,19 @@ msgid "Switch Modes"
 msgstr "Schimbare mod"
 
 msgid "Switch Windows"
-msgstr ""
+msgstr "Comută ferestrele"
 
 msgid "Switch\nModes"
 msgstr "Schimbare\nmod"
 
 msgid "Switch\nWindows"
-msgstr ""
+msgstr "Comută\nferestrele"
 
 msgid "Switzerland"
 msgstr "Elveția"
+
+msgid "Synchronous Scrolling"
+msgstr "Derulare sincronă"
 
 msgid "Synonyms"
 msgstr "Sinonime"
@@ -7579,6 +7591,9 @@ msgstr "Turabian"
 msgid "Turkish"
 msgstr "Turcă"
 
+msgid "turn on View Side by Side first"
+msgstr "activează mai întâi Vizualizare alăturată"
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7844,6 +7859,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "Vizualizare linii de grilă"
+
+msgid "View Side by Side"
+msgstr "Vizualizare alăturată"
 
 msgid "View State"
 msgstr "Vizualizare stare"

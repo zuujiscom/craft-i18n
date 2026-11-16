@@ -562,6 +562,9 @@ msgstr "アルゼンチン"
 msgid "Armenian"
 msgstr "アルメニア語"
 
+msgid "Arrange All"
+msgstr "整列"
+
 msgid "Arrange\nAll"
 msgstr "整列"
 
@@ -4639,6 +4642,9 @@ msgstr "このビルドにはモデルのクレジットが含まれていませ
 msgid "No new sources in that file"
 msgstr ""
 
+msgid "No other WordCraft windows are open."
+msgstr "ほかに開いている WordCraft のウィンドウはありません。"
+
 msgid "No Outline"
 msgstr "輪郭なし"
 
@@ -4935,6 +4941,9 @@ msgstr ""
 
 msgid "Only the allowed styles can be applied."
 msgstr "使用を許可されたスタイルだけを適用できます。"
+
+msgid "only the desktop app has several windows"
+msgstr ""
 
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "開けるのは Web（http、https）とメール（mailto）のリンクだけです"
@@ -7005,16 +7014,19 @@ msgid "Switch Modes"
 msgstr "モードの切り替え"
 
 msgid "Switch Windows"
-msgstr ""
+msgstr "ウィンドウの切り替え"
 
 msgid "Switch\nModes"
 msgstr "モードの切り替え"
 
 msgid "Switch\nWindows"
-msgstr ""
+msgstr "ウィンドウの\n切り替え"
 
 msgid "Switzerland"
 msgstr "スイス"
+
+msgid "Synchronous Scrolling"
+msgstr "同時にスクロール"
 
 msgid "Synonyms"
 msgstr "類義語"
@@ -7579,6 +7591,9 @@ msgstr ""
 msgid "Turkish"
 msgstr "トルコ語"
 
+msgid "turn on View Side by Side first"
+msgstr ""
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7844,6 +7859,9 @@ msgstr ""
 
 msgid "View Gridlines"
 msgstr "グリッド線の表示"
+
+msgid "View Side by Side"
+msgstr "並べて比較"
 
 msgid "View State"
 msgstr "表示の状態"
