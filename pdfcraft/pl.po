@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Czarny na białym"
 
@@ -1506,6 +1509,9 @@ msgstr "Podłącz własny model (domyślnie wyłączone)"
 
 msgid "Browser's print dialog"
 msgstr "Okno drukowania przeglądarki"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Lista punktowana"
@@ -2218,6 +2224,9 @@ msgstr "Podziel na"
 
 msgid "Comb of characters"
 msgstr "Podział znaków na kratki"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Połącz pliki"
@@ -3837,6 +3846,9 @@ msgstr "Podmiot końcowy"
 
 msgid "Endpoints"
 msgstr "Punkty końcowe"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "SILNIK · STRATEGIA"
@@ -8600,6 +8612,9 @@ msgstr "Usuń oznaczenia do utajnienia"
 msgid "Remove saved {what}"
 msgstr "Usuń zapisane: {what}"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Usuń zabezpieczenia"
 
@@ -10241,6 +10256,9 @@ msgstr "Pojedyncze strony, przewijanie ciągłe"
 msgid "Single word or phrase"
 msgstr "Pojedyncze słowo lub fraza"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "Pomiń pliki, które już zawierają tekst"
 
@@ -10518,11 +10536,17 @@ msgstr "Zapisuj obrazy JPEG jako JPEG XL (mniejsze, odwracalne; wymaga czytnika 
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Wyprostuj zeskanowaną stronę"
 
 msgid "Straighten skewed scans"
 msgstr "Prostuj przekrzywione skany"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Straighten the page"
@@ -10729,6 +10753,9 @@ msgstr "Usuń ten rozmiar papieru z listy"
 
 msgid "Task"
 msgstr "Zadanie"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "Przetestuj głos"

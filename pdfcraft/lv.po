@@ -1414,6 +1414,9 @@ msgstr "Bitkartes attēli"
 msgid "Black & White Document"
 msgstr "Melnbalts dokuments"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Melns uz balta"
 
@@ -1506,6 +1509,9 @@ msgstr "Izmantot savu modeli (pēc noklusējuma izslēgts)"
 
 msgid "Browser's print dialog"
 msgstr "Pārlūka drukas dialoglodziņš"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Saraksts ar aizzīmēm"
@@ -2218,6 +2224,9 @@ msgstr "Ķemme no"
 
 msgid "Comb of characters"
 msgstr "Rakstzīmju ķemme"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Apvienot failus"
@@ -3837,6 +3846,9 @@ msgstr "Galīgais subjekts"
 
 msgid "Endpoints"
 msgstr "Galapunkti"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "DZINĒJS · STRATĒĢIJA"
@@ -8600,6 +8612,9 @@ msgstr "Noņemt aizklāšanas atzīmes"
 msgid "Remove saved {what}"
 msgstr "Noņemt saglabāto: {what}"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Noņemt aizsardzību"
 
@@ -10241,6 +10256,9 @@ msgstr "Viena lapa nepārtraukti"
 msgid "Single word or phrase"
 msgstr "Viens vārds vai frāze"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "Izlaist failus, kuros jau ir teksts"
 
@@ -10518,11 +10536,17 @@ msgstr "Glabāt JPEG attēlus kā JPEG XL (mazāki, var atsaukt; nepieciešams J
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr "Iztaisnot lapu, kas ir izliekta, salocīta vai nofotografēta leņķī, lai teksta rindas būtu taisnas"
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Iztaisnot skenēto lapu"
 
 msgid "Straighten skewed scans"
 msgstr "Iztaisnot šķībus skenējumus"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Iztaisnot lapu"
@@ -10729,6 +10753,9 @@ msgstr "Noņemt šo papīra izmēru no saraksta"
 
 msgid "Task"
 msgstr "Uzdevums"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "Pārbaudīt balsi"

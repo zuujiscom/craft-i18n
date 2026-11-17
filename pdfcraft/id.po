@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Hitam di atas putih"
 
@@ -1506,6 +1509,9 @@ msgstr "Gunakan model Anda sendiri (nonaktif secara bawaan)"
 
 msgid "Browser's print dialog"
 msgstr "Dialog cetak browser"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Bulleted list"
@@ -2216,6 +2222,9 @@ msgstr "Comb dari"
 
 msgid "Comb of characters"
 msgstr "Sisir karakter"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Gabung file"
@@ -3829,6 +3838,9 @@ msgstr "Entitas akhir"
 
 msgid "Endpoints"
 msgstr "Endpoint"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8592,6 +8604,9 @@ msgstr "Hapus tanda sensor"
 msgid "Remove saved {what}"
 msgstr "Hapus {what} yang tersimpan"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Hapus keamanan"
 
@@ -10233,6 +10248,9 @@ msgstr "Halaman Tunggal Berurutan"
 msgid "Single word or phrase"
 msgstr "Satu kata atau frasa"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10510,11 +10528,17 @@ msgstr "Simpan gambar JPEG sebagai JPEG XL (lebih kecil, dapat dibatalkan; memer
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
 msgstr "Luruskan hasil pindai yang miring"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Straighten the page"
@@ -10720,6 +10744,9 @@ msgid "Take this paper size off the list"
 msgstr "Hapus ukuran kertas ini dari daftar"
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"

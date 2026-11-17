@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "흰 바탕에 검은 글자"
 
@@ -1506,6 +1509,9 @@ msgstr "자체 모델 사용(기본적으로 꺼져 있음)"
 
 msgid "Browser's print dialog"
 msgstr "브라우저 인쇄 대화 상자"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Bulleted list"
@@ -2216,6 +2222,9 @@ msgstr "균등 배치"
 
 msgid "Comb of characters"
 msgstr "문자 빗살"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "파일 결합"
@@ -3829,6 +3838,9 @@ msgstr "최종 엔터티"
 
 msgid "Endpoints"
 msgstr "끝점"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8592,6 +8604,9 @@ msgstr "제거 대상 표시 삭제"
 msgid "Remove saved {what}"
 msgstr "저장된 {what} 제거"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "보안 제거"
 
@@ -10233,6 +10248,9 @@ msgstr "단일 연속 페이지"
 msgid "Single word or phrase"
 msgstr "단어 또는 구문 하나"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10510,11 +10528,17 @@ msgstr "JPEG 이미지를 JPEG XL로 저장(더 작고 되돌릴 수 있음, JPE
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
 msgstr "기울어진 스캔 바로잡기"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Straighten the page"
@@ -10720,6 +10744,9 @@ msgid "Take this paper size off the list"
 msgstr "목록에서 이 용지 크기 제거"
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"

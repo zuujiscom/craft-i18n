@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "E zezë mbi të bardhë"
 
@@ -1506,6 +1509,9 @@ msgstr "Sill modelin tënd (joaktiv si parazgjedhje)"
 
 msgid "Browser's print dialog"
 msgstr "Dialogu i printimit të shfletuesit"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Bulleted list"
@@ -2217,6 +2223,9 @@ msgstr "Krehër me"
 
 msgid "Comb of characters"
 msgstr "Krehër karakteresh"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Bashko skedarët"
@@ -3833,6 +3842,9 @@ msgstr ""
 
 msgid "Endpoints"
 msgstr "Pikat fundore"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8596,6 +8608,9 @@ msgstr "Hiq shenjat e redaktimit"
 msgid "Remove saved {what}"
 msgstr "Hiq {what} të ruajtur"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Hiq sigurinë"
 
@@ -10237,6 +10252,9 @@ msgstr "Faqe e vetme e vazhdueshme"
 msgid "Single word or phrase"
 msgstr "Fjalë ose frazë e vetme"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10514,11 +10532,17 @@ msgstr "Ruaji imazhet JPEG si JPEG XL (më të vogla, mund të zhbëhet; kërkon
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
 msgstr "Drejto skanimet e pjerrëta"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Straighten the page"
@@ -10724,6 +10748,9 @@ msgid "Take this paper size off the list"
 msgstr "Hiq këtë madhësi letre nga lista"
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"

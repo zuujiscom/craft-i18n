@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Beyaz üzerinde siyah"
 
@@ -1506,6 +1509,9 @@ msgstr "Kendi modelini getir (varsayılan olarak kapalı)"
 
 msgid "Browser's print dialog"
 msgstr "Tarayıcının yazdırma penceresi"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Madde işaretli liste"
@@ -2217,6 +2223,9 @@ msgstr "Tarak alanı:"
 
 msgid "Comb of characters"
 msgstr "Karakter tarağı"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Dosyaları birleştir"
@@ -3833,6 +3842,9 @@ msgstr "Son varlık"
 
 msgid "Endpoints"
 msgstr "Uç noktalar"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "MOTOR · STRATEJİ"
@@ -8596,6 +8608,9 @@ msgstr "Karartma işaretlerini kaldır"
 msgid "Remove saved {what}"
 msgstr "Kayıtlı {what} kaldır"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Güvenliği kaldır"
 
@@ -10237,6 +10252,9 @@ msgstr "Tek Sayfa Sürekli"
 msgid "Single word or phrase"
 msgstr "Tek sözcük veya kelime öbeği"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "Zaten metin içeren dosyaları atla"
 
@@ -10514,11 +10532,17 @@ msgstr "JPEG görüntülerini JPEG XL olarak sakla (daha küçük, geri alınabi
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Taranmış sayfayı düzelt"
 
 msgid "Straighten skewed scans"
 msgstr "Eğik taramaları düzelt"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Sayfayı düzelt"
@@ -10725,6 +10749,9 @@ msgstr "Bu kağıt boyutunu listeden kaldırın"
 
 msgid "Task"
 msgstr "Görev"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "Sesi sına"

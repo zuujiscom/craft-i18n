@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Ақ фонда қара"
 
@@ -1506,6 +1509,9 @@ msgstr "Өз моделіңізді пайдаланыңыз (әдепкіде �
 
 msgid "Browser's print dialog"
 msgstr "Браузердің басып шығару терезесі"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Таңбалауыш тізім"
@@ -2217,6 +2223,9 @@ msgstr "Ұяшықтар саны:"
 
 msgid "Comb of characters"
 msgstr "Таңбалар торы"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Файлдарды біріктіру"
@@ -3833,6 +3842,9 @@ msgstr "Соңғы субъект"
 
 msgid "Endpoints"
 msgstr "Шеткі нүктелер"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "ҚОЗҒАЛТҚЫШ · СТРАТЕГИЯ"
@@ -8596,6 +8608,9 @@ msgstr "Жасыру белгілерін алып тастау"
 msgid "Remove saved {what}"
 msgstr "Алып тастау: сақталған {what}"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Қорғанысты алып тастау"
 
@@ -10237,6 +10252,9 @@ msgstr "Бір бет, үздіксіз"
 msgid "Single word or phrase"
 msgstr "Жалғыз сөз немесе тіркес"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "Мәтіні бар файлдарды өткізіп жіберу"
 
@@ -10514,11 +10532,17 @@ msgstr "JPEG кескіндерін JPEG XL ретінде сақтау (кіш�
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Сканерленген бетті түзету"
 
 msgid "Straighten skewed scans"
 msgstr "Қиғаш скандарды түзету"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Бетті түзету"
@@ -10725,6 +10749,9 @@ msgstr "Бұл қағаз өлшемін тізімнен алып тастау"
 
 msgid "Task"
 msgstr "Тапсырма"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "Дауысты тексеру"

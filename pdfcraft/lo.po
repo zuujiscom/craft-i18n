@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "ຕົວໜັງສືດຳພື້ນຂາວ"
 
@@ -1506,6 +1509,9 @@ msgstr "ໃຊ້ໂມເດວຂອງທ່ານເອງ (ປິດໄວ�
 
 msgid "Browser's print dialog"
 msgstr "ກ່ອງຂໍ້ຄວາມການພິມຂອງບຣາວເຊີ"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr ""
@@ -2216,6 +2222,9 @@ msgstr "ແບ່ງເປັນຊ່ອງຈຳນວນ"
 
 msgid "Comb of characters"
 msgstr "ຊ່ອງຕາລາງຕົວອັກສອນ"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "ຮວມໄຟລ໌"
@@ -3829,6 +3838,9 @@ msgstr ""
 
 msgid "Endpoints"
 msgstr "ຈຸດປາຍ"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8592,6 +8604,9 @@ msgstr "ລຶບເຄື່ອງໝາຍປິດບັງອອກ"
 msgid "Remove saved {what}"
 msgstr "ລຶບ {what} ທີ່ບັນທຶກໄວ້ອອກ"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "ປົດການປ້ອງກັນຄວາມປອດໄພ"
 
@@ -10233,6 +10248,9 @@ msgstr "ໜ້າດຽວຕໍ່ເນື່ອງ"
 msgid "Single word or phrase"
 msgstr "ຄຳດ່ຽວ ຫຼື ວະລີ"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10510,10 +10528,16 @@ msgstr "ບັນທຶກຮູບ JPEG ເປັນ JPEG XL (ນ້ອຍກ�
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10720,6 +10744,9 @@ msgid "Take this paper size off the list"
 msgstr ""
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"

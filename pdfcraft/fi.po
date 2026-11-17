@@ -1414,6 +1414,9 @@ msgstr "Bittikarttakuvat"
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Musta valkoisella"
 
@@ -1506,6 +1509,9 @@ msgstr "Käytä omaa mallia (oletuksena pois)"
 
 msgid "Browser's print dialog"
 msgstr "Selaimen tulostusikkuna"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Bulleted list"
@@ -2217,6 +2223,9 @@ msgstr "Merkkiruutuja"
 
 msgid "Comb of characters"
 msgstr "Merkkiruudukko"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Yhdistä tiedostot"
@@ -3833,6 +3842,9 @@ msgstr "Loppuyksikkö"
 
 msgid "Endpoints"
 msgstr "Päätepisteet"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8596,6 +8608,9 @@ msgstr "Poista peittomerkinnät"
 msgid "Remove saved {what}"
 msgstr "Poista tallennettu {what}"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Poista suojaus"
 
@@ -10237,6 +10252,9 @@ msgstr "Yksi sivu, jatkuva"
 msgid "Single word or phrase"
 msgstr "Yksittäinen sana tai lause"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10514,11 +10532,17 @@ msgstr "Tallenna JPEG-kuvat JPEG XL -muodossa (pienempiä, peruttavissa; vaatii 
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
 msgstr "Suorista vinot skannaukset"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Straighten the page"
@@ -10724,6 +10748,9 @@ msgid "Take this paper size off the list"
 msgstr "Poista tämä paperikoko luettelosta"
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"

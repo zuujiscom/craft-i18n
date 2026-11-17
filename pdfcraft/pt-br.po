@@ -1414,6 +1414,9 @@ msgstr "Imagens bitmap"
 msgid "Black & White Document"
 msgstr "Documento em preto e branco"
 
+msgid "Black and white (binarize)"
+msgstr "Preto e branco (binarizar)"
+
 msgid "Black on white"
 msgstr "Preto no branco"
 
@@ -1506,6 +1509,9 @@ msgstr "Traga seu próprio modelo (desativado por padrão)"
 
 msgid "Browser's print dialog"
 msgstr "Caixa de diálogo de impressão do navegador"
+
+msgid "Built-in"
+msgstr "Integrado"
 
 msgid "Bulleted list"
 msgstr "Lista com marcadores"
@@ -2217,6 +2223,9 @@ msgstr "Caixas para"
 
 msgid "Comb of characters"
 msgstr "Caixas de caracteres"
+
+msgid "Combine engines"
+msgstr "Combinar mecanismos"
 
 msgid "Combine files"
 msgstr "Combinar arquivos"
@@ -3833,6 +3842,9 @@ msgstr "Entidade final"
 
 msgid "Endpoints"
 msgstr "Pontos finais"
+
+msgid "Engine"
+msgstr "Mecanismo"
 
 msgid "ENGINE · STRATEGY"
 msgstr "MECANISMO · ESTRATÉGIA"
@@ -8596,6 +8608,9 @@ msgstr "Remover marcas de ocultação"
 msgid "Remove saved {what}"
 msgstr "Remover item salvo: {what}"
 
+msgid "Remove scan speckle"
+msgstr "Remover sujeira da digitalização"
+
 msgid "Remove security"
 msgstr "Remover segurança"
 
@@ -10237,6 +10252,9 @@ msgstr "Página única contínua"
 msgid "Single word or phrase"
 msgstr "Palavra ou frase única"
 
+msgid "Skip"
+msgstr "Pular"
+
 msgid "Skip files that already have text"
 msgstr "Pular arquivos que já têm texto"
 
@@ -10514,11 +10532,17 @@ msgstr "Armazenar imagens JPEG como JPEG XL (menores, reversível; requer um lei
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr "Endireita uma página curvada, dobrada ou fotografada em ângulo para que as linhas de texto fiquem retas"
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr "Endireitar páginas digitalizadas de lado ou de cabeça para baixo"
+
 msgid "Straighten scanned page"
 msgstr "Endireitar página digitalizada"
 
 msgid "Straighten skewed scans"
 msgstr "Endireitar digitalizações inclinadas"
+
+msgid "Straighten skewed text lines"
+msgstr "Endireitar linhas de texto inclinadas"
 
 msgid "Straighten the page"
 msgstr "Endireitar a página"
@@ -10725,6 +10749,9 @@ msgstr "Tirar este tamanho de papel da lista"
 
 msgid "Task"
 msgstr "Tarefa"
+
+msgid "Tesseract"
+msgstr "Tesseract"
 
 msgid "Test voice"
 msgstr "Testar voz"

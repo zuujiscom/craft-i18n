@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "შავი თეთრზე"
 
@@ -1506,6 +1509,9 @@ msgstr "საკუთარი მოდელის გამოყენე�
 
 msgid "Browser's print dialog"
 msgstr "ბრაუზერის ბეჭდვის დიალოგი"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "ბურთულებიანი სია"
@@ -2217,6 +2223,9 @@ msgstr "უჯრებად დაყოფა:"
 
 msgid "Comb of characters"
 msgstr "სიმბოლოების უჯრებად დაყოფა"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "ფაილების გაერთიანება"
@@ -3833,6 +3842,9 @@ msgstr "საბოლოო სუბიექტი"
 
 msgid "Endpoints"
 msgstr "ბოლო წერტილები"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8596,6 +8608,9 @@ msgstr "დაფარვის ნიშნების მოხსნა"
 msgid "Remove saved {what}"
 msgstr "შენახული {what} წაშლა"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "დაცვის მოხსნა"
 
@@ -10237,6 +10252,9 @@ msgstr "ერთი გვერდი, უწყვეტი"
 msgid "Single word or phrase"
 msgstr "ერთი სიტყვა ან ფრაზა"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10514,10 +10532,16 @@ msgstr ""
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10724,6 +10748,9 @@ msgid "Take this paper size off the list"
 msgstr ""
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"

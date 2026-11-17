@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "ดำบนขาว"
 
@@ -1506,6 +1509,9 @@ msgstr "ใช้โมเดลของคุณเอง (ปิดเป็�
 
 msgid "Browser's print dialog"
 msgstr "กล่องโต้ตอบการพิมพ์ของเบราว์เซอร์"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr ""
@@ -2216,6 +2222,9 @@ msgstr "แบ่งช่อง"
 
 msgid "Comb of characters"
 msgstr "แบ่งช่องอักขระ"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "รวมไฟล์"
@@ -3829,6 +3838,9 @@ msgstr "ผู้ใช้ปลายทาง"
 
 msgid "Endpoints"
 msgstr "ปลายเส้น"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8592,6 +8604,9 @@ msgstr "เอาเครื่องหมายปิดทับออก"
 msgid "Remove saved {what}"
 msgstr "เอา{what}ที่บันทึกไว้ออก"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "เอาการรักษาความปลอดภัยออก"
 
@@ -10233,6 +10248,9 @@ msgstr "หน้าเดียวต่อเนื่อง"
 msgid "Single word or phrase"
 msgstr "คำหรือวลีเดียว"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10510,10 +10528,16 @@ msgstr "จัดเก็บภาพ JPEG เป็น JPEG XL (ขนาด�
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10720,6 +10744,9 @@ msgid "Take this paper size off the list"
 msgstr ""
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"

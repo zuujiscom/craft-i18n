@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Svart på hvitt"
 
@@ -1506,6 +1509,9 @@ msgstr "Bruk din egen modell (av som standard)"
 
 msgid "Browser's print dialog"
 msgstr "Nettleserens utskriftsdialog"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr ""
@@ -2217,6 +2223,9 @@ msgstr "Kam på"
 
 msgid "Comb of characters"
 msgstr "Tegnkam"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Slå sammen filer"
@@ -3833,6 +3842,9 @@ msgstr "Sluttenhet"
 
 msgid "Endpoints"
 msgstr "Endepunkter"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8596,6 +8608,9 @@ msgstr "Fjern sladdemerker"
 msgid "Remove saved {what}"
 msgstr "Fjern lagret {what}"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Fjern sikkerhet"
 
@@ -10237,6 +10252,9 @@ msgstr "Enkeltside, sammenhengende"
 msgid "Single word or phrase"
 msgstr "Enkeltord eller frase"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10514,10 +10532,16 @@ msgstr "Lagre JPEG-bilder som JPEG XL (mindre, kan angres; krever en leser som s
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10724,6 +10748,9 @@ msgid "Take this paper size off the list"
 msgstr ""
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"

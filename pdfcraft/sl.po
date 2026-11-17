@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Črno na belem"
 
@@ -1506,6 +1509,9 @@ msgstr "Uporabite lasten model (privzeto izklopljeno)"
 
 msgid "Browser's print dialog"
 msgstr "Pogovorno okno za tiskanje v brskalniku"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Označen seznam"
@@ -2219,6 +2225,9 @@ msgstr "Glavnik za"
 
 msgid "Comb of characters"
 msgstr "Glavnik znakov"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Združi datoteke"
@@ -3841,6 +3850,9 @@ msgstr ""
 
 msgid "Endpoints"
 msgstr "Končne točke"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "POGON · STRATEGIJA"
@@ -8604,6 +8616,9 @@ msgstr "Odstrani oznake za počrnitev"
 msgid "Remove saved {what}"
 msgstr "Odstrani shranjeno: {what}"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Odstrani zaščito"
 
@@ -10245,6 +10260,9 @@ msgstr "Ena stran, neprekinjeno"
 msgid "Single word or phrase"
 msgstr "Ena beseda ali besedna zveza"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "Preskoči datoteke, ki že vsebujejo besedilo"
 
@@ -10522,11 +10540,17 @@ msgstr "Shrani slike JPEG kot JPEG XL (manjše, razveljavljivo; zahteva bralnik 
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Poravnaj skenirano stran"
 
 msgid "Straighten skewed scans"
 msgstr "Poravnaj poševne skene"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Poravnaj stran"
@@ -10733,6 +10757,9 @@ msgstr "Odstrani to velikost papirja s seznama"
 
 msgid "Task"
 msgstr "Naloga"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "Preizkusi glas"

@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr "Чёрно-белый документ"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Чёрный на белом"
 
@@ -1506,6 +1509,9 @@ msgstr "Использовать свою модель (по умолчанию 
 
 msgid "Browser's print dialog"
 msgstr "Диалог печати браузера"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Маркированный список"
@@ -2218,6 +2224,9 @@ msgstr "Шахматка из"
 
 msgid "Comb of characters"
 msgstr "Гребёнка символов"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Объединить файлы"
@@ -3837,6 +3846,9 @@ msgstr "Конечный субъект"
 
 msgid "Endpoints"
 msgstr "Конечные точки"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "ДВИЖОК · СТРАТЕГИЯ"
@@ -8600,6 +8612,9 @@ msgstr "Удалить метки сокрытия"
 msgid "Remove saved {what}"
 msgstr "Удалить сохранённое: {what}"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Удалить защиту"
 
@@ -10241,6 +10256,9 @@ msgstr "Одна страница, непрерывная"
 msgid "Single word or phrase"
 msgstr "Одно слово или фраза"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "Пропускать файлы, в которых уже есть текст"
 
@@ -10518,11 +10536,17 @@ msgstr "Сохранять изображения JPEG как JPEG XL (мень�
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Выровнять отсканированную страницу"
 
 msgid "Straighten skewed scans"
 msgstr "Выравнивать наклонённые сканы"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Выпрямить страницу"
@@ -10729,6 +10753,9 @@ msgstr "Убрать этот размер бумаги из списка"
 
 msgid "Task"
 msgstr "Задача"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "Проверить голос"

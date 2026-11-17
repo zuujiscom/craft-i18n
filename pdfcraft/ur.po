@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "سفید پر سیاہ"
 
@@ -1506,6 +1509,9 @@ msgstr "اپنا ماڈل لائیں (پہلے سے بند)"
 
 msgid "Browser's print dialog"
 msgstr "براؤزر کا پرنٹ ڈائیلاگ"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "بلٹ والی فہرست"
@@ -2217,6 +2223,9 @@ msgstr "حروف کے خانوں کی تعداد"
 
 msgid "Comb of characters"
 msgstr "حروف الگ خانوں میں"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "فائلیں یکجا کریں"
@@ -3833,6 +3842,9 @@ msgstr "آخری اکائی"
 
 msgid "Endpoints"
 msgstr "آخری نقطے"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8596,6 +8608,9 @@ msgstr "حساس مواد حذف کرنے کے نشانات ہٹائیں"
 msgid "Remove saved {what}"
 msgstr "محفوظ {what} ہٹائیں"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "تحفظ ہٹائیں"
 
@@ -10237,6 +10252,9 @@ msgstr "ایک صفحہ مسلسل"
 msgid "Single word or phrase"
 msgstr "ایک لفظ یا فقرہ"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10514,10 +10532,16 @@ msgstr ""
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10724,6 +10748,9 @@ msgid "Take this paper size off the list"
 msgstr ""
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"

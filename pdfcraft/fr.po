@@ -1414,6 +1414,9 @@ msgstr "Images bitmap"
 msgid "Black & White Document"
 msgstr "Document noir et blanc"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Noir sur blanc"
 
@@ -1506,6 +1509,9 @@ msgstr "Apportez votre propre modèle (désactivé par défaut)"
 
 msgid "Browser's print dialog"
 msgstr "Boîte de dialogue d'impression du navigateur"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Liste à puces"
@@ -2217,6 +2223,9 @@ msgstr "Peigne de"
 
 msgid "Comb of characters"
 msgstr "Peigne de caractères"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Combiner des fichiers"
@@ -3833,6 +3842,9 @@ msgstr "Entité finale"
 
 msgid "Endpoints"
 msgstr "Extrémités"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "MOTEUR · STRATÉGIE"
@@ -8596,6 +8608,9 @@ msgstr "Retirer les marques de biffure"
 msgid "Remove saved {what}"
 msgstr "Supprimer {what} (version enregistrée)"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Retirer la protection"
 
@@ -10237,6 +10252,9 @@ msgstr "Une seule page continue"
 msgid "Single word or phrase"
 msgstr "Un seul mot ou une expression"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "Ignorer les fichiers qui contiennent déjà du texte"
 
@@ -10514,11 +10532,17 @@ msgstr "Enregistrer les images JPEG au format JPEG XL (plus petites, réversible
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr "Redresse une page courbée, pliée ou photographiée de biais, de sorte que ses lignes de texte soient droites"
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Redresser la page numérisée"
 
 msgid "Straighten skewed scans"
 msgstr "Redresser les pages numérisées de travers"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Redresser la page"
@@ -10725,6 +10749,9 @@ msgstr "Retirer ce format de papier de la liste"
 
 msgid "Task"
 msgstr "Tâche"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "Tester la voix"

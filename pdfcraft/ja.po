@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr "白黒の文書"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "白地に黒"
 
@@ -1506,6 +1509,9 @@ msgstr "自分のモデルを使用（初期設定では無効）"
 
 msgid "Browser's print dialog"
 msgstr "ブラウザーの印刷ダイアログ"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "箇条書き"
@@ -2216,6 +2222,9 @@ msgstr "マス目の数:"
 
 msgid "Comb of characters"
 msgstr "文字のマス目"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "ファイルを結合"
@@ -3829,6 +3838,9 @@ msgstr ""
 
 msgid "Endpoints"
 msgstr "端点"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "エンジン · 結合方式"
@@ -8592,6 +8604,9 @@ msgstr "墨消しマークを削除"
 msgid "Remove saved {what}"
 msgstr "保存済みの{what}を削除"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "セキュリティを解除"
 
@@ -10233,6 +10248,9 @@ msgstr "単一ページ（連続）"
 msgid "Single word or phrase"
 msgstr "単語または語句"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "テキストがあるファイルをスキップ"
 
@@ -10510,11 +10528,17 @@ msgstr "JPEG 画像を JPEG XL で保存（小さくなり、元に戻せます�
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "スキャンしたページの傾きを補正"
 
 msgid "Straighten skewed scans"
 msgstr "スキャンの傾きを補正"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "ページをまっすぐにする"
@@ -10721,6 +10745,9 @@ msgstr "この用紙サイズをリストから削除"
 
 msgid "Task"
 msgstr "タスク"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "音声をテスト"

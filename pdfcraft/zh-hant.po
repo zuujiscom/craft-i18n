@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr "黑白文件"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "白底黑字"
 
@@ -1506,6 +1509,9 @@ msgstr "使用自己的模型（預設關閉）"
 
 msgid "Browser's print dialog"
 msgstr "瀏覽器的列印對話方塊"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "項目符號清單"
@@ -2216,6 +2222,9 @@ msgstr "梳狀（每格一字元），共"
 
 msgid "Comb of characters"
 msgstr "字元梳"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "合併檔案"
@@ -3829,6 +3838,9 @@ msgstr ""
 
 msgid "Endpoints"
 msgstr "端點"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "引擎 · 策略"
@@ -8592,6 +8604,9 @@ msgstr "移除遮蔽標記"
 msgid "Remove saved {what}"
 msgstr ""
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "移除安全性設定"
 
@@ -10233,6 +10248,9 @@ msgstr "單頁連續"
 msgid "Single word or phrase"
 msgstr "單個詞或短語"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "跳過已包含文字的檔案"
 
@@ -10510,11 +10528,17 @@ msgstr "將 JPEG 影像儲存為 JPEG XL（更小，可復原；需要支援 JPE
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "校正掃描頁面的傾斜"
 
 msgid "Straighten skewed scans"
 msgstr "校正掃描件傾斜"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Straighten the page"
@@ -10721,6 +10745,9 @@ msgstr "從清單中移除此紙張尺寸"
 
 msgid "Task"
 msgstr "工作"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "測試語音"

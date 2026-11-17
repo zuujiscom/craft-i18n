@@ -1414,6 +1414,9 @@ msgstr "Bitmapové obrázky"
 msgid "Black & White Document"
 msgstr "Černobílý dokument"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Černá na bílém"
 
@@ -1506,6 +1509,9 @@ msgstr "Vlastní model (ve výchozím stavu vypnuto)"
 
 msgid "Browser's print dialog"
 msgstr "Dialog tisku prohlížeče"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Odrážkový seznam"
@@ -2218,6 +2224,9 @@ msgstr "Rozdělit na"
 
 msgid "Comb of characters"
 msgstr "Rozdělení na znaky"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Sloučit soubory"
@@ -3837,6 +3846,9 @@ msgstr "Koncová entita"
 
 msgid "Endpoints"
 msgstr "Koncové body"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "ENGINE · STRATEGIE"
@@ -8600,6 +8612,9 @@ msgstr "Odebrat značky začernění"
 msgid "Remove saved {what}"
 msgstr "Odebrat uložené: {what}"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Odebrat zabezpečení"
 
@@ -10241,6 +10256,9 @@ msgstr "Jedna stránka souvisle"
 msgid "Single word or phrase"
 msgstr "Jedno slovo nebo fráze"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "Přeskočit soubory, které už mají text"
 
@@ -10518,11 +10536,17 @@ msgstr "Ukládat obrázky JPEG jako JPEG XL (menší, lze vrátit zpět; vyžadu
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Narovnat naskenovanou stránku"
 
 msgid "Straighten skewed scans"
 msgstr "Narovnat šikmé skeny"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Narovnat stránku"
@@ -10729,6 +10753,9 @@ msgstr "Odebrat tuto velikost papíru ze seznamu"
 
 msgid "Task"
 msgstr "Úloha"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "Vyzkoušet hlas"

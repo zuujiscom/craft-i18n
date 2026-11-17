@@ -1414,6 +1414,9 @@ msgstr "Vieno bito vaizdai"
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Juoda baltame fone"
 
@@ -1506,6 +1509,9 @@ msgstr "Naudoti savo modelį (išjungta pagal numatytuosius parametrus)"
 
 msgid "Browser's print dialog"
 msgstr "Naršyklės spausdinimo dialogas"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Sąrašas su ženkleliais"
@@ -2218,6 +2224,9 @@ msgstr "Simbolių tinklelis:"
 
 msgid "Comb of characters"
 msgstr "Simboliai atskiruose langeliuose"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Sujungti failus"
@@ -3837,6 +3846,9 @@ msgstr "Galutinis subjektas"
 
 msgid "Endpoints"
 msgstr "Galiniai taškai"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "VARIKLIS · STRATEGIJA"
@@ -8600,6 +8612,9 @@ msgstr "Pašalinti konfidencialios informacijos šalinimo žymas"
 msgid "Remove saved {what}"
 msgstr "Pašalinti įrašytą {what}"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Pašalinti apsaugą"
 
@@ -10241,6 +10256,9 @@ msgstr "Vienas puslapis, nepertraukiamas rodinys"
 msgid "Single word or phrase"
 msgstr "Vienas žodis ar frazė"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "Praleisti failus, kuriuose jau yra teksto"
 
@@ -10518,11 +10536,17 @@ msgstr "Saugoti JPEG paveikslus kaip JPEG XL (mažesni, galima atšaukti; reikia
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "Ištiesinti nuskaitytą puslapį"
 
 msgid "Straighten skewed scans"
 msgstr "Ištiesinti pakrypusius nuskaitytus vaizdus"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Ištiesinti puslapį"
@@ -10729,6 +10753,9 @@ msgstr "Pašalinti šį popieriaus dydį iš sąrašo"
 
 msgid "Task"
 msgstr "Užduotis"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "Išbandyti balsą"

@@ -1414,6 +1414,9 @@ msgstr "Imatges de mapa de bits"
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Negre sobre blanc"
 
@@ -1506,6 +1509,9 @@ msgstr "Porta el teu propi model (desactivat per defecte)"
 
 msgid "Browser's print dialog"
 msgstr "Diàleg d'impressió del navegador"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Bulleted list"
@@ -2217,6 +2223,9 @@ msgstr "Pentinat de"
 
 msgid "Comb of characters"
 msgstr "Pinta de caràcters"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Combina fitxers"
@@ -3833,6 +3842,9 @@ msgstr "Entitat final"
 
 msgid "Endpoints"
 msgstr "Extrems"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8596,6 +8608,9 @@ msgstr "Elimina les marques de censura"
 msgid "Remove saved {what}"
 msgstr "Elimina {what} desats"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Elimina la seguretat"
 
@@ -10237,6 +10252,9 @@ msgstr "Pàgina única contínua"
 msgid "Single word or phrase"
 msgstr "Una sola paraula o frase"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10514,11 +10532,17 @@ msgstr "Desa les imatges JPEG com a JPEG XL (més petites, es pot desfer; cal un
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
 msgstr "Redreça els escanejats inclinats"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Straighten the page"
@@ -10724,6 +10748,9 @@ msgid "Take this paper size off the list"
 msgstr "Treu aquesta mida de paper de la llista"
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"

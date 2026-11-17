@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "أسود على أبيض"
 
@@ -1506,6 +1509,9 @@ msgstr "استخدم نموذجك الخاص (متوقف افتراضيًا)"
 
 msgid "Browser's print dialog"
 msgstr "مربع حوار الطباعة في المتصفح"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "قائمة نقطية"
@@ -2221,6 +2227,9 @@ msgstr "خانات عددها"
 
 msgid "Comb of characters"
 msgstr "خانات محارف"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "دمج الملفات"
@@ -3849,6 +3858,9 @@ msgstr "كيان نهائي"
 
 msgid "Endpoints"
 msgstr "نقاط النهاية"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "المحرك · الاستراتيجية"
@@ -8612,6 +8624,9 @@ msgstr "إزالة علامات الحجب"
 msgid "Remove saved {what}"
 msgstr "إزالة {what} المحفوظ"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "إزالة الحماية"
 
@@ -10253,6 +10268,9 @@ msgstr "صفحة واحدة متواصلة"
 msgid "Single word or phrase"
 msgstr "كلمة أو عبارة واحدة"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "تخطي الملفات التي تحتوي على نص بالفعل"
 
@@ -10530,11 +10548,17 @@ msgstr "تخزين صور JPEG بصيغة JPEG XL (أصغر حجمًا ويمك�
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "تسوية الصفحة الممسوحة ضوئيًا"
 
 msgid "Straighten skewed scans"
 msgstr "تقويم الصفحات الممسوحة المائلة"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "تسوية الصفحة"
@@ -10741,6 +10765,9 @@ msgstr "أزل مقاس الورق هذا من القائمة"
 
 msgid "Task"
 msgstr "المهمة"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "اختبار الصوت"

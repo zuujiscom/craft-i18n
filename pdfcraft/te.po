@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr "నలుపు తెలుపు పత్రం"
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "తెలుపుపై నలుపు"
 
@@ -1506,6 +1509,9 @@ msgstr "మీ సొంత మోడల్ (డిఫాల్ట్‌గా �
 
 msgid "Browser's print dialog"
 msgstr "బ్రౌజర్ ముద్రణ డైలాగ్"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "బుల్లెట్ జాబితా"
@@ -2217,6 +2223,9 @@ msgstr "ప్రతి అక్షరానికి ఒక గడి, మొ�
 
 msgid "Comb of characters"
 msgstr "అక్షరాల దువ్వెన"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "ఫైల్‌లను కలుపు"
@@ -3833,6 +3842,9 @@ msgstr ""
 
 msgid "Endpoints"
 msgstr "అంత్య బిందువులు"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr "ఇంజిన్ · వ్యూహం"
@@ -8596,6 +8608,9 @@ msgstr "రెడాక్షన్ గుర్తులను తీసివ�
 msgid "Remove saved {what}"
 msgstr ""
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "భద్రతను తీసివేయి"
 
@@ -10237,6 +10252,9 @@ msgstr "ఒకే పేజీ, నిరంతర స్క్రోలిం�
 msgid "Single word or phrase"
 msgstr "ఒకే పదం లేదా పదబంధం"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr "ఇప్పటికే టెక్స్ట్ ఉన్న ఫైళ్లను దాటవేయి"
 
@@ -10514,11 +10532,17 @@ msgstr "JPEG చిత్రాలను JPEG XLగా నిల్వ చేయ
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr "స్కాన్ చేసిన పేజీని సరిచేయి"
 
 msgid "Straighten skewed scans"
 msgstr "వంగిన స్కాన్‌లను నిటారుగా చేయి"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Straighten the page"
@@ -10725,6 +10749,9 @@ msgstr "ఈ కాగితం పరిమాణాన్ని జాబిత
 
 msgid "Task"
 msgstr "పని"
+
+msgid "Tesseract"
+msgstr ""
 
 msgid "Test voice"
 msgstr "వాయిస్‌ని పరీక్షించండి"

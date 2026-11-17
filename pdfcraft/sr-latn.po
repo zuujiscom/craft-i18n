@@ -1414,6 +1414,9 @@ msgstr ""
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr ""
 
@@ -1505,6 +1508,9 @@ msgid "Bring your own model (off by default)"
 msgstr ""
 
 msgid "Browser's print dialog"
+msgstr ""
+
+msgid "Built-in"
 msgstr ""
 
 msgid "Bulleted list"
@@ -2217,6 +2223,9 @@ msgid "Comb of"
 msgstr ""
 
 msgid "Comb of characters"
+msgstr ""
+
+msgid "Combine engines"
 msgstr ""
 
 msgid "Combine files"
@@ -3836,6 +3845,9 @@ msgid "End entity"
 msgstr ""
 
 msgid "Endpoints"
+msgstr ""
+
+msgid "Engine"
 msgstr ""
 
 msgid "ENGINE · STRATEGY"
@@ -8600,6 +8612,9 @@ msgstr ""
 msgid "Remove saved {what}"
 msgstr ""
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr ""
 
@@ -10241,6 +10256,9 @@ msgstr ""
 msgid "Single word or phrase"
 msgstr ""
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10518,10 +10536,16 @@ msgstr ""
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
+msgstr ""
+
+msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
@@ -10728,6 +10752,9 @@ msgid "Take this paper size off the list"
 msgstr ""
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"

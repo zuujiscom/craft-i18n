@@ -1414,6 +1414,9 @@ msgstr "Imagini bitmap"
 msgid "Black & White Document"
 msgstr ""
 
+msgid "Black and white (binarize)"
+msgstr ""
+
 msgid "Black on white"
 msgstr "Negru pe alb"
 
@@ -1506,6 +1509,9 @@ msgstr "Folosiți propriul model (dezactivat implicit)"
 
 msgid "Browser's print dialog"
 msgstr "Dialogul de imprimare al browserului"
+
+msgid "Built-in"
+msgstr ""
 
 msgid "Bulleted list"
 msgstr "Bulleted list"
@@ -2218,6 +2224,9 @@ msgstr "Pieptene de"
 
 msgid "Comb of characters"
 msgstr "Pieptene de caractere"
+
+msgid "Combine engines"
+msgstr ""
 
 msgid "Combine files"
 msgstr "Combinare fișiere"
@@ -3837,6 +3846,9 @@ msgstr "Entitate finală"
 
 msgid "Endpoints"
 msgstr "Capete"
+
+msgid "Engine"
+msgstr ""
 
 msgid "ENGINE · STRATEGY"
 msgstr ""
@@ -8600,6 +8612,9 @@ msgstr "Eliminare marcaje de anonimizare"
 msgid "Remove saved {what}"
 msgstr "Eliminare {what} salvat"
 
+msgid "Remove scan speckle"
+msgstr ""
+
 msgid "Remove security"
 msgstr "Eliminare securitate"
 
@@ -10241,6 +10256,9 @@ msgstr "O singură pagină, continuu"
 msgid "Single word or phrase"
 msgstr "Un singur cuvânt sau o expresie"
 
+msgid "Skip"
+msgstr ""
+
 msgid "Skip files that already have text"
 msgstr ""
 
@@ -10518,11 +10536,17 @@ msgstr "Stochează imaginile JPEG ca JPEG XL (mai mici, reversibil; necesită un
 msgid "Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight"
 msgstr ""
 
+msgid "Straighten pages scanned sideways or upside down"
+msgstr ""
+
 msgid "Straighten scanned page"
 msgstr ""
 
 msgid "Straighten skewed scans"
 msgstr "Îndreptare scanări înclinate"
+
+msgid "Straighten skewed text lines"
+msgstr ""
 
 msgid "Straighten the page"
 msgstr "Straighten the page"
@@ -10728,6 +10752,9 @@ msgid "Take this paper size off the list"
 msgstr "Scoateți această dimensiune de hârtie din listă"
 
 msgid "Task"
+msgstr ""
+
+msgid "Tesseract"
 msgstr ""
 
 msgid "Test voice"
