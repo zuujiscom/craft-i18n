@@ -725,7 +725,7 @@ msgid "Add search index"
 msgstr "საძიებო ინდექსის დამატება"
 
 msgid "Add searchable text"
-msgstr ""
+msgstr "საძიებო ტექსტის დამატება"
 
 msgid "Add signature"
 msgstr "ხელმოწერის დამატება"
@@ -857,7 +857,7 @@ msgid "After Sign, enter the OTT code from the mSzafir app in CloudSigner's wind
 msgstr ""
 
 msgid "AI Assistant"
-msgstr ""
+msgstr "AI ასისტენტი"
 
 msgid "AI assistant"
 msgstr "AI ასისტენტი"
@@ -944,7 +944,7 @@ msgid "Already trusted"
 msgstr ""
 
 msgid "Also"
-msgstr ""
+msgstr "ასევე"
 
 msgid "Also recognize pages that already have text"
 msgstr "იმ გვერდების ამოცნობაც, რომლებსაც უკვე აქვს ტექსტი"
@@ -1040,7 +1040,7 @@ msgid "Animation that flashes can cause seizures. Check scripts and media for fl
 msgstr "მოციმციმე ანიმაციამ შეიძლება გულყრა გამოიწვიოს. შეამოწმეთ სკრიპტები და მედია ციმციმზე."
 
 msgid "Annotation"
-msgstr ""
+msgstr "ანოტაცია"
 
 msgid "Annotations inside the trim"
 msgstr ""
@@ -1239,7 +1239,7 @@ msgid "Attachments"
 msgstr "დანართები"
 
 msgid "Attachments panel"
-msgstr ""
+msgstr "დანართების პანელი"
 
 msgid "Attachments Panel and Page"
 msgstr "დანართების პანელი და გვერდი"
@@ -1451,7 +1451,7 @@ msgid "Bookmarks are present in large documents"
 msgstr "დიდ დოკუმენტებში სანიშნეები არის"
 
 msgid "Bookmarks panel"
-msgstr ""
+msgstr "სანიშნეების პანელი"
 
 msgid "Bookmarks Panel and Page"
 msgstr "სანიშნეების პანელი და გვერდი"
@@ -1628,7 +1628,7 @@ msgid "Centre points"
 msgstr ""
 
 msgid "Certificate"
-msgstr ""
+msgstr "სერტიფიკატი"
 
 msgid "Certificate authority"
 msgstr "სერტიფიცირების ორგანო"
@@ -2138,7 +2138,7 @@ msgid "Close Window"
 msgstr ""
 
 msgid "Close window"
-msgstr ""
+msgstr "ფანჯრის დახურვა"
 
 msgid "Closed arrow"
 msgstr "დახურული ისარი"
@@ -2150,7 +2150,7 @@ msgid "CloudSigner (mSzafir) is found by itself when it is installed: start it a
 msgstr ""
 
 msgid "CMYK"
-msgstr ""
+msgstr "CMYK"
 
 msgid "CMYK colour needs a CMYK printing condition"
 msgstr ""
@@ -2312,7 +2312,7 @@ msgid "Common scales"
 msgstr "გავრცელებული მასშტაბები"
 
 msgid "Compact"
-msgstr ""
+msgstr "კომპაქტური"
 
 msgid "Compact Home (tools and recent files only)"
 msgstr ""
@@ -2327,13 +2327,13 @@ msgid "Compare files…"
 msgstr "ფაილების შედარება…"
 
 msgid "Compare panel"
-msgstr ""
+msgstr "შედარების პანელი"
 
 msgid "Compare this file with an older version: Compare files… in All tools."
 msgstr "შეადარეთ ეს ფაილი ძველ ვერსიას: ფაილების შედარება… — ყველა ხელსაწყოში."
 
 msgid "Complete"
-msgstr ""
+msgstr "მზადაა"
 
 msgid "Completed"
 msgstr "დასრულებული"
@@ -2426,7 +2426,7 @@ msgid "Convert colors"
 msgstr "ფერების გარდაქმნა"
 
 msgid "Convert colours"
-msgstr ""
+msgstr "ფერების გარდაქმნა"
 
 msgid "Convert colours…"
 msgstr ""
@@ -2435,7 +2435,7 @@ msgid "Convert mode"
 msgstr ""
 
 msgid "Convert to"
-msgstr ""
+msgstr "გარდაქმნა:"
 
 msgid "Convert to PDF and email…"
 msgstr ""
@@ -2489,7 +2489,7 @@ msgid "Copy a text box or an image first"
 msgstr ""
 
 msgid "Copy comment"
-msgstr ""
+msgstr "კომენტარის კოპირება"
 
 msgid "Copy comments"
 msgstr ""
@@ -2771,7 +2771,7 @@ msgid "Create Link…"
 msgstr "ბმულის შექმნა…"
 
 msgid "Create PDF"
-msgstr ""
+msgstr "PDF-ის შექმნა"
 
 msgid "Create PDF Comment Summary"
 msgstr "PDF-ის კომენტარების შეჯამების შექმნა"
@@ -2886,7 +2886,7 @@ msgid "Cursor Coordinates"
 msgstr ""
 
 msgid "Cursor coordinates"
-msgstr ""
+msgstr "კურსორის კოორდინატები"
 
 msgid "Custom Color"
 msgstr ""
@@ -3068,7 +3068,7 @@ msgid "Delete comment"
 msgstr "კომენტარის წაშლა"
 
 msgid "Delete comments"
-msgstr ""
+msgstr "კომენტარების წაშლა"
 
 msgid "Delete content"
 msgstr "შიგთავსის წაშლა"
@@ -3104,7 +3104,7 @@ msgid "Delete measurement"
 msgstr ""
 
 msgid "Delete object"
-msgstr ""
+msgstr "ობიექტის წაშლა"
 
 msgid "Delete objects"
 msgstr ""
@@ -3164,7 +3164,7 @@ msgid "Delete {o}"
 msgstr "{o}-ის წაშლა"
 
 msgid "Deleted page"
-msgstr ""
+msgstr "წაშლილი გვერდი"
 
 msgid "Denoise"
 msgstr ""
@@ -3413,7 +3413,7 @@ msgid "Document structure provides a logical reading order"
 msgstr "დოკუმენტის სტრუქტურა კითხვის ლოგიკურ რიგს უზრუნველყოფს"
 
 msgid "Document timestamp"
-msgstr ""
+msgstr "დოკუმენტის დროის შტამპი"
 
 msgid "Document title is showing in title bar"
 msgstr "დოკუმენტის სათაური სათაურის ზოლში ჩანს"
@@ -3431,7 +3431,7 @@ msgid "Does not match what was signed"
 msgstr ""
 
 msgid "Domain"
-msgstr ""
+msgstr "დომენი"
 
 msgid "Don't ask again"
 msgstr ""
@@ -3614,7 +3614,7 @@ msgid "Dropdown Properties"
 msgstr "ჩამოსაშლელი სიის თვისებები"
 
 msgid "Duplex"
-msgstr ""
+msgstr "ორმხრივი ბეჭდვა"
 
 msgid "Duplex is not offered."
 msgstr ""
@@ -3650,7 +3650,7 @@ msgid "Dynamic XFA form laid out from its template: {pages}, {fields}."
 msgstr "დინამიკური XFA ფორმა, განლაგებული მისი შაბლონიდან: {pages}, {fields}."
 
 msgid "Dynamic zoom"
-msgstr ""
+msgstr "დინამიკური მასშტაბი"
 
 msgid "E-Sign"
 msgstr "ელ-ხელმოწერა"
@@ -3750,7 +3750,7 @@ msgid "Edit measurement viewport"
 msgstr ""
 
 msgid "Edit mode"
-msgstr ""
+msgstr "რედაქტირების რეჟიმი"
 
 msgid "Edit script of {name}"
 msgstr "{name}-ის სკრიპტის რედაქტირება"
@@ -3931,7 +3931,7 @@ msgid "Erase drawings"
 msgstr "ნახაზების წაშლა"
 
 msgid "Errors"
-msgstr ""
+msgstr "შეცდომები"
 
 msgctxt "key"
 msgid "Esc"
@@ -4001,7 +4001,7 @@ msgid "Execute a menu item"
 msgstr "მენიუს ბრძანების შესრულება"
 
 msgid "Executive"
-msgstr ""
+msgstr "Executive"
 
 msgid "Expand all"
 msgstr "ყველას ჩამოშლა"
@@ -4094,7 +4094,7 @@ msgid "Export to EPUB…"
 msgstr ""
 
 msgid "Export to Excel"
-msgstr ""
+msgstr "Excel-ში ექსპორტირება"
 
 msgid "Export to Excel…"
 msgstr ""
@@ -4206,7 +4206,7 @@ msgid "Fast"
 msgstr "სწრაფი"
 
 msgid "Fast Web View"
-msgstr ""
+msgstr "ვებში სწრაფი ნახვა"
 
 msgid "February"
 msgstr "თებერვალი"
@@ -4270,7 +4270,7 @@ msgid "Field value is not validated"
 msgstr "ველის მნიშვნელობა არ მოწმდება"
 
 msgid "Field: {field}"
-msgstr ""
+msgstr "ველი: {field}"
 
 msgid "Field: {field} on page {p}"
 msgstr "ველი: {field}, გვერდი {p}"
@@ -4393,7 +4393,7 @@ msgid "Fill in {name}"
 msgstr "{name}-ის შევსება"
 
 msgid "Fill opacity"
-msgstr ""
+msgstr "შევსების გაუმჭვირვალობა"
 
 msgid "Filling in form fields and signing existing signature fields"
 msgstr "ფორმის ველების შევსება და არსებული ხელმოწერის ველების ხელმოწერა"
@@ -4468,7 +4468,7 @@ msgid "First / last page"
 msgstr "პირველი / ბოლო გვერდი"
 
 msgid "First page"
-msgstr ""
+msgstr "პირველი გვერდი"
 
 msgid "First row number"
 msgstr "პირველი სტრიქონის ნომერი"
@@ -4609,7 +4609,7 @@ msgid "Font colour:"
 msgstr "შრიფტის ფერი:"
 
 msgid "Font file"
-msgstr ""
+msgstr "შრიფტის ფაილი"
 
 msgid "Font size 0 uses automatic sizing."
 msgstr "შრიფტის ზომა 0 ავტომატურ ზომას იყენებს."
@@ -4895,7 +4895,7 @@ msgid "Get help, share feedback and follow development on Discord."
 msgstr "მიიღეთ დახმარება, გაგვიზიარეთ აზრი და ადევნეთ თვალი განვითარებას Discord-ზე."
 
 msgid "Go"
-msgstr ""
+msgstr "გადასვლა"
 
 msgid "Go to a page view"
 msgstr "გვერდის ხედზე გადასვლა"
@@ -4982,7 +4982,7 @@ msgid "Hand (H)"
 msgstr "ხელი (H)"
 
 msgid "Hand tool"
-msgstr ""
+msgstr "ხელის ხელსაწყო"
 
 msgid "Handwriting requires upright horizontal lines in one text column. Columns, tables and marginal notes are not supported."
 msgstr ""
@@ -5283,7 +5283,7 @@ msgid "Initials {n}"
 msgstr ""
 
 msgid "Ink"
-msgstr ""
+msgstr "მელანი"
 
 msgid "Ink sensitivity"
 msgstr "მელნის მგრძნობელობა"
@@ -5388,7 +5388,7 @@ msgid "Installed version: {v}"
 msgstr ""
 
 msgid "Instruction"
-msgstr ""
+msgstr "ინსტრუქცია"
 
 msgid "Integrity"
 msgstr ""
@@ -5401,7 +5401,7 @@ msgid "Intended usage"
 msgstr "დანიშნულება"
 
 msgid "Intent"
-msgstr ""
+msgstr "დანიშნულება"
 
 msgid "Interactive JavaScript menus require the desktop application"
 msgstr ""
@@ -5581,7 +5581,7 @@ msgid "June"
 msgstr "ივნისი"
 
 msgid "Keep"
-msgstr ""
+msgstr "შენარჩუნება"
 
 msgid "Keep all images"
 msgstr ""
@@ -5675,7 +5675,7 @@ msgid "Larger pages"
 msgstr "უფრო დიდი გვერდები"
 
 msgid "Larger text"
-msgstr ""
+msgstr "უფრო დიდი ტექსტი"
 
 msgid "Larger than 512 MiB"
 msgstr ""
@@ -5705,7 +5705,7 @@ msgid "Layers (optional content) need PDF 1.5, newer than {} allows"
 msgstr ""
 
 msgid "Layers panel"
-msgstr ""
+msgstr "შრეების პანელი"
 
 msgid "Layers Panel and Page"
 msgstr "შრეების პანელი და გვერდი"
@@ -5918,7 +5918,7 @@ msgid "Logical Reading Order"
 msgstr "კითხვის ლოგიკური რიგი"
 
 msgid "Logo"
-msgstr ""
+msgstr "ლოგო"
 
 msgid "Logo and name"
 msgstr ""
@@ -6081,7 +6081,7 @@ msgid "MarkInfo Suspects is true: the tags are marked as unreliable"
 msgstr ""
 
 msgid "Marks"
-msgstr ""
+msgstr "ნიშნები"
 
 msgid "Marks do not remove content. Select Redact all, then save."
 msgstr ""
@@ -6440,7 +6440,7 @@ msgid "Nested alternate text"
 msgstr "ჩადგმული ალტერნატიული ტექსტი"
 
 msgid "Network"
-msgstr ""
+msgstr "ქსელი"
 
 msgid "Network address"
 msgstr ""
@@ -6855,7 +6855,7 @@ msgid "not allowed directly inside {in}"
 msgstr ""
 
 msgid "Not checked"
-msgstr ""
+msgstr "არ შემოწმებულა"
 
 msgid "Not confirmed by the printer"
 msgstr ""
@@ -6918,7 +6918,7 @@ msgid "Note"
 msgstr "შენიშვნა"
 
 msgid "Nothing"
-msgstr ""
+msgstr "არაფერი"
 
 msgid "nothing in the file matches this document"
 msgstr "ფაილში არაფერი შეესაბამება ამ დოკუმენტს"
@@ -7014,7 +7014,7 @@ msgid "Off, a document's request to open in Full Screen mode is ignored. You can
 msgstr ""
 
 msgid "Office documents"
-msgstr ""
+msgstr "Office-ის დოკუმენტები"
 
 msgid "Offset from centre"
 msgstr "წანაცვლება ცენტრიდან"
@@ -7417,7 +7417,7 @@ msgid "Page grid"
 msgstr "გვერდების ბადე"
 
 msgid "Page information"
-msgstr ""
+msgstr "გვერდის ინფორმაცია"
 
 msgid "Page labels"
 msgstr "გვერდის ჭდეები"
@@ -7474,7 +7474,7 @@ msgid "Page thumbnails"
 msgstr "გვერდების ესკიზები"
 
 msgid "Page thumbnails panel"
-msgstr ""
+msgstr "გვერდების ესკიზების პანელი"
 
 msgid "Page tools"
 msgstr "გვერდების ხელსაწყოები"
@@ -7519,7 +7519,7 @@ msgid "Page {page} holds more content than PdfCraft can read: part of it isn't d
 msgstr ""
 
 msgid "Page {p}"
-msgstr ""
+msgstr "გვერდი {p}"
 
 msgid "Page {p} doesn't tab in structure order"
 msgstr "გვერდზე {p} Tab-ით გადასვლა სტრუქტურის რიგს არ მიჰყვება"
@@ -7708,7 +7708,7 @@ msgid "Pause reading"
 msgstr ""
 
 msgid "Paused"
-msgstr ""
+msgstr "შეჩერებულია"
 
 msgid "Paused (page {page})"
 msgstr ""
@@ -7792,7 +7792,7 @@ msgid "PdfCraft {v} is available."
 msgstr "ხელმისაწვდომია PdfCraft {v}."
 
 msgid "PdfCraft's own"
-msgstr ""
+msgstr "PdfCraft-ის საკუთარი"
 
 msgid "People may need more time to respond. Check that nothing has a time limit."
 msgstr "ადამიანებს პასუხისთვის შეიძლება მეტი დრო დასჭირდეთ. შეამოწმეთ, რომ არაფერს აქვს დროის ლიმიტი."
@@ -7834,7 +7834,7 @@ msgid "Pictures too"
 msgstr ""
 
 msgid "PIN"
-msgstr ""
+msgstr "PIN"
 
 msgid "Pin"
 msgstr "მიმაგრება"
@@ -8098,7 +8098,7 @@ msgid "Printer default"
 msgstr "პრინტერის ნაგულისხმევი"
 
 msgid "printer marks"
-msgstr ""
+msgstr "საბეჭდი ნიშნები"
 
 msgid "Printer marks added"
 msgstr ""
@@ -8170,10 +8170,10 @@ msgid "Protected: the combined file won't keep its security settings"
 msgstr "დაცული: გაერთიანებული ფაილი მის უსაფრთხოების პარამეტრებს არ შეინარჩუნებს"
 
 msgid "Provider"
-msgstr ""
+msgstr "მომწოდებელი"
 
 msgid "Public domain"
-msgstr ""
+msgstr "საზოგადოებრივი საკუთრება"
 
 msgid "Public key"
 msgstr "საჯარო გასაღები"
@@ -8192,7 +8192,7 @@ msgid "PushButton"
 msgstr "PushButton"
 
 msgid "Quality:"
-msgstr ""
+msgstr "ხარისხი:"
 
 msgid "Quantity"
 msgstr ""
@@ -8207,7 +8207,7 @@ msgid "Quirks"
 msgstr ""
 
 msgid "Quit"
-msgstr ""
+msgstr "გასვლა"
 
 msgid "Quit PdfCraft"
 msgstr ""
@@ -8231,7 +8231,7 @@ msgid "RAM {gb} GB"
 msgstr ""
 
 msgid "Rating"
-msgstr ""
+msgstr "შეფასება"
 
 msgid "Raw:"
 msgstr ""
@@ -8264,7 +8264,7 @@ msgid "Read Out Loud"
 msgstr ""
 
 msgid "Read out loud"
-msgstr ""
+msgstr "ხმამაღლა წაკითხვა"
 
 msgid "Read Out Loud ({key})"
 msgstr ""
@@ -8345,7 +8345,7 @@ msgid "Recent files to keep"
 msgstr "ბოლოს გახსნილი ფაილების რაოდენობა"
 
 msgid "Recipients"
-msgstr ""
+msgstr "მიმღებები"
 
 msgid "Recognize scanned text automatically"
 msgstr ""
@@ -8453,7 +8453,7 @@ msgid "Redo {action}"
 msgstr "ხელახლა შესრულება: {action}"
 
 msgid "Reduce"
-msgstr ""
+msgstr "შემცირება"
 
 msgid "Reduce & Optimize"
 msgstr ""
@@ -8654,7 +8654,7 @@ msgid "Remove watermark"
 msgstr "ჭვირნიშნის წაშლა"
 
 msgid "Remove white margins"
-msgstr ""
+msgstr "თეთრი ველების მოცილება"
 
 msgid "Remove white margins is already running"
 msgstr ""
@@ -8756,7 +8756,7 @@ msgid "Replace ({key})"
 msgstr ""
 
 msgid "Replace all"
-msgstr ""
+msgstr "ყველას ჩანაცვლება"
 
 msgid "Replace document colours"
 msgstr "დოკუმენტის ფერების ჩანაცვლება"
@@ -8790,7 +8790,7 @@ msgid "Replace this document's guides with the set's, to move and change them"
 msgstr ""
 
 msgid "Replace with"
-msgstr ""
+msgstr "ჩანაცვლება:"
 
 msgid "Replace XMP metadata"
 msgstr ""
@@ -8908,7 +8908,7 @@ msgid "Retain existing"
 msgstr "არსებულის შენარჩუნება"
 
 msgid "Retry"
-msgstr ""
+msgstr "ხელახლა ცდა"
 
 msgid "Return to document"
 msgstr ""
@@ -9001,7 +9001,7 @@ msgid "Right-to-left page order in two-page view"
 msgstr ""
 
 msgid "Right-to-left text"
-msgstr ""
+msgstr "ტექსტი მარჯვნიდან მარცხნივ"
 
 msgid "Role map"
 msgstr ""
@@ -9019,7 +9019,7 @@ msgid "Rotate clockwise"
 msgstr "შემობრუნება საათის ისრის მიმართულებით"
 
 msgid "Rotate comment"
-msgstr ""
+msgstr "კომენტარის შემობრუნება"
 
 msgid "Rotate corner {n}"
 msgstr ""
@@ -9137,7 +9137,7 @@ msgid "Safety margin (pt)"
 msgstr ""
 
 msgid "Same as interface"
-msgstr ""
+msgstr "როგორც ინტერფეისში"
 
 msgid "Same as interface ({language})"
 msgstr "როგორც ინტერფეისში ({language})"
@@ -9359,7 +9359,7 @@ msgid "Saves the guides, the unit and, if ticked, the grid as one set: a text fi
 msgstr ""
 
 msgid "Saving"
-msgstr ""
+msgstr "შენახვა"
 
 msgid "Saving… {pct}%"
 msgstr ""
@@ -9425,13 +9425,13 @@ msgid "Scanned pages need OCR. Reading order follows extracted page text."
 msgstr ""
 
 msgid "scanned text"
-msgstr ""
+msgstr "სკანირებული ტექსტი"
 
 msgid "Scanned text detected"
 msgstr ""
 
 msgid "Scanner"
-msgstr ""
+msgstr "სკანერი"
 
 msgid "Scanner settings"
 msgstr ""
@@ -9518,7 +9518,7 @@ msgid "Scroll tabs right"
 msgstr "ჩანართების მარჯვნივ გადახვევა"
 
 msgid "Scroll the page"
-msgstr ""
+msgstr "გვერდის გადახვევა"
 
 msgid "Search a folder"
 msgstr ""
@@ -9536,7 +9536,7 @@ msgid "Search complete."
 msgstr ""
 
 msgid "Search panel"
-msgstr ""
+msgstr "ძიების პანელი"
 
 msgid "Search results"
 msgstr "ძიების შედეგები"
@@ -9554,7 +9554,7 @@ msgid "Search tools…"
 msgstr "ხელსაწყოების ძიება…"
 
 msgid "Searchable Image"
-msgstr ""
+msgstr "საძიებო გამოსახულება"
 
 msgid "Searchable Image (Exact)"
 msgstr "საძიებო გამოსახულება (ზუსტი)"
@@ -9575,7 +9575,7 @@ msgid "Search…"
 msgstr "ძიება…"
 
 msgid "Secured"
-msgstr ""
+msgstr "დაცული"
 
 msgid "Security handler"
 msgstr ""
@@ -9671,7 +9671,7 @@ msgid "Select Tool"
 msgstr "მონიშვნის ხელსაწყო"
 
 msgid "Select tool"
-msgstr ""
+msgstr "მონიშვნის ხელსაწყო"
 
 msgid "Select tools to display on your Home page for quick access."
 msgstr "აირჩიეთ ხელსაწყოები, რომლებიც სწრაფი წვდომისთვის საწყის ეკრანზე გამოჩნდება."
@@ -9705,7 +9705,7 @@ msgid "Self-signed"
 msgstr "თვითხელმოწერილი"
 
 msgid "Send"
-msgstr ""
+msgstr "გაგზავნა"
 
 msgid "Send backward"
 msgstr "უკან გადატანა"
@@ -9765,7 +9765,7 @@ msgid "Separator style:"
 msgstr "გამყოფის სტილი:"
 
 msgid "Sepia"
-msgstr ""
+msgstr "სეპია"
 
 msgid "Sepia night"
 msgstr ""
@@ -9785,7 +9785,7 @@ msgid "Serial number"
 msgstr "სერიული ნომერი"
 
 msgid "Service"
-msgstr ""
+msgstr "სერვისი"
 
 msgid "Service address"
 msgstr ""
@@ -9904,7 +9904,7 @@ msgid "Sheet {s} of {n}"
 msgstr "ფურცელი {s} / {n}"
 
 msgid "Sheets"
-msgstr ""
+msgstr "ფურცლები"
 
 msgid "Sheets printed: {done} of {total}"
 msgstr ""
@@ -9950,7 +9950,7 @@ msgid "Show all comments"
 msgstr "ყველა კომენტარის ჩვენება"
 
 msgid "Show art, trim and bleed boxes"
-msgstr ""
+msgstr "შიგთავსის, საბოლოო ზომისა და ჭრისპირა არის ჩარჩოების ჩვენება"
 
 msgid "Show certificate…"
 msgstr "სერტიფიკატის ჩვენება…"
@@ -9995,7 +9995,7 @@ msgid "Show less"
 msgstr "ნაკლების ჩვენება"
 
 msgid "Show line weights"
-msgstr ""
+msgstr "ხაზების სისქის ჩვენება"
 
 msgid "Show on other pages too"
 msgstr ""
@@ -10055,7 +10055,7 @@ msgid "Show {n} more"
 msgstr "კიდევ {n}-ის ჩვენება"
 
 msgid "Show/Hide"
-msgstr ""
+msgstr "ჩვენება/დამალვა"
 
 msgid "Showing the first 2,000 results — more matches may exist."
 msgstr ""
@@ -10136,7 +10136,7 @@ msgid "Signature panel"
 msgstr "ხელმოწერის პანელი"
 
 msgid "Signature valid"
-msgstr ""
+msgstr "ხელმოწერა ვალიდურია"
 
 msgid "Signature validity is unknown"
 msgstr "ხელმოწერის ვალიდურობა უცნობია"
@@ -10193,7 +10193,7 @@ msgid "Signer's name"
 msgstr "ხელმომწერის სახელი"
 
 msgid "Signers"
-msgstr ""
+msgstr "ხელმომწერები"
 
 msgid "Signing"
 msgstr ""
@@ -10296,7 +10296,7 @@ msgid "Snap"
 msgstr ""
 
 msgid "Snap targets"
-msgstr ""
+msgstr "მიბმის სამიზნეები"
 
 msgid "Snap to drawing"
 msgstr "ნახაზზე მიბმა"
@@ -10460,7 +10460,7 @@ msgstr "შტამპები"
 
 msgctxt "document scrollbar width"
 msgid "Standard"
-msgstr ""
+msgstr "სტანდარტული"
 
 msgid "Standard (96 ppi)"
 msgstr ""
@@ -10560,7 +10560,7 @@ msgid "String length (0 turns it off)"
 msgstr ""
 
 msgid "Stroke colour"
-msgstr ""
+msgstr "კონტურის ფერი"
 
 msgid "Strong"
 msgstr "ძლიერი"
@@ -10628,7 +10628,7 @@ msgid "Surfaces"
 msgstr ""
 
 msgid "Swap width and height"
-msgstr ""
+msgstr "სიგანისა და სიმაღლის გაცვლა"
 
 msgid "Switch light / dark theme"
 msgstr "ღია / ბნელი თემის გადართვა"
@@ -10652,7 +10652,7 @@ msgid "System default"
 msgstr ""
 
 msgid "System font"
-msgstr ""
+msgstr "სისტემის შრიფტი"
 
 msgid "System print dialog…"
 msgstr ""
@@ -10778,7 +10778,7 @@ msgid "Text Color:"
 msgstr "ტექსტის ფერი:"
 
 msgid "Text direction"
-msgstr ""
+msgstr "ტექსტის მიმართულება"
 
 msgid "Text editing line"
 msgstr "ტექსტის რედაქტირების სტრიქონი"
@@ -10835,10 +10835,10 @@ msgid "Text recognition isn't installed: its models are missing (run `cargo xtas
 msgstr "ტექსტის ამოცნობა დაყენებული არ არის: მისი მოდელები აკლია (გაუშვით `cargo xtask models` ან მიუთითეთ PDFCRAFT_MODELS)."
 
 msgid "Text rendering"
-msgstr ""
+msgstr "ტექსტის რენდერირება"
 
 msgid "Text style"
-msgstr ""
+msgstr "ტექსტის სტილი"
 
 msgid "Text to find"
 msgstr "მოსაძებნი ტექსტი"
@@ -12363,7 +12363,7 @@ msgid "Tooltip:"
 msgstr "მინიშნება:"
 
 msgid "Top left"
-msgstr ""
+msgstr "ზედა მარცხენა"
 
 msgid "Top right"
 msgstr ""
@@ -12375,7 +12375,7 @@ msgid "Top-level bookmarks ({n})"
 msgstr "ზედა დონის სანიშნეები ({n})"
 
 msgid "Total area coverage"
-msgstr ""
+msgstr "ფართობის ჯამური დაფარვა"
 
 msgid "Touch and pen"
 msgstr ""
@@ -12417,7 +12417,7 @@ msgid "Trust selected ({n})"
 msgstr ""
 
 msgid "Try again"
-msgstr ""
+msgstr "ხელახლა ცდა"
 
 msgid "Try the form as people filling it in will see it"
 msgstr "ფორმის ნახვა ისე, როგორც შემვსები დაინახავს"
@@ -12551,7 +12551,7 @@ msgid "Unknown author"
 msgstr "უცნობი ავტორი"
 
 msgid "unknown signer"
-msgstr ""
+msgstr "უცნობი ხელმომწერი"
 
 msgid "Unlock comment"
 msgstr "კომენტარის განბლოკვა"
@@ -12641,13 +12641,13 @@ msgid "URL to submit to"
 msgstr "გაგზავნის URL"
 
 msgid "US Letter"
-msgstr ""
+msgstr "US Letter"
 
 msgid "US survey feet"
 msgstr ""
 
 msgid "USB"
-msgstr ""
+msgstr "USB"
 
 msgid "Use 72 DPI (one point per pixel)"
 msgstr "72 DPI-ის გამოყენება (ერთი პუნქტი პიქსელზე)"
@@ -12731,7 +12731,7 @@ msgid "Use the chosen engine's reading alone"
 msgstr ""
 
 msgid "Use the default"
-msgstr ""
+msgstr "ნაგულისხმევის გამოყენება"
 
 msgid "Use the default look"
 msgstr ""
@@ -12849,10 +12849,10 @@ msgid "Verify"
 msgstr "შემოწმება"
 
 msgid "Verify PDF/UA"
-msgstr ""
+msgstr "PDF/UA-ის შემოწმება"
 
 msgid "Verify PDF/X"
-msgstr ""
+msgstr "PDF/X-ის შემოწმება"
 
 msgid "Verify to see what the document needs."
 msgstr "შეამოწმეთ, რომ ნახოთ, რა სჭირდება დოკუმენტს."
@@ -12865,7 +12865,7 @@ msgid "Version {v}"
 msgstr "ვერსია {v}"
 
 msgid "Vertex"
-msgstr ""
+msgstr "წვერო"
 
 msgid "Vertex snapping"
 msgstr ""
@@ -13008,7 +13008,7 @@ msgstr "მხოლოდ მთლიანი სიტყვები"
 
 msgctxt "document scrollbar width"
 msgid "Wide"
-msgstr ""
+msgstr "ფართო"
 
 msgid "Widen the page to make room"
 msgstr ""
@@ -13089,7 +13089,7 @@ msgid "XML source"
 msgstr ""
 
 msgid "XMP metadata"
-msgstr ""
+msgstr "XMP მეტამონაცემები"
 
 msgid "Yellow on black"
 msgstr "ყვითელი შავზე"

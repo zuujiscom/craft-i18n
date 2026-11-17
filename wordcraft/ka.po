@@ -26,7 +26,7 @@ msgid "(picture or object)"
 msgstr "(სურათი ან ობიექტი)"
 
 msgid "*Bold* and _italic_ as real formatting"
-msgstr ""
+msgstr "*მუქი* და _დახრილი_ ნამდვილი ფორმატირებით"
 
 msgid "0 or More Characters"
 msgstr "0 ან მეტი სიმბოლო"
@@ -220,7 +220,7 @@ msgid "Add a language…"
 msgstr "ენის დამატება…"
 
 msgid "Add a period with double-space"
-msgstr ""
+msgstr "წერტილის დასმა ორმაგი შორისით"
 
 msgid "Add a Table"
 msgstr "ცხრილის დამატება"
@@ -283,7 +283,7 @@ msgid "Add the chapter number"
 msgstr "თავის ნომრის დამატება"
 
 msgid "Add to AutoCorrect"
-msgstr ""
+msgstr "ავტოშესწორებაში დამატება"
 
 msgid "Add to Document"
 msgstr "დოკუმენტში დამატება"
@@ -629,7 +629,7 @@ msgid "AutoCorrect Options"
 msgstr "ავტოშესწორების პარამეტრები"
 
 msgid "AutoCorrect Options…"
-msgstr ""
+msgstr "ავტოშესწორების პარამეტრები…"
 
 msgid "AutoFit"
 msgstr "ავტომორგება"
@@ -932,7 +932,7 @@ msgid "Breve"
 msgstr "ბრევისი"
 
 msgid "Bright Green"
-msgstr ""
+msgstr "კაშკაშა მწვანე"
 
 msgid "Brighter +20%"
 msgstr "უფრო ნათელი +20%"
@@ -953,7 +953,7 @@ msgid "Built-In"
 msgstr "ჩაშენებული"
 
 msgid "Built-in Heading styles"
-msgstr ""
+msgstr "ჩაშენებული სათაურის სტილები"
 
 msgid "Built-in style"
 msgstr "ჩაშენებული სტილი"
@@ -1139,7 +1139,7 @@ msgid "Change to Level 9"
 msgstr "დონე 9-ზე გადატანა"
 
 msgid "Change to:"
-msgstr ""
+msgstr "ჩანაცვლება:"
 
 msgid "Change\nChart Type"
 msgstr "დიაგრამის ტიპის\nშეცვლა"
@@ -1154,7 +1154,7 @@ msgid "Changes"
 msgstr "ცვლილებები"
 
 msgid "Change…"
-msgstr ""
+msgstr "ჩანაცვლება…"
 
 msgid "Chapter 1"
 msgstr "თავი 1"
@@ -1602,7 +1602,7 @@ msgid "Copyright Sign"
 msgstr "საავტორო უფლების ნიშანი"
 
 msgid "Corporate Author"
-msgstr ""
+msgstr "კორპორაციული ავტორი"
 
 msgid "Correct accidental usage of cAPS LOCK key"
 msgstr "შემთხვევით ჩართული CAPS LOCK-ის შესწორება"
@@ -1635,10 +1635,10 @@ msgid "Couldn't download {name}: {error}"
 msgstr "{name} ვერ ჩამოიტვირთა: {error}"
 
 msgid "Couldn't get the list of languages: {error}"
-msgstr ""
+msgstr "ენების სიის მიღება ვერ მოხერხდა: {error}"
 
 msgid "Couldn't install: {error}"
-msgstr ""
+msgstr "დაინსტალირება ვერ მოხერხდა: {error}"
 
 msgid "Couldn't make WordCraft the default: {error}"
 msgstr "WordCraft ნაგულისხმევ პროგრამად ვერ დაყენდა: {error}"
@@ -1647,13 +1647,13 @@ msgid "Couldn't open {path}: {error}"
 msgstr "{path} ვერ გაიხსნა: {error}"
 
 msgid "Couldn't remove: {error}"
-msgstr ""
+msgstr "წაშლა ვერ მოხერხდა: {error}"
 
 msgid "Couldn't save {name}, so it is still open and nothing was lost: {error}"
 msgstr "{name} ვერ შეინახა, ამიტომ ის ისევ ღიაა და არაფერი დაკარგულა: {error}"
 
 msgid "Couldn't turn on downloading: {error}"
-msgstr ""
+msgstr "ჩამოტვირთვის ჩართვა ვერ მოხერხდა: {error}"
 
 msgid "Count by:"
 msgstr "დანომვრის ბიჯი:"
@@ -1746,7 +1746,7 @@ msgid "Custom dictionary"
 msgstr "მომხმარებლის ლექსიკონი"
 
 msgid "Custom Document Properties"
-msgstr ""
+msgstr "დოკუმენტის მორგებული თვისებები"
 
 msgid "Custom Margins…"
 msgstr "საკუთარი ველები…"
@@ -1800,7 +1800,7 @@ msgid "Danish"
 msgstr "დანიური"
 
 msgid "Dark Blue"
-msgstr ""
+msgstr "მუქი ლურჯი"
 
 msgid "Dark Mode"
 msgstr "ბნელი რეჟიმი"
@@ -1809,7 +1809,7 @@ msgid "Dark page (white text on black)"
 msgstr "მუქი გვერდი (თეთრი ტექსტი შავზე)"
 
 msgid "Dark Red"
-msgstr ""
+msgstr "მუქი წითელი"
 
 msgid "Dark Variations"
 msgstr "მუქი ვარიაციები"
@@ -1818,7 +1818,7 @@ msgid "Dark with Shadow"
 msgstr "მუქი, ჩრდილით"
 
 msgid "Dark Yellow"
-msgstr ""
+msgstr "მუქი ყვითელი"
 
 msgid "Darker −20%"
 msgstr "უფრო მუქი −20%"
@@ -2283,7 +2283,7 @@ msgid "E-mail Messages"
 msgstr "ელფოსტის შეტყობინებები"
 
 msgid "East"
-msgstr ""
+msgstr "აღმოსავლეთი"
 
 msgid "Ecuador"
 msgstr "ეკვადორი"
@@ -2643,7 +2643,7 @@ msgid "File name:"
 msgstr "ფაილის სახელი:"
 
 msgid "File type"
-msgstr ""
+msgstr "ფაილის ტიპი"
 
 msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
 msgstr "ფაილი › ახალი აქ არსებულ .dotx და .dotm შაბლონებს „პირადში“ აჩვენებს; „Word-ის შაბლონად შენახვა“ აქედან იწყება."
@@ -2739,7 +2739,7 @@ msgid "Floor"
 msgstr "ქვედა მთელი ნაწილი"
 
 msgid "Folder path"
-msgstr ""
+msgstr "საქაღალდის მისამართი"
 
 msgid "Follow number with:"
 msgstr "ნომრის შემდეგ:"
@@ -2916,7 +2916,7 @@ msgid "Germany"
 msgstr "გერმანია"
 
 msgid "Get the list of languages again"
-msgstr ""
+msgstr "ენების სიის ხელახლა მიღება"
 
 msgid "getartcraft.com/apps/wordcraft"
 msgstr "getartcraft.com/apps/wordcraft"
@@ -2925,7 +2925,7 @@ msgid "Gets the list of Language packs, then this language's pack if there is on
 msgstr "იღებს ენის პაკეტების სიას, შემდეგ კი ამ ენის პაკეტს, თუ არსებობს."
 
 msgid "Getting the list of languages…"
-msgstr ""
+msgstr "ენების სიის მიღება…"
 
 msgid "Glow Colors"
 msgstr "ნათების ფერები"
@@ -2988,10 +2988,10 @@ msgid "Gray 0%"
 msgstr "ნაცრისფერი 0%"
 
 msgid "Gray-25%"
-msgstr ""
+msgstr "ნაცრისფერი 25%"
 
 msgid "Gray-50%"
-msgstr ""
+msgstr "ნაცრისფერი 50%"
 
 msgid "Greater than"
 msgstr "მეტია"
@@ -3253,7 +3253,7 @@ msgid "If…Then…Else…"
 msgstr "თუ…მაშინ…სხვა შემთხვევაში…"
 
 msgid "Ignore Once"
-msgstr ""
+msgstr "ერთხელ გამოტოვება"
 
 msgid "Ignore punctuation characters"
 msgstr "პუნქტუაციის ნიშნების გამოტოვება"
@@ -3523,25 +3523,25 @@ msgid "Inspect Styles at Selection"
 msgstr "მონიშნულის სტილების დათვალიერება"
 
 msgid "Install"
-msgstr ""
+msgstr "დაინსტალირება"
 
 msgid "Install ({size})"
-msgstr ""
+msgstr "დაინსტალირება ({size})"
 
 msgid "Install Language Pack"
-msgstr ""
+msgstr "ენის პაკეტის დაინსტალირება"
 
 msgid "Install spelling ({size})"
 msgstr "მართლწერის დაინსტალირება ({size})"
 
 msgid "Installed"
-msgstr ""
+msgstr "დაინსტალირებულია"
 
 msgid "Installing turns on downloading of fonts and Language packs from GitHub."
-msgstr ""
+msgstr "დაინსტალირება ჩართავს შრიფტებისა და ენის პაკეტების ჩამოტვირთვას GitHub-იდან."
 
 msgid "Installing… {percent}%"
-msgstr ""
+msgstr "დაინსტალირება… {percent}%"
 
 msgid "Institution"
 msgstr "დაწესებულება"
@@ -3748,22 +3748,25 @@ msgid "Label:"
 msgstr "იარლიყი:"
 
 msgid "Language data"
-msgstr ""
+msgstr "ენობრივი მონაცემები"
 
 msgid "Language Packs"
-msgstr ""
+msgstr "ენის პაკეტები"
+
+msgid "Language packs"
+msgstr "ენის პაკეტები"
 
 msgid "Language packs aren't available in the browser"
-msgstr ""
+msgstr "ბრაუზერში ენის პაკეტები მიუწვდომელია"
 
 msgid "Language packs aren't available in the browser."
-msgstr ""
+msgstr "ბრაუზერში ენის პაკეტები მიუწვდომელია."
 
 msgid "Language packs come from a test source: {source}"
-msgstr ""
+msgstr "ენის პაკეტები სატესტო წყაროდან მოდის: {source}"
 
 msgid "Language packs need the font store folder, and there is none on this computer."
-msgstr ""
+msgstr "ენის პაკეტებს შრიფტების საცავის საქაღალდე სჭირდება, ამ კომპიუტერზე კი ის არ არის."
 
 msgid "Language Preferences…"
 msgstr "ენის პარამეტრები…"
@@ -3932,7 +3935,7 @@ msgid "Levels:"
 msgstr "დონეები:"
 
 msgid "Licence: {licence}. Source: {source}"
-msgstr ""
+msgstr "ლიცენზია: {licence}. წყარო: {source}"
 
 msgid "Liechtenstein"
 msgstr "ლიხტენშტაინი"
@@ -4154,7 +4157,7 @@ msgid "Macedonian"
 msgstr "მაკედონიური"
 
 msgid "Macro name:"
-msgstr ""
+msgstr "მაკროსის სახელი:"
 
 msgid "Macros"
 msgstr "მაკროსები"
@@ -4367,7 +4370,7 @@ msgid "More Gradients…"
 msgstr "სხვა გრადიენტები…"
 
 msgid "More options"
-msgstr ""
+msgstr "მეტი პარამეტრი"
 
 msgid "More Paper Sizes…"
 msgstr "ფურცლის სხვა ზომები…"
@@ -4748,7 +4751,7 @@ msgid "Not equal to"
 msgstr "არ არის ტოლი"
 
 msgid "Not in Dictionary"
-msgstr ""
+msgstr "ლექსიკონში არ არის"
 
 msgid "Not linked: click a text box"
 msgstr "არ არის დაკავშირებული: დაწკაპეთ ტექსტურ ბლოკზე"
@@ -4937,7 +4940,7 @@ msgid "Only label and number"
 msgstr "მხოლოდ იარლიყი და ნომერი"
 
 msgid "Only text properties can be changed."
-msgstr ""
+msgstr "მხოლოდ ტექსტური თვისებების შეცვლა შეიძლება."
 
 msgid "Only the allowed styles can be applied."
 msgstr "შესაძლებელია მხოლოდ დაშვებული სტილების გამოყენება."
@@ -4949,11 +4952,11 @@ msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "გადასვლა შესაძლებელია მხოლოდ ვებ (http, https) და ელფოსტის (mailto) ბმულებზე"
 
 msgid "Only you can turn on downloading: click the button yourself. Agents can install once it is on."
-msgstr ""
+msgstr "ჩამოტვირთვის ჩართვა მხოლოდ თქვენ შეგიძლიათ: ღილაკს თავად დაწკაპეთ. ჩართვის შემდეგ აგენტებსაც შეეძლებათ დაინსტალირება."
 
 msgctxt "spacing"
 msgid "Open"
-msgstr ""
+msgstr "ფართო"
 
 msgid "Open a document first"
 msgstr "ჯერ გახსენით დოკუმენტი"
@@ -5157,7 +5160,7 @@ msgid "Page\nNumber"
 msgstr "გვერდის\nნომერი"
 
 msgid "Pages in the range"
-msgstr ""
+msgstr "დიაპაზონის გვერდები"
 
 msgid "Pages like 1-3, 5"
 msgstr "გვერდები, მაგ. 1-3, 5"
@@ -5508,10 +5511,10 @@ msgid "Proofing language"
 msgstr "კორექტურის ენა"
 
 msgid "Property names are 1–{max} characters."
-msgstr ""
+msgstr "თვისების სახელი 1–{max} სიმბოლოსგან უნდა შედგებოდეს."
 
 msgid "Property values are at most {max} bytes."
-msgstr ""
+msgstr "თვისების მნიშვნელობა {max} ბაიტს არ უნდა აღემატებოდეს."
 
 msgid "Protect Document"
 msgstr "დოკუმენტის დაცვა"
@@ -5634,7 +5637,7 @@ msgid "Record Macro"
 msgstr "მაკროსის ჩაწერა"
 
 msgid "Record…"
-msgstr ""
+msgstr "ჩაწერა…"
 
 msgid "Recover documents"
 msgstr "დოკუმენტების აღდგენა"
@@ -5733,7 +5736,7 @@ msgid "Remove Hyperlink"
 msgstr "ბმულის მოხსნა"
 
 msgid "Remove Language Pack"
-msgstr ""
+msgstr "ენის პაკეტის წაშლა"
 
 msgid "Remove my name from comments, changes and file properties when saving"
 msgstr "შენახვისას ჩემი სახელის წაშლა კომენტარებიდან, ცვლილებებიდან და ფაილის თვისებებიდან"
@@ -6003,7 +6006,7 @@ msgid "Rules"
 msgstr "წესები"
 
 msgid "Run"
-msgstr ""
+msgstr "გაშვება"
 
 msgid "Run-in"
 msgstr "ერთ აბზაცში"
@@ -6165,7 +6168,7 @@ msgid "Select a printer"
 msgstr "აირჩიეთ პრინტერი"
 
 msgid "Select a property to change."
-msgstr ""
+msgstr "აირჩიეთ შესაცვლელი თვისება."
 
 msgid "select a shape first"
 msgstr "ჯერ მონიშნეთ ფიგურა"
@@ -6333,7 +6336,7 @@ msgid "Set Equation"
 msgstr "განტოლების დაყენება"
 
 msgid "Set left- and first-indent with tabs and backspaces"
-msgstr ""
+msgstr "მარცხენა და პირველი სტრიქონის შეწევის დაყენება Tab-ითა და Backspace-ით"
 
 msgid "Set Numbering Value"
 msgstr "ნუმერაციის მნიშვნელობის დაყენება"
@@ -6791,6 +6794,9 @@ msgstr "მართლწერისა და გრამატიკის 
 msgid "Spelling and grammar are checked in {language}."
 msgstr "მართლწერისა და გრამატიკის შემოწმების ენა: {language}."
 
+msgid "Spelling dictionaries and hyphenation for more languages. English is built in."
+msgstr "მართლწერის ლექსიკონები და დამარცვლა სხვა ენებისთვის. ინგლისური ჩაშენებულია."
+
 msgid "Spelling Suggestions"
 msgstr "მართლწერის შეთავაზებები"
 
@@ -6870,7 +6876,7 @@ msgid "Stop Reading"
 msgstr "კითხვის შეწყვეტა"
 
 msgid "Stop Recording"
-msgstr ""
+msgstr "ჩაწერის შეწყვეტა"
 
 msgid "Stopped"
 msgstr "შეწყდა"
@@ -6954,7 +6960,7 @@ msgid "Suggested"
 msgstr "შემოთავაზებული"
 
 msgid "Suggestions"
-msgstr ""
+msgstr "შეთავაზებები"
 
 msgid "Sum"
 msgstr "ჯამი"
@@ -7039,7 +7045,7 @@ msgid "System"
 msgstr "სისტემა"
 
 msgid "System dictionary"
-msgstr "სისტემური ლექსიკონი"
+msgstr "სისტემის ლექსიკონი"
 
 msgid "Tab Character"
 msgstr "ტაბულაციის სიმბოლო"
@@ -7144,7 +7150,7 @@ msgid "TC entry fields"
 msgstr "TC ჩანაწერის ველები"
 
 msgid "Teal"
-msgstr ""
+msgstr "ზღვისფერი"
 
 msgid "Technology"
 msgstr "ტექნოლოგია"
@@ -7201,10 +7207,10 @@ msgid "Text Pane"
 msgstr "ტექსტის პანელი"
 
 msgid "Text properties only: Word's number, date and yes-no types aren't offered."
-msgstr ""
+msgstr "მხოლოდ ტექსტური თვისებები: Word-ის რიცხვის, თარიღისა და „დიახ/არა“ ტიპები არ არის შეთავაზებული."
 
 msgid "Text Size"
-msgstr ""
+msgstr "ტექსტის ზომა"
 
 msgid "Text size"
 msgstr "ტექსტის ზომა"
@@ -7258,7 +7264,7 @@ msgid "The document is read only, except for regions marked editable."
 msgstr "დოკუმენტი მხოლოდ წასაკითხია, გარდა რედაქტირებადად მონიშნული არეებისა."
 
 msgid "The document or selection changed. Check again to continue."
-msgstr ""
+msgstr "დოკუმენტი ან მონიშნული შეიცვალა. გასაგრძელებლად ხელახლა შეამოწმეთ."
 
 msgid "The document will be saved with a password. Save it to protect it."
 msgstr "დოკუმენტი პაროლით შეინახება. შეინახეთ, რომ დაიცვათ."
@@ -7306,7 +7312,7 @@ msgid "The spelling and grammar check is complete."
 msgstr "მართლწერისა და გრამატიკის შემოწმება დასრულდა."
 
 msgid "The spelling and hyphenation data WordCraft uses, and their licences."
-msgstr ""
+msgstr "მართლწერისა და დამარცვლის მონაცემები, რომლებსაც WordCraft იყენებს, და მათი ლიცენზიები."
 
 msgid "The spelling dictionary for {language} couldn't be read, so it isn't checked. File: {file}. Reason: {reason}"
 msgstr "მართლწერის ლექსიკონი ({language}) ვერ იკითხება, ამიტომ ტექსტი არ მოწმდება. ფაილი: {file}. მიზეზი: {reason}"
@@ -7348,7 +7354,7 @@ msgid "Then insert:"
 msgstr "მაშინ ჩაისვას:"
 
 msgid "There are no macros yet. Record one to add it here."
-msgstr ""
+msgstr "მაკროსები ჯერ არ არის. ჩაწერეთ მაკროსი და ის აქ დაემატება."
 
 msgid "there is no ink to replay"
 msgstr "დასაკრავი მელანი არ არის"
@@ -7396,7 +7402,7 @@ msgid "This document"
 msgstr "ეს დოკუმენტი"
 
 msgid "This document has no custom properties."
-msgstr ""
+msgstr "ამ დოკუმენტს მორგებული თვისებები არ აქვს."
 
 msgid "This document only?"
 msgstr "მხოლოდ ეს დოკუმენტი?"
@@ -7595,7 +7601,7 @@ msgid "turn on View Side by Side first"
 msgstr ""
 
 msgid "Turquoise"
-msgstr ""
+msgstr "ფირუზისფერი"
 
 msgid "Two"
 msgstr "ორი"
@@ -7750,7 +7756,7 @@ msgid "Up one level"
 msgstr "ერთი დონით ზემოთ"
 
 msgid "Update check is not supported in the web browser."
-msgstr ""
+msgstr "განახლებების შემოწმება ვებბრაუზერში მხარდაჭერილი არ არის."
 
 msgid "Update Field"
 msgstr "ველის განახლება"
@@ -8113,7 +8119,7 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "შეირწყმება მიმღები: {count} / {total}."
 
 msgid "{field}, record {n}"
-msgstr ""
+msgstr "{field}, ჩანაწერი {n}"
 
 msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
@@ -8158,13 +8164,13 @@ msgid "{language} (no dictionary)"
 msgstr "{language} (ლექსიკონის გარეშე)"
 
 msgid "{language} ({region})"
-msgstr ""
+msgstr "{language} ({region})"
 
 msgid "{language} is now the document's default language."
 msgstr "{language} ახლა დოკუმენტის ნაგულისხმევი ენაა."
 
 msgid "{language} proofing isn't installed."
-msgstr ""
+msgstr "კორექტურა ({language}) დაინსტალირებული არ არის."
 
 msgid "{language}: no dictionary found"
 msgstr "{language}: ლექსიკონი ვერ მოიძებნა"
@@ -8203,13 +8209,13 @@ msgid "{n} entries marked."
 msgstr "მარკირებული ჩანაწერი: {n}."
 
 msgid "{n} KB"
-msgstr ""
+msgstr "{n} KB"
 
 msgid "{n} lines"
 msgstr "სტრიქონი: {n}"
 
 msgid "{n} MB"
-msgstr ""
+msgstr "{n} MB"
 
 msgid "{n} pt"
 msgstr "{n} პტ"

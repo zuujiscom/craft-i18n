@@ -3751,6 +3751,9 @@ msgstr ""
 msgid "Language Packs"
 msgstr ""
 
+msgid "Language packs"
+msgstr ""
+
 msgid "Language packs aren't available in the browser"
 msgstr ""
 
@@ -6787,6 +6790,9 @@ msgid "Spelling and grammar are checked in English (United States)."
 msgstr ""
 
 msgid "Spelling and grammar are checked in {language}."
+msgstr ""
+
+msgid "Spelling dictionaries and hyphenation for more languages. English is built in."
 msgstr ""
 
 msgid "Spelling Suggestions"

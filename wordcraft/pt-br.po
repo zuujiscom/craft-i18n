@@ -3753,6 +3753,9 @@ msgstr "Dados de idioma"
 msgid "Language Packs"
 msgstr "Pacotes de idiomas"
 
+msgid "Language packs"
+msgstr ""
+
 msgid "Language packs aren't available in the browser"
 msgstr "Pacotes de idiomas não estão disponíveis no navegador"
 
@@ -6790,6 +6793,9 @@ msgstr "A ortografia e a gramática são verificadas em inglês (Estados Unidos)
 
 msgid "Spelling and grammar are checked in {language}."
 msgstr "Idioma da verificação de ortografia e gramática: {language}."
+
+msgid "Spelling dictionaries and hyphenation for more languages. English is built in."
+msgstr ""
 
 msgid "Spelling Suggestions"
 msgstr "Sugestões de ortografia"

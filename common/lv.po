@@ -857,7 +857,7 @@ msgid "Darkness"
 msgstr "Tumšums"
 
 msgid "Dashed"
-msgstr "Svītrots"
+msgstr "Raustīts"
 
 msgid "Data"
 msgstr "Dati"

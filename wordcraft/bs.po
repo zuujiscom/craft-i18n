@@ -3753,6 +3753,9 @@ msgstr ""
 msgid "Language Packs"
 msgstr ""
 
+msgid "Language packs"
+msgstr ""
+
 msgid "Language packs aren't available in the browser"
 msgstr ""
 
@@ -6790,6 +6793,9 @@ msgstr "Pravopis i gramatika se provjeravaju na engleskom (Sjedinjene Države)."
 
 msgid "Spelling and grammar are checked in {language}."
 msgstr "Pravopis i gramatika se provjeravaju na jeziku: {language}."
+
+msgid "Spelling dictionaries and hyphenation for more languages. English is built in."
+msgstr ""
 
 msgid "Spelling Suggestions"
 msgstr "Pravopisni prijedlozi"

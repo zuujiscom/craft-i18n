@@ -137,7 +137,7 @@ msgid "; cancelled — {n} files were not run"
 msgstr "; atcelts — {n} faili netika apstrādāti"
 
 msgid "; converted to {level}, but not everything complies yet ({first}); see Apply PDF standards ▸ Save as PDF/A"
-msgstr "; pārvērsts uz {level}, taču vēl ne viss atbilst prasībām ({first}); skatiet Lietot PDF standartus > Saglabāt kā PDF/A"
+msgstr "; pārvērsts uz {level}, taču vēl ne viss atbilst prasībām ({first}); skatiet Lietot PDF standartus ▸ Saglabāt kā PDF/A"
 
 msgid "; corrected {n} pages"
 msgstr "; labotas {n} lapas"
@@ -146,7 +146,7 @@ msgid "; failed: {list}"
 msgstr "; neizdevās: {list}"
 
 msgid "; not PDF/A yet: {list} (open them in Apply PDF standards ▸ Save as PDF/A)"
-msgstr "; vēl nav PDF/A: {list} (atveriet tos sadaļā Lietot PDF standartus > Saglabāt kā PDF/A)"
+msgstr "; vēl nav PDF/A: {list} (atveriet tos sadaļā Lietot PDF standartus ▸ Saglabāt kā PDF/A)"
 
 msgid "; not saved as {level}: {why}"
 msgstr "; nav saglabāts kā {level}: {why}"
@@ -3696,7 +3696,7 @@ msgid "Each set is a text file in"
 msgstr "Katrs komplekts ir teksta fails mapē"
 
 msgid "Each set is a text file in the guide-set folder (Preferences ▸ Units and guides ▸ Open folder). Edit it in any text editor, send it to others, or drop theirs into the folder, then click Reload. Distances are measured from the edge you name, so a set fits other page sizes."
-msgstr "Katrs komplekts ir teksta fails palīglīniju komplektu mapē (Iestatījumi > Vienības un palīglīnijas > Atvērt mapi). Rediģējiet to jebkurā teksta redaktorā, nosūtiet citiem vai ievietojiet viņu failus mapē un pēc tam noklikšķiniet uz Pārlādēt. Attālumi tiek mērīti no norādītās malas, tāpēc komplekts der arī citiem lapu izmēriem."
+msgstr "Katrs komplekts ir teksta fails palīglīniju komplektu mapē (Iestatījumi ▸ Vienības un palīglīnijas ▸ Atvērt mapi). Rediģējiet to jebkurā teksta redaktorā, nosūtiet citiem vai ievietojiet viņu failus mapē un pēc tam noklikšķiniet uz Pārlādēt. Attālumi tiek mērīti no norādītās malas, tāpēc komplekts der arī citiem lapu izmēriem."
 
 msgid "Earlier in calculation order"
 msgstr "Agrāk aprēķinu secībā"
@@ -5547,10 +5547,10 @@ msgid "JavaScript console…"
 msgstr "JavaScript konsole…"
 
 msgid "JavaScript is turned off (Preferences → JavaScript)."
-msgstr "JavaScript ir izslēgts (Iestatījumi > JavaScript)."
+msgstr "JavaScript ir izslēgts (Iestatījumi → JavaScript)."
 
 msgid "JavaScript is turned off (Preferences ▸ JavaScript)."
-msgstr "JavaScript ir izslēgts (Iestatījumi > JavaScript)."
+msgstr "JavaScript ir izslēgts (Iestatījumi ▸ JavaScript)."
 
 msgid "JavaScript is turned off by your administrator."
 msgstr "JavaScript ir izslēdzis jūsu administrators."
@@ -6744,7 +6744,7 @@ msgid "No saved sets yet"
 msgstr "Vēl nav saglabātu komplektu"
 
 msgid "No saved sets yet. Right-click a ruler ▸ Save guides as a set…, or put a set file in the folder."
-msgstr "Vēl nav saglabātu komplektu. Noklikšķiniet ar peles labo pogu uz lineāla > Saglabāt palīglīnijas kā komplektu… vai ievietojiet komplekta failu mapē."
+msgstr "Vēl nav saglabātu komplektu. Noklikšķiniet ar peles labo pogu uz lineāla ▸ Saglabāt palīglīnijas kā komplektu… vai ievietojiet komplekta failu mapē."
 
 msgid "No scanned pages were cleaned up."
 msgstr "Skenētās lapas netika notīrītas."
@@ -8996,7 +8996,7 @@ msgid "Right-click a guide for a colour, Properties… (colour, thickness, label
 msgstr "Ar peles labo pogu uz palīglīnijas: krāsa, Rekvizīti… (krāsa, biezums, etiķete, visas lapas) un Dzēst. Dubultklikšķis arī atver Rekvizīti."
 
 msgid "Right-click a ruler ▸ Save guides as a set… keeps the guides, the unit and, if you like, the grid under a name and a shortcut. {first} … {last} shows and hides a set over any document; Edit in document turns it back into guides you can move."
-msgstr "Ar peles labo pogu uz lineāla > Saglabāt palīglīnijas kā komplektu… saglabā palīglīnijas, vienību un, ja vēlaties, režģi ar nosaukumu un saīsni. {first} … {last} rāda un paslēpj komplektu virs jebkura dokumenta; Rediģēt dokumentā tos atkal pārvērš par pārvietojamām palīglīnijām."
+msgstr "Ar peles labo pogu uz lineāla ▸ Saglabāt palīglīnijas kā komplektu… saglabā palīglīnijas, vienību un, ja vēlaties, režģi ar nosaukumu un saīsni. {first} … {last} rāda un paslēpj komplektu virs jebkura dokumenta; Rediģēt dokumentā tos atkal pārvērš par pārvietojamām palīglīnijām."
 
 msgid "Right-to-left page order"
 msgstr "Lapu secība no labās uz kreiso"
@@ -10164,7 +10164,7 @@ msgid "Signatures panel"
 msgstr "Parakstu panelis"
 
 msgid "Signed after this signature, so what they signed includes it: {names}."
-msgstr "Parakstīts pēc šī paraksta, tāpēc to parakstītais to ietver: {names}."
+msgstr "Parakstīja pēc šī paraksta, tāpēc tas ir iekļauts viņu parakstītajā versijā: {names}."
 
 msgid "Signed and all signatures are valid."
 msgstr "Parakstīts, un visi paraksti ir derīgi."
@@ -10382,7 +10382,7 @@ msgid "Spacing between copies"
 msgstr "Atstatums starp kopijām"
 
 msgid "Spacing, offset, subdivisions, colour and thickness are in Preferences ▸ Units and guides."
-msgstr "Atstatums, nobīde, apakšiedaļas, krāsa un biezums ir sadaļā Iestatījumi > Vienības un palīglīnijas."
+msgstr "Atstatums, nobīde, apakšiedaļas, krāsa un biezums ir sadaļā Iestatījumi ▸ Vienības un palīglīnijas."
 
 msgid "spans two paragraphs"
 msgstr "aizņem divas rindkopas"
@@ -12179,7 +12179,7 @@ msgid "This key is used for “{what}” and can't be changed."
 msgstr "Šis taustiņš tiek izmantots darbībai „{what}” un nav maināms."
 
 msgid "This key moves around the interface on its own. Add Ctrl to use it."
-msgstr "Šis taustiņš pats pārvieto pa saskarni. Pievienojiet Ctrl, lai to izmantotu."
+msgstr "Šis taustiņš pats pārvietojas pa saskarni. Pievienojiet Ctrl, lai to izmantotu."
 
 msgid "This large file is being read from disk to save memory, so it can't be edited, filled in or signed yet."
 msgstr "Šis lielais fails tiek lasīts no diska, lai taupītu atmiņu, tāpēc to vēl nevar rediģēt, aizpildīt vai parakstīt."
@@ -12248,7 +12248,7 @@ msgid "this signature can't be removed on its own"
 msgstr "šo parakstu nevar noņemt atsevišķi"
 
 msgid "This signature uses an RSA key shorter than 2048 bits, which is no longer considered strong enough for signatures. It still validates, but it should not be relied on."
-msgstr "Šis paraksts izmanto RSA atslēgu, kas īsāka par 2048 bitiem un parakstiem vairs netiek uzskatīta par pietiekami stipru. Tas joprojām tiek validēts, bet uz to nevajadzētu paļauties."
+msgstr "Šis paraksts izmanto par 2048 bitiem īsāku RSA atslēgu, kas parakstiem vairs netiek uzskatīta par pietiekami stipru. Tas joprojām tiek validēts, bet uz to nevajadzētu paļauties."
 
 msgid "This signature uses RIPEMD-160, a legacy 160-bit hash algorithm that is no longer recommended for signatures. It still validates, but it should not be relied on."
 msgstr "Šis paraksts izmanto RIPEMD-160, mantotu 160 bitu jaucējalgoritmu, kas parakstiem vairs netiek ieteikts. Tas joprojām tiek validēts, bet uz to nevajadzētu paļauties."
@@ -12296,7 +12296,7 @@ msgid "Timestamp server"
 msgstr "Laikspiedolu serveris"
 
 msgid "Timestamps and revocation information need the desktop app. Turn them off in Preferences ▸ Signatures to sign here."
-msgstr "Laikspiedoliem un atsaukšanas informācijai nepieciešama datora lietotne. Lai parakstītu šeit, izslēdziet tos sadaļā Iestatījumi > Paraksti."
+msgstr "Laikspiedoliem un atsaukšanas informācijai nepieciešama datora lietotne. Lai parakstītu šeit, izslēdziet tos sadaļā Iestatījumi ▸ Paraksti."
 
 msgid "Tint Strength"
 msgstr "Tonējuma stiprums"
@@ -12915,13 +12915,13 @@ msgid "View signed version"
 msgstr "Skatīt parakstīto versiju"
 
 msgid "View ▸ Grid ({grid}) draws a grid over the pages; View ▸ Snap to grid ({snap}) makes a dragged guide snap to it."
-msgstr "Skats > Režģis ({grid}) zīmē režģi virs lapām; Skats > Piesaistīt režģim ({snap}) piesaista velkamu palīglīniju režģim."
+msgstr "Skats ▸ Režģis ({grid}) zīmē režģi virs lapām; Skats ▸ Piesaistīt režģim ({snap}) piesaista velkamu palīglīniju režģim."
 
 msgid "View ▸ Guides ({guides}) hides and shows them; View ▸ Clear guides removes this document's guides. Guides are never saved in the PDF."
-msgstr "Skats > Palīglīnijas ({guides}) tās paslēpj un parāda; Skats > Notīrīt palīglīnijas noņem šī dokumenta palīglīnijas. Palīglīnijas nekad netiek saglabātas PDF failā."
+msgstr "Skats ▸ Palīglīnijas ({guides}) tās paslēpj un parāda; Skats ▸ Notīrīt palīglīnijas noņem šī dokumenta palīglīnijas. Palīglīnijas nekad netiek saglabātas PDF failā."
 
 msgid "View ▸ Rulers ({rulers}) shows a ruler above and beside the pages. Click the corner between them to step to the next unit, or right-click a ruler to choose one."
-msgstr "Skats > Lineāli ({rulers}) rāda lineālu virs lapām un blakus tām. Noklikšķiniet uz stūra starp tiem, lai pārslēgtu nākamo vienību, vai ar peles labo pogu uz lineāla, lai to izvēlētos."
+msgstr "Skats ▸ Lineāli ({rulers}) rāda lineālu virs lapām un blakus tām. Noklikšķiniet uz stūra starp tiem, lai pārslēgtu nākamo vienību, vai ar peles labo pogu uz lineāla, lai to izvēlētos."
 
 msgid "Viewing"
 msgstr "Skatīšana"

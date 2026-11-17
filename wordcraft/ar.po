@@ -3753,6 +3753,9 @@ msgstr "بيانات اللغة"
 msgid "Language Packs"
 msgstr "حزم اللغات"
 
+msgid "Language packs"
+msgstr ""
+
 msgid "Language packs aren't available in the browser"
 msgstr ""
 
@@ -6790,6 +6793,9 @@ msgstr ""
 
 msgid "Spelling and grammar are checked in {language}."
 msgstr "يُدقَّق الإملاء والقواعد بلغة {language}."
+
+msgid "Spelling dictionaries and hyphenation for more languages. English is built in."
+msgstr ""
 
 msgid "Spelling Suggestions"
 msgstr "اقتراحات الإملاء"

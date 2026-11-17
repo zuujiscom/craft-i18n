@@ -2646,7 +2646,7 @@ msgid "File type"
 msgstr "Faila veids"
 
 msgid "File › New lists the .dotx and .dotm templates here under Personal; Save as Word Template starts here."
-msgstr "Fails > Jauns šeit parāda .dotx un .dotm veidnes sadaļā Personīgās; Saglabāt kā Word veidni sākas šeit."
+msgstr "Fails › Jauns šeit parāda .dotx un .dotm veidnes sadaļā Personīgās; Saglabāt kā Word veidni sākas šeit."
 
 msgid "Fill color:"
 msgstr "Aizpildījuma krāsa:"
@@ -3751,6 +3751,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs"
 msgstr ""
 
 msgid "Language packs aren't available in the browser"
@@ -4895,7 +4898,7 @@ msgid "On: the caret glides to its new place when you type or use the arrow keys
 msgstr "Ieslēgts: kursors slīd uz jauno vietu, rakstot vai izmantojot bulttaustiņus, un tā mirgošana izgaist. Izslēgts: tas lec un mirgo."
 
 msgid "On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document."
-msgstr "Ieslēgts: WordCraft atveras sadaļā Fails > Sākums ar tukšu dokumentu, veidnēm un nesenajiem dokumentiem. Izslēgts: atveras tukšs dokuments."
+msgstr "Ieslēgts: WordCraft atveras sadaļā Fails › Sākums ar tukšu dokumentu, veidnēm un nesenajiem dokumentiem. Izslēgts: atveras tukšs dokuments."
 
 msgid "One"
 msgstr "Viens"
@@ -4974,7 +4977,7 @@ msgid "Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft 
 msgstr "Turpmāk atver .docx, .doc, .rtf un .odt failus un Word veidnes ar WordCraft."
 
 msgid "Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types."
-msgstr "Atver Iestatījumi > Noklusējuma lietotnes, kur izvēlaties WordCraft .docx un citiem dokumentu veidiem."
+msgstr "Atver Iestatījumi › Noklusējuma lietotnes, kur izvēlaties WordCraft .docx un citiem dokumentu veidiem."
 
 msgid "Operator"
 msgstr "Operators"
@@ -6045,7 +6048,7 @@ msgid "Saved. Saved again. Still saved. It's very saved."
 msgstr "Saglabāts. Atkal saglabāts. Joprojām saglabāts. Ļoti saglabāts."
 
 msgid "Saves a .dotx template in your templates folder. It shows up in File › New under Personal."
-msgstr "Saglabā .dotx veidni jūsu veidņu mapē. Tā parādās sadaļā Fails > Jauns zem Personīgās."
+msgstr "Saglabā .dotx veidni jūsu veidņu mapē. Tā parādās sadaļā Fails › Jauns zem Personīgās."
 
 msgid "Saving {name} was cancelled, so it is still open and nothing was lost."
 msgstr "{name} saglabāšana tika atcelta, tāpēc tas joprojām ir atvērts un nekas nav zaudēts."
@@ -6405,7 +6408,7 @@ msgid "Show Comments"
 msgstr "Rādīt komentārus"
 
 msgid "Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged."
-msgstr "Rādīt dokumentus ar invertētām krāsām, kā Skats > Pārslēgt režīmus. Saglabāšana, drukāšana un PDF faili netiek mainīti."
+msgstr "Rādīt dokumentus ar invertētām krāsām, kā Skats › Pārslēgt režīmus. Saglabāšana, drukāšana un PDF faili netiek mainīti."
 
 msgid "Show every bibliography field"
 msgstr "Rādīt visus bibliogrāfijas laukus"
@@ -6790,6 +6793,9 @@ msgstr "Pareizrakstība un gramatika tiek pārbaudīta angļu valodā (Amerikas 
 
 msgid "Spelling and grammar are checked in {language}."
 msgstr "Pareizrakstība un gramatika tiek pārbaudīta valodā: {language}."
+
+msgid "Spelling dictionaries and hyphenation for more languages. English is built in."
+msgstr ""
 
 msgid "Spelling Suggestions"
 msgstr "Pareizrakstības ieteikumi"
@@ -7469,7 +7475,7 @@ msgid "Title:"
 msgstr "Nosaukums:"
 
 msgid "To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All."
-msgstr "Lai pēc noklusējuma atvērtu Word dokumentus ar WordCraft: atlasiet vienu programmā Finder, izvēlieties File > Get Info, sadaļā Open with izvēlieties WordCraft un pēc tam noklikšķiniet uz Change All."
+msgstr "Lai pēc noklusējuma atvērtu Word dokumentus ar WordCraft: atlasiet vienu programmā Finder, izvēlieties File › Get Info, sadaļā Open with izvēlieties WordCraft un pēc tam noklikšķiniet uz Change All."
 
 msgid "To:"
 msgstr "Līdz:"
@@ -7867,7 +7873,7 @@ msgid "View State"
 msgstr "Skata stāvoklis"
 
 msgid "View › Focus hides everything but your words. I'll wait outside."
-msgstr "Skats > Fokuss paslēpj visu, izņemot jūsu vārdus. Es pagaidīšu ārā."
+msgstr "Skats › Fokuss paslēpj visu, izņemot jūsu vārdus. Es pagaidīšu ārā."
 
 msgid "Viewing"
 msgstr "Skatīšana"
