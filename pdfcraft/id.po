@@ -17,7 +17,7 @@ msgid " (searching… {s} of {p} pages)"
 msgstr " (mencari… {s} dari {p} halaman)"
 
 msgid " ({n} at {dpi} dpi, the largest size they can be drawn at)"
-msgstr " ({n} pada {dpi} dpi, ukuran terbesar yang dapat digambarnya)"
+msgstr " ({n} pada {dpi} dpi, ukuran terbesar yang dapat ditampilkan)"
 
 msgid " ({n} left as they are)"
 msgstr ""
@@ -101,7 +101,7 @@ msgid "1 page selected."
 msgstr "1 halaman dipilih."
 
 msgid "1 page was scanned."
-msgstr "1 page was scanned."
+msgstr "1 halaman berhasil dipindai."
 
 msgid "180 degrees"
 msgstr "180 derajat"
@@ -209,7 +209,7 @@ msgid "A colour image is drawn at {} ppi"
 msgstr ""
 
 msgid "A colour on this page couldn't be computed and is shown in a fallback colour."
-msgstr "Sebuah warna di halaman ini tidak dapat dihitung dan ditampilkan dengan warna pengganti."
+msgstr "Ada warna di halaman ini yang tidak dapat dihitung dan ditampilkan dengan warna pengganti."
 
 msgid "A colour operator's operands don't match its colour space"
 msgstr ""
@@ -233,7 +233,7 @@ msgid "A content stream is drawn with different resources in different places, s
 msgstr ""
 
 msgid "A cover on the scanner is open."
-msgstr "A cover on the scanner is open."
+msgstr "Penutup pemindai terbuka."
 
 msgid "A diagonal CONFIDENTIAL watermark on every page."
 msgstr "Watermark CONFIDENTIAL diagonal pada setiap halaman."
@@ -296,7 +296,7 @@ msgid "A link"
 msgstr "Sebuah tautan"
 
 msgid "A link or special file, which isn't followed"
-msgstr "A link or special file, which isn't followed"
+msgstr "Tautan atau file khusus yang tidak ditelusuri"
 
 msgid "A local model is not a frontier cloud model: it can be wrong, and a long answer takes its time on CPU. Check anything critical, and mind a model's size against this machine before downloading it."
 msgstr ""
@@ -308,7 +308,7 @@ msgid "A mesh shading's colours change too sharply between its corners to conver
 msgstr ""
 
 msgid "A page count stops the feeder after that many sheets. Cancel ends the transfer early; pages already received stay in the document."
-msgstr "A page count stops the feeder after that many sheets. Cancel ends the transfer early; pages already received stay in the document."
+msgstr "Pemindai berhenti setelah jumlah lembar yang ditentukan. Batal menghentikan pemindaian lebih awal; halaman yang sudah diterima tetap ada di dokumen."
 
 msgid "A password-protected file is only checked to reopen when saved; its bytes are not searched again for the removed text."
 msgstr ""
@@ -332,7 +332,7 @@ msgid "A picture's data can't be read, so it can't be converted to CMYK"
 msgstr ""
 
 msgid "A placed signature is a comment until it is locked: anyone with a PDF editor can move or remove it. Locking makes your Fill & Sign text, marks and signatures part of the page."
-msgstr "Tanda tangan yang ditempatkan adalah komentar sampai dikunci: siapa pun yang memiliki editor PDF dapat memindahkan atau menghapusnya. Mengunci menjadikan teks, tanda, dan tanda tangan Isi & Tanda Tangani Anda bagian dari halaman."
+msgstr "Tanda tangan yang ditempatkan masih berupa anotasi sampai dikunci. Siapa pun yang memakai editor PDF dapat memindahkan atau menghapusnya. Penguncian menyatukan teks, tanda, dan tanda tangan dari Isi & Tanda Tangani dengan isi halaman."
 
 msgid "A PNG or SVG file. It is read from this place each time PdfCraft starts."
 msgstr "File PNG atau SVG. File dibaca dari lokasi ini setiap kali PdfCraft dimulai."
@@ -851,7 +851,7 @@ msgid "Advanced unit formats"
 msgstr ""
 
 msgid "Advanced…"
-msgstr "Advanced…"
+msgstr "Lanjutan…"
 
 msgid "After Sign, enter the OTT code from the mSzafir app in CloudSigner's window and approve the signature in the app. With CloudSigner's persistent OTT code on, the code is asked for only once every few minutes."
 msgstr ""
@@ -911,7 +911,7 @@ msgid "All page content is tagged"
 msgstr "Semua konten halaman diberi tag"
 
 msgid "All pages asks the driver for the whole stack."
-msgstr "All pages asks the driver for the whole stack."
+msgstr "Semua halaman meminta driver memindai seluruh tumpukan kertas."
 
 msgid "All pages in document"
 msgstr "Semua halaman dalam dokumen"
@@ -986,7 +986,7 @@ msgid "Always read with both engines and merge the words"
 msgstr ""
 
 msgid "Always use my default zoom and page layout"
-msgstr "Always use my default zoom and page layout"
+msgstr "Selalu gunakan pembesaran dan tata letak halaman bawaan saya"
 
 msgid "An action is already running"
 msgstr "Sebuah tindakan sedang berjalan"
@@ -1270,7 +1270,7 @@ msgid "Auto portrait/landscape"
 msgstr "Potret/landscape otomatis"
 
 msgid "Auto-deskew"
-msgstr "Auto-deskew"
+msgstr "Luruskan otomatis"
 
 msgid "Auto-detect"
 msgstr ""
@@ -1324,7 +1324,7 @@ msgid "Back to measurement"
 msgstr ""
 
 msgid "Back to Prepare a form"
-msgstr "Back to Prepare a form"
+msgstr "Kembali ke Siapkan formulir"
 
 msgid "Back to the default keys"
 msgstr "Kembali ke tombol bawaan"
@@ -1364,7 +1364,7 @@ msgid "Bates numbering"
 msgstr "Penomoran Bates"
 
 msgid "Bed"
-msgstr "Bed"
+msgstr "Kaca pemindai"
 
 msgid "Before each selected page (select pages in Organize)"
 msgstr "Sebelum setiap halaman yang dipilih (pilih halaman di Atur)"
@@ -1451,7 +1451,7 @@ msgid "Bookmarks are present in large documents"
 msgstr "Bookmark ada pada dokumen besar"
 
 msgid "Bookmarks panel"
-msgstr "Panel markah"
+msgstr "Panel bookmark"
 
 msgid "Bookmarks Panel and Page"
 msgstr "Panel Bookmark dan Halaman"
@@ -1514,7 +1514,7 @@ msgid "Built-in"
 msgstr ""
 
 msgid "Bulleted list"
-msgstr "Bulleted list"
+msgstr "Daftar berpoin"
 
 msgid "Butt"
 msgstr "Rata"
@@ -1547,7 +1547,7 @@ msgid "CAdES signature envelope"
 msgstr ""
 
 msgid "Calculation order"
-msgstr "Calculation order"
+msgstr "Urutan perhitungan"
 
 msgid "Calibrate from two points"
 msgstr "Kalibrasi dari dua titik"
@@ -1574,7 +1574,7 @@ msgid "Cancel drawing"
 msgstr "Batalkan menggambar"
 
 msgid "Cancel reverse sides"
-msgstr "Cancel reverse sides"
+msgstr "Batalkan pemindaian sisi belakang"
 
 msgid "Canceling…"
 msgstr "Membatalkan…"
@@ -1799,13 +1799,13 @@ msgid "Check spelling while typing"
 msgstr "Periksa ejaan saat mengetik"
 
 msgid "Check that the feeder has paper, or wait for the scanner to finish, then choose Continue."
-msgstr "Check that the feeder has paper, or wait for the scanner to finish, then choose Continue."
+msgstr "Pastikan ada kertas di pengumpan, atau tunggu hingga pemindai selesai, lalu pilih Lanjutkan."
 
 msgid "Check that the feeder has paper, or wait for the scanner to finish, then choose Try again."
-msgstr "Check that the feeder has paper, or wait for the scanner to finish, then choose Try again."
+msgstr "Pastikan ada kertas di pengumpan, atau tunggu hingga pemindai selesai, lalu pilih Coba lagi."
 
 msgid "Check that the tags read in the order a sighted reader would. Use the Reading Order tool or the Tags panel to correct it."
-msgstr "Pastikan tag dibaca dalam urutan seperti yang akan dibaca pembaca yang melihat. Gunakan alat Urutan Baca atau panel Tag untuk memperbaikinya."
+msgstr "Pastikan urutan tag sesuai dengan urutan baca pada tampilan halaman. Gunakan alat Urutan Baca atau panel Tag untuk memperbaikinya."
 
 msgid "Check the pages"
 msgstr "Periksa halaman"
@@ -1814,13 +1814,13 @@ msgid "Check the pages of {name}: {why}"
 msgstr "Periksa halaman {name}: {why}"
 
 msgid "Check the scanner is on and connected, then choose Continue."
-msgstr "Check the scanner is on and connected, then choose Continue."
+msgstr "Pastikan pemindai menyala dan tersambung, lalu pilih Lanjutkan."
 
 msgid "Check the scanner is on and connected, then choose Try again."
-msgstr "Check the scanner is on and connected, then choose Try again."
+msgstr "Pastikan pemindai menyala dan tersambung, lalu pilih Coba lagi."
 
 msgid "CheckBox"
-msgstr "CheckBox"
+msgstr "Kotak centang"
 
 msgid "Checkbox"
 msgstr "Kotak centang"
@@ -1853,7 +1853,7 @@ msgid "Checking pages…"
 msgstr "Memeriksa halaman…"
 
 msgid "Checking the scanner…"
-msgstr "Checking the scanner…"
+msgstr "Memeriksa pemindai…"
 
 msgid "Checking the structure… {n} objects so far"
 msgstr "Memeriksa struktur… {n} objek sejauh ini"
@@ -2035,7 +2035,7 @@ msgid "Clear redaction marks"
 msgstr "Hapus tanda penyensoran"
 
 msgid "Clear region"
-msgstr "Clear region"
+msgstr "Hapus area pilihan"
 
 msgid "Clear search"
 msgstr "Bersihkan pencarian"
@@ -2044,10 +2044,10 @@ msgid "Clear selection / close find"
 msgstr "Hapus pilihan / tutup pencarian"
 
 msgid "Clear the jam and load the remaining sheets squarely, then choose Continue."
-msgstr "Clear the jam and load the remaining sheets squarely, then choose Continue."
+msgstr "Keluarkan kertas yang macet dan masukkan sisa lembar dengan rapi, lalu pilih Lanjutkan."
 
 msgid "Clear the jam and load the sheets squarely, then choose Try again."
-msgstr "Clear the jam and load the sheets squarely, then choose Try again."
+msgstr "Keluarkan kertas yang macet dan masukkan kembali lembar dengan rapi, lalu pilih Coba lagi."
 
 msgid "Click a word to inspect it; drag a rectangle to re-read part of the page"
 msgstr ""
@@ -2128,10 +2128,10 @@ msgid "Close tabs to the right"
 msgstr ""
 
 msgid "Close the feeder cover and check the paper, then choose Continue."
-msgstr "Close the feeder cover and check the paper, then choose Continue."
+msgstr "Tutup penutup pengumpan dan periksa kertasnya, lalu pilih Lanjutkan."
 
 msgid "Close the feeder cover and check the paper, then choose Try again."
-msgstr "Close the feeder cover and check the paper, then choose Try again."
+msgstr "Tutup penutup pengumpan dan periksa kertasnya, lalu pilih Coba lagi."
 
 msgid "Close Window"
 msgstr "Tutup Jendela"
@@ -2182,7 +2182,7 @@ msgid "Color Document"
 msgstr ""
 
 msgid "Color document"
-msgstr "Color document"
+msgstr "Dokumen berwarna"
 
 msgid "Color Images"
 msgstr "Gambar berwarna"
@@ -2368,13 +2368,13 @@ msgid "Conformance level:"
 msgstr "Tingkat kesesuaian:"
 
 msgid "Connected by USB."
-msgstr "Connected by USB."
+msgstr "Tersambung melalui USB."
 
 msgid "Connected lines"
 msgstr "Garis terhubung"
 
 msgid "Connected over the network (Web Services). Options come from that driver, not the USB one."
-msgstr "Connected over the network (Web Services). Options come from that driver, not the USB one."
+msgstr "Tersambung melalui jaringan (Web Services). Opsi berasal dari driver jaringan, bukan driver USB."
 
 msgid "Console"
 msgstr "Konsol"
@@ -2389,7 +2389,7 @@ msgid "Content not read to the end on pages: {pages}"
 msgstr ""
 
 msgid "Content Streams"
-msgstr "Content Streams"
+msgstr "Stream konten"
 
 msgid "Content uses DeviceRGB colour: PDF/X-1a allows only CMYK, gray and spot colour"
 msgstr ""
@@ -2401,13 +2401,13 @@ msgid "Content uses {} colour, which doesn't match the output intent's colour sp
 msgstr ""
 
 msgid "Continue scanning"
-msgstr "Continue scanning"
+msgstr "Lanjutkan pemindaian"
 
 msgid "Continue scanning fronts"
-msgstr "Continue scanning fronts"
+msgstr "Lanjutkan pemindaian sisi depan"
 
 msgid "Continue scanning reverse sides"
-msgstr "Continue scanning reverse sides"
+msgstr "Lanjutkan pemindaian sisi belakang"
 
 msgid "Continuous scrolling"
 msgstr "Gulir terus-menerus"
@@ -2443,7 +2443,7 @@ msgid "Convert to PDF with PdfCraft"
 msgstr "Konversi ke PDF dengan PdfCraft"
 
 msgid "Converted from an EPUB book."
-msgstr "Converted from an EPUB book."
+msgstr "Dikonversi dari buku EPUB."
 
 msgid "Converted from an EPUB book. Details lists how it was laid out and what was left out."
 msgstr "Dikonversi dari buku EPUB. Detail menjelaskan tata letaknya dan apa yang tidak disertakan."
@@ -2572,7 +2572,7 @@ msgid "Couldn't attach the file"
 msgstr "Tidak dapat melampirkan file"
 
 msgid "Couldn't be read: {reason}"
-msgstr "Couldn't be read: {reason}"
+msgstr "Tidak dapat dibaca: {reason}"
 
 msgid "Couldn't check for updates: {e}"
 msgstr "Tidak dapat memeriksa pembaruan: {e}"
@@ -2821,13 +2821,13 @@ msgid "Created a PDF from {n} files; left out: {names}"
 msgstr "Membuat PDF dari {n} file; tidak disertakan: {names}"
 
 msgid "Created Scan.pdf"
-msgstr "Created Scan.pdf"
+msgstr "Scan.pdf dibuat"
 
 msgid "Created {n} links"
 msgstr "{n} tautan dibuat"
 
 msgid "Created {n} scanned files"
-msgstr "Created {n} scanned files"
+msgstr "{n} file hasil pindai dibuat"
 
 msgid "Creates 1 file from {n} pages."
 msgstr "Membuat 1 file dari {n} halaman."
@@ -3496,7 +3496,7 @@ msgid "DPI sets the printed page size without resampling the image."
 msgstr "DPI mengatur ukuran halaman cetak tanpa mengambil ulang sampel gambar."
 
 msgid "Drag a field to move it, or select it and press {up} or {down}."
-msgstr "Drag a field to move it, or select it and press {up} or {down}."
+msgstr "Seret kolom untuk memindahkannya, atau pilih kolom lalu tekan {up} atau {down}."
 
 msgid "Drag a guide out of a ruler onto a page; hold Shift as you drop it to put it on every page. Drag it back onto a ruler to remove it, or right-click it for its colour, thickness and label. Guides and the grid are never saved in the PDF."
 msgstr ""
@@ -3526,7 +3526,7 @@ msgid "Drag hotbar"
 msgstr ""
 
 msgid "Drag on the preview to choose a region. An empty selection scans the whole area."
-msgstr "Drag on the preview to choose a region. An empty selection scans the whole area."
+msgstr "Seret pada pratinjau untuk memilih area. Jika tidak ada area yang dipilih, seluruh area akan dipindai."
 
 msgid "Drag the corners onto the document's edges, then choose Enhance page."
 msgstr "Seret sudutnya ke tepi dokumen, lalu pilih Peningkatan halaman."
@@ -3595,7 +3595,7 @@ msgid "Drawing scale changes. Use Actual size for full-scale plans."
 msgstr "Skala gambar berubah. Gunakan Ukuran sebenarnya untuk gambar berskala penuh."
 
 msgid "Driver default"
-msgstr "Driver default"
+msgstr "Bawaan driver"
 
 msgid "Drop PDFs or folders here, or choose them."
 msgstr "Letakkan PDF atau folder di sini, atau pilih."
@@ -3610,10 +3610,10 @@ msgid "Dropdown Properties"
 msgstr "Properti Dropdown"
 
 msgid "Duplex"
-msgstr "Duplex"
+msgstr "Dua sisi"
 
 msgid "Duplex is not offered."
-msgstr "Duplex is not offered."
+msgstr "Pemindaian dua sisi tidak tersedia."
 
 msgid "Duplicate \"{name}\" onto:"
 msgstr "Duplikasi \"{name}\" ke:"
@@ -3691,7 +3691,7 @@ msgid "Each set is a text file in the guide-set folder (Preferences ▸ Units an
 msgstr ""
 
 msgid "Earlier in calculation order"
-msgstr "Earlier in calculation order"
+msgstr "Majukan dalam urutan perhitungan"
 
 msgid "Earlier in tab order"
 msgstr "Lebih awal dalam urutan tab"
@@ -3764,7 +3764,7 @@ msgid "Edit this PDF"
 msgstr "Edit PDF ini"
 
 msgid "Edit {field}'s formula"
-msgstr "Edit {field}'s formula"
+msgstr "Edit rumus {field}"
 
 msgid "Editable text"
 msgstr ""
@@ -3800,7 +3800,7 @@ msgid "Enable snapping"
 msgstr ""
 
 msgid "Enable text access for screen reader devices for the visually impaired"
-msgstr "Aktifkan akses teks untuk pembaca layar bagi tuna netra"
+msgstr "Izinkan pembaca layar mengakses teks bagi pengguna dengan hambatan penglihatan"
 
 msgid "Enabled"
 msgstr "Aktif"
@@ -3952,10 +3952,10 @@ msgid "Evens out the paper so a grey or yellowed background turns white, and dar
 msgstr ""
 
 msgid "Every field calculates after the fields it reads."
-msgstr "Every field calculates after the fields it reads."
+msgstr "Setiap kolom dihitung setelah kolom yang menjadi sumber nilainya."
 
 msgid "Every field outside a loop calculates after the fields it reads."
-msgstr "Every field outside a loop calculates after the fields it reads."
+msgstr "Setiap kolom di luar siklus dihitung setelah kolom yang menjadi sumber nilainya."
 
 msgid "Every line set in the style chosen for a level becomes a bookmark of that level, under a new first bookmark."
 msgstr ""
@@ -4212,7 +4212,7 @@ msgid "February"
 msgstr "Februari"
 
 msgid "Feeder"
-msgstr "Feeder"
+msgstr "Pengumpan kertas"
 
 msgid "Feet"
 msgstr ""
@@ -4518,7 +4518,7 @@ msgid "Fix hairlines…"
 msgstr "Perbaiki garis rambut…"
 
 msgid "Fix order"
-msgstr "Fix order"
+msgstr "Perbaiki urutan"
 
 msgid "Fix reading order"
 msgstr "Perbaiki urutan baca"
@@ -4834,7 +4834,7 @@ msgid "From Finder: select files, then right-click > Quick Actions > Combine fil
 msgstr "Dari Finder: pilih file, lalu klik kanan > Aksi Cepat > Gabungkan file di PdfCraft. Tidak ada di daftar? Aktifkan sekali di Aksi Cepat > Sesuaikan."
 
 msgid "From scanner…"
-msgstr "From scanner…"
+msgstr "Dari pemindai…"
 
 msgid "From template"
 msgstr "Dari templat"
@@ -4849,16 +4849,16 @@ msgid "Front side only"
 msgstr "Hanya sisi depan"
 
 msgid "front(s)"
-msgstr "front(s)"
+msgstr "sisi depan"
 
 msgid "Fronts scanned: {n}. Flip the sheet on the bed, then choose Scan reverse sides."
-msgstr "Fronts scanned: {n}. Flip the sheet on the bed, then choose Scan reverse sides."
+msgstr "Sisi depan dipindai: {n}. Balik lembar di kaca pemindai, lalu pilih Pindai sisi belakang."
 
 msgid "Fronts scanned: {n}. Flip the stack so the last sheet is on top, reload it, then choose Scan reverse sides."
-msgstr "Fronts scanned: {n}. Flip the stack so the last sheet is on top, reload it, then choose Scan reverse sides."
+msgstr "Sisi depan dipindai: {n}. Balik tumpukan agar lembar terakhir berada di atas, masukkan kembali, lalu pilih Pindai sisi belakang."
 
 msgid "Full area"
-msgstr "Full area"
+msgstr "Seluruh area"
 
 msgid "Full screen mode"
 msgstr "Mode layar penuh"
@@ -5339,7 +5339,7 @@ msgid "Insert pages from {name} — fields renamed"
 msgstr "Sisipkan halaman dari {name} — kolom diganti namanya"
 
 msgid "Insert scanned pages"
-msgstr "Insert scanned pages"
+msgstr "Sisipkan halaman hasil pindai"
 
 msgid "Insert text"
 msgstr "Sisipkan teks"
@@ -5354,7 +5354,7 @@ msgid "Inserted page"
 msgstr "Halaman disisipkan"
 
 msgid "Inserted scanned pages"
-msgstr "Inserted scanned pages"
+msgstr "Halaman hasil pindai disisipkan"
 
 msgid "Inserted text"
 msgstr "Teks yang disisipkan"
@@ -5363,7 +5363,7 @@ msgid "Inserting, deleting, and rotating pages"
 msgstr "Menyisipkan, menghapus, dan memutar halaman"
 
 msgid "Inset"
-msgstr "Inset"
+msgstr "Jarak ke dalam"
 
 msgid "Inspector"
 msgstr "Inspektur"
@@ -5427,7 +5427,7 @@ msgid "Invert middle-button drag"
 msgstr ""
 
 msgid "Invert tones"
-msgstr "Invert tones"
+msgstr "Balik warna"
 
 msgid "Inverted page background"
 msgstr "Latar halaman yang dibalik"
@@ -5514,7 +5514,7 @@ msgid "its language (Lang) isn't a language tag"
 msgstr ""
 
 msgid "Its script also reads fields whose names it builds as it runs, so those reads can't be checked."
-msgstr "Its script also reads fields whose names it builds as it runs, so those reads can't be checked."
+msgstr "Skrip ini juga membaca kolom yang namanya disusun saat skrip berjalan, sehingga ketergantungan tersebut tidak dapat diperiksa."
 
 msgid "Its security settings don't allow copying pages"
 msgstr "Pengaturan keamanannya tidak mengizinkan penyalinan halaman"
@@ -5610,13 +5610,13 @@ msgid "Keep trailing zeros or denominator"
 msgstr ""
 
 msgid "Key Agreement"
-msgstr "Key Agreement"
+msgstr "Kesepakatan kunci"
 
 msgid "Key Algorithm"
 msgstr "Algoritma kunci"
 
 msgid "Key Encipherment"
-msgstr "Key Encipherment"
+msgstr "Enkripsi kunci"
 
 msgid "Key usage"
 msgstr "Penggunaan kunci"
@@ -5644,10 +5644,10 @@ msgid "Labels: {preview}. Later pages keep their labels."
 msgstr "Label: {preview}. Halaman berikutnya tetap memakai labelnya."
 
 msgid "Lamp"
-msgstr "Lamp"
+msgstr "Lampu"
 
 msgid "Lamp on"
-msgstr "Lamp on"
+msgstr "Lampu menyala"
 
 msgid "Landscape and Portrait Pages"
 msgstr "Halaman Landskap dan Potret"
@@ -5662,7 +5662,7 @@ msgid "Language and spelling"
 msgstr "Bahasa dan ejaan"
 
 msgid "Large scan"
-msgstr "Large scan"
+msgstr "Hasil pindai berukuran besar"
 
 msgid "Larger drawing tools. Use two fingers to move or zoom; use Hand to move with one finger."
 msgstr ""
@@ -5674,16 +5674,16 @@ msgid "Larger text"
 msgstr ""
 
 msgid "Larger than 512 MiB"
-msgstr "Larger than 512 MiB"
+msgstr "Lebih besar dari 512 MiB"
 
 msgid "Larger thumbnails"
-msgstr "Larger thumbnails"
+msgstr "Perbesar gambar mini"
 
 msgid "Last page"
 msgstr "Halaman terakhir"
 
 msgid "Later in calculation order"
-msgstr "Later in calculation order"
+msgstr "Mundurkan dalam urutan perhitungan"
 
 msgid "Later in tab order"
 msgstr "Nanti dalam urutan tab"
@@ -5695,7 +5695,7 @@ msgid "Latitude"
 msgstr ""
 
 msgid "Layer options"
-msgstr "Layer options"
+msgstr "Opsi lapisan"
 
 msgid "Layers (optional content) need PDF 1.5, newer than {} allows"
 msgstr ""
@@ -5833,7 +5833,7 @@ msgid "links"
 msgstr "tautan"
 
 msgid "Links on page"
-msgstr "Links on page"
+msgstr "Tautan di halaman"
 
 msgid "Links, actions and JavaScripts"
 msgstr "Tautan, aksi dan JavaScript"
@@ -5857,10 +5857,10 @@ msgid "List PKCS #11 token (smart card, HSM) signing identities"
 msgstr ""
 
 msgid "Listing scanners…"
-msgstr "Listing scanners…"
+msgstr "Mencari pemindai…"
 
 msgid "Listing the folder…"
-msgstr "Listing the folder…"
+msgstr "Membaca isi folder…"
 
 msgid "Lists"
 msgstr "Daftar"
@@ -5872,16 +5872,16 @@ msgid "Load font…"
 msgstr "Muat font…"
 
 msgid "Load more sheets, then choose Continue; or choose Finish to keep what was scanned."
-msgstr "Load more sheets, then choose Continue; or choose Finish to keep what was scanned."
+msgstr "Tambahkan kertas lalu pilih Lanjutkan, atau pilih Selesai untuk menyimpan halaman yang sudah dipindai."
 
 msgid "Load sheets in the feeder, then choose Try again."
-msgstr "Load sheets in the feeder, then choose Try again."
+msgstr "Masukkan kertas ke pengumpan, lalu pilih Coba lagi."
 
 msgid "Load to edit"
-msgstr "Load to edit"
+msgstr "Muat untuk diedit"
 
 msgid "Loading {name}…"
-msgstr "Loading {name}…"
+msgstr "Memuat {name}…"
 
 msgid "Loading…"
 msgstr "Memuat…"
@@ -5926,10 +5926,10 @@ msgid "Look"
 msgstr ""
 
 msgid "Look at the scanner for a message or an open door or cover, fix what it shows, then choose Continue."
-msgstr "Look at the scanner for a message or an open door or cover, fix what it shows, then choose Continue."
+msgstr "Periksa pesan di pemindai serta pintu atau penutup yang terbuka. Atasi masalahnya, lalu pilih Lanjutkan."
 
 msgid "Look at the scanner for a message or an open door or cover, fix what it shows, then choose Try again."
-msgstr "Look at the scanner for a message or an open door or cover, fix what it shows, then choose Try again."
+msgstr "Periksa pesan di pemindai serta pintu atau penutup yang terbuka. Atasi masalahnya, lalu pilih Coba lagi."
 
 msgid "Looking for a local model runtime…"
 msgstr ""
@@ -5944,7 +5944,7 @@ msgid "Looking for printers…"
 msgstr "Mencari printer…"
 
 msgid "Loop"
-msgstr "Loop"
+msgstr "Siklus"
 
 msgid "Loupe Tool"
 msgstr ""
@@ -5965,7 +5965,7 @@ msgid "LOW-CONFIDENCE WORDS"
 msgstr ""
 
 msgid "Lowering this forgets the oldest files. At 0 there is no list."
-msgstr "Lowering this forgets the oldest files. At 0 there is no list."
+msgstr "Mengurangi jumlah ini menghapus entri paling lama dari daftar. Nilai 0 menonaktifkan daftar."
 
 msgid "Make accessible"
 msgstr "Jadikan aksesibel"
@@ -6001,7 +6001,7 @@ msgid "Manage plugins…"
 msgstr ""
 
 msgid "Manual duplex needs one reverse side for each front."
-msgstr "Manual duplex needs one reverse side for each front."
+msgstr "Pemindaian dua sisi manual memerlukan satu sisi belakang untuk setiap sisi depan."
 
 msgid "Map accuracy"
 msgstr ""
@@ -6107,7 +6107,7 @@ msgid "Matches what was signed"
 msgstr ""
 
 msgid "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {searched} of {found}."
-msgstr "Matches: {matches}. Files with matches: {files}. PDFs read to the end: {searched} of {found}."
+msgstr "Hasil cocok: {matches}. File dengan hasil cocok: {files}. PDF yang selesai dibaca: {searched} dari {found}."
 
 msgid "maximum"
 msgstr "maksimum"
@@ -6204,13 +6204,13 @@ msgid "minimum"
 msgstr "minimum"
 
 msgid "Mirror the page"
-msgstr "Mirror the page"
+msgstr "Cerminkan halaman"
 
 msgid "Missing field"
-msgstr "Missing field"
+msgstr "Kolom tidak ditemukan"
 
 msgid "Missing from the calculation order saved in the PDF: other PDF viewers may not calculate it."
-msgstr "Missing from the calculation order saved in the PDF: other PDF viewers may not calculate it."
+msgstr "Tidak tercantum dalam urutan perhitungan yang disimpan di PDF; penampil PDF lain mungkin tidak menghitung kolom ini."
 
 msgid "Mixed"
 msgstr "Campuran"
@@ -6304,7 +6304,7 @@ msgid "Move objects"
 msgstr "Pindahkan objek"
 
 msgid "Move only what must move, so every field calculates after the fields it reads."
-msgstr "Move only what must move, so every field calculates after the fields it reads."
+msgstr "Pindahkan hanya kolom yang perlu dipindah agar setiap kolom dihitung setelah kolom yang menjadi sumber nilainya."
 
 msgid "Move out of parent tag"
 msgstr "Pindahkan keluar dari tag induk"
@@ -6361,7 +6361,7 @@ msgid "Moved page"
 msgstr "Halaman dipindah"
 
 msgid "Moves only what must move"
-msgstr "Moves only what must move"
+msgstr "Hanya memindahkan yang perlu"
 
 msgid "Multi-line"
 msgstr "Multi-baris"
@@ -6436,7 +6436,7 @@ msgid "Nested alternate text"
 msgstr "Teks alternatif bersarang"
 
 msgid "Network"
-msgstr "Network"
+msgstr "Jaringan"
 
 msgid "Network address"
 msgstr ""
@@ -6598,7 +6598,7 @@ msgid "No field in this form calculates its value yet. Give a field a calculatio
 msgstr ""
 
 msgid "No field reads it"
-msgstr "No field reads it"
+msgstr "Tidak dibaca oleh kolom lain"
 
 msgid "No file chosen"
 msgstr "Tidak ada file yang dipilih"
@@ -6664,7 +6664,7 @@ msgid "No openly licensed document fonts found. Load a font file."
 msgstr "Tidak ditemukan font dokumen berlisensi terbuka. Muat sebuah file font."
 
 msgid "No order can fix a loop. Change one of the formulas."
-msgstr "No order can fix a loop. Change one of the formulas."
+msgstr "Mengubah urutan tidak dapat mengatasi siklus. Ubah salah satu rumus."
 
 msgid "no output folder was chosen"
 msgstr "tidak ada folder keluaran yang dipilih"
@@ -6679,7 +6679,7 @@ msgid "No pages selected"
 msgstr "Tidak ada halaman yang dipilih"
 
 msgid "No pages were scanned."
-msgstr "No pages were scanned."
+msgstr "Tidak ada halaman yang dipindai."
 
 msgid "No PDF files were found."
 msgstr "Tidak ditemukan berkas PDF."
@@ -6745,7 +6745,7 @@ msgid "No scanner found"
 msgstr ""
 
 msgid "No scanner is connected."
-msgstr "No scanner is connected."
+msgstr "Tidak ada pemindai yang tersambung."
 
 msgid "No scanners were found. Check that the scanner is on and connected, or enter its network address."
 msgstr ""
@@ -6802,7 +6802,7 @@ msgid "No usable CMYK output intent: RGB and CIE-based colours separate by the I
 msgstr "Tidak ada niat keluaran CMYK yang dapat digunakan: warna RGB dan berbasis CIE dipisahkan dengan rumus perangkat ISO 32000."
 
 msgid "Non-Repudiation"
-msgstr "Non-Repudiation"
+msgstr "Nirpenyangkalan"
 
 msgid "none"
 msgstr "tidak ada"
@@ -6887,7 +6887,7 @@ msgid "not in an LI (list item)"
 msgstr "bukan di dalam LI (item daftar)"
 
 msgid "Not in order"
-msgstr "Not in order"
+msgstr "Belum masuk urutan"
 
 msgid "Not now"
 msgstr "Jangan sekarang"
@@ -6902,7 +6902,7 @@ msgid "Not replaced: {why}"
 msgstr "Tidak diganti: {why}"
 
 msgid "Not searched: {n}"
-msgstr "Not searched: {n}"
+msgstr "Tidak ditelusuri: {n}"
 
 msgid "not the first child of its list"
 msgstr ""
@@ -6960,7 +6960,7 @@ msgid "Number pages…"
 msgstr "Nomor halaman…"
 
 msgid "Numbered list"
-msgstr "Numbered list"
+msgstr "Daftar bernomor"
 
 msgid "OCR complete — no text recognized on this page."
 msgstr ""
@@ -7182,10 +7182,10 @@ msgid "Open tabs and edits update the search automatically."
 msgstr ""
 
 msgid "Open the cover, clear any jam or sheets fed together, load the remaining sheets squarely, then choose Continue."
-msgstr "Open the cover, clear any jam or sheets fed together, load the remaining sheets squarely, then choose Continue."
+msgstr "Buka penutup, keluarkan kertas yang macet atau tertarik bersamaan, lalu masukkan sisa lembar dengan rapi dan pilih Lanjutkan."
 
 msgid "Open the cover, clear any jam or sheets fed together, load the sheets squarely, then choose Try again."
-msgstr "Open the cover, clear any jam or sheets fed together, load the sheets squarely, then choose Try again."
+msgstr "Buka penutup, keluarkan kertas yang macet atau tertarik bersamaan, lalu masukkan kembali lembar dengan rapi dan pilih Coba lagi."
 
 msgid "Open the file as it was saved then"
 msgstr "Buka file seperti saat disimpan"
@@ -7239,7 +7239,7 @@ msgid "OpenType font programs need PDF 1.6, newer than {} allows"
 msgstr ""
 
 msgid "Optical resolution {x} × {y} dpi."
-msgstr "Optical resolution {x} × {y} dpi."
+msgstr "Resolusi optik {x} × {y} dpi."
 
 msgid "Optimization cancelled"
 msgstr "Optimalkan dibatalkan"
@@ -7293,7 +7293,7 @@ msgid "Options for this reply"
 msgstr "Opsi untuk balasan ini"
 
 msgid "Order · top calculates first"
-msgstr "Order · top calculates first"
+msgstr "Urutan · paling atas dihitung lebih dulu"
 
 msgid "Organization Name"
 msgstr "Nama Organisasi"
@@ -7332,7 +7332,7 @@ msgid "Other elements that require alternate text"
 msgstr "Elemen lain yang memerlukan teks alternatif"
 
 msgid "Other options"
-msgstr "Other options"
+msgstr "Opsi lainnya"
 
 msgid "Other provider (CSC API)"
 msgstr "Penyedia lain (API CSC)"
@@ -7587,7 +7587,7 @@ msgid "Pages that are only pictures of text can't be read aloud or searched. Rec
 msgstr "Halaman yang hanya berisi gambar teks tidak dapat dibaca dengan suara atau dicari. Gunakan Pengenalan teks (OCR) untuk menambahkan lapisan teks."
 
 msgid "Pages that couldn't be read: {n}"
-msgstr "Pages that couldn't be read: {n}"
+msgstr "Halaman yang tidak dapat dibaca: {n}"
 
 msgid "Pages that use Type 3 fonts print as images, because Windows can close PdfCraft while printing them. The other pages print as usual."
 msgstr ""
@@ -7641,7 +7641,7 @@ msgid "Paper:"
 msgstr "Kertas:"
 
 msgid "Paragraph spacing"
-msgstr "Paragraph spacing"
+msgstr "Jarak antarparagraf"
 
 msgid "Part of"
 msgstr "Bagian dari"
@@ -7809,7 +7809,7 @@ msgid "Phone Numbers"
 msgstr "Nomor Telepon"
 
 msgid "Photometric"
-msgstr "Photometric"
+msgstr "Fotometrik"
 
 msgid "Pick a tool in the quick bar, or type above."
 msgstr "Pilih alat di bilah cepat, atau ketik di atas."
@@ -8004,13 +8004,13 @@ msgid "Prevent G-SYNC/FreeSync flicker (applies at next launch)"
 msgstr "Cegah kedipan G-SYNC/FreeSync (berlaku saat peluncuran berikutnya)"
 
 msgid "Preview is for the bed. Set a region in inches below, or leave it empty for the whole sheet."
-msgstr "Preview is for the bed. Set a region in inches below, or leave it empty for the whole sheet."
+msgstr "Pratinjau memakai kaca pemindai. Tentukan area dalam inci di bawah ini, atau kosongkan untuk memindai seluruh lembar."
 
 msgid "Preview unavailable: {e}"
 msgstr "Pratinjau tidak tersedia: {e}"
 
 msgid "Preview uses the bed. Switch the source to Bed, or scan without a preview."
-msgstr "Preview uses the bed. Switch the source to Bed, or scan without a preview."
+msgstr "Pratinjau memakai kaca pemindai. Ubah sumber ke Kaca pemindai, atau pindai tanpa pratinjau."
 
 msgid "Preview: page {p} of {n}"
 msgstr "Pratinjau: halaman {p} dari {n}"
@@ -8091,7 +8091,7 @@ msgid "Printer address:"
 msgstr "Alamat printer:"
 
 msgid "Printer default"
-msgstr "Printer default"
+msgstr "Bawaan printer"
 
 msgid "printer marks"
 msgstr "tanda printer"
@@ -8185,7 +8185,7 @@ msgid "pure black stays 100% K or gray 0 instead of a mix"
 msgstr "hitam murni tetap 100% K atau abu-abu 0, bukan campuran"
 
 msgid "PushButton"
-msgstr "PushButton"
+msgstr "Tombol tekan"
 
 msgid "Quality:"
 msgstr "Kualitas:"
@@ -8284,7 +8284,7 @@ msgid "Reading colours"
 msgstr "Warna pembacaan"
 
 msgid "Reading file {n} of {total}: {name}"
-msgstr "Reading file {n} of {total}: {name}"
+msgstr "Membaca file {n} dari {total}: {name}"
 
 msgid "Reading options…"
 msgstr ""
@@ -8299,7 +8299,7 @@ msgid "Reading preferences…"
 msgstr ""
 
 msgid "Reading the printer's settings…"
-msgstr "Reading the printer's settings…"
+msgstr "Membaca pengaturan printer…"
 
 msgid "Reading the raw document…"
 msgstr ""
@@ -8311,13 +8311,13 @@ msgid "Reads pages and files even where the skip options would leave them alone"
 msgstr ""
 
 msgid "Reads {names}, which read it back. No order can fix a loop: change one of the formulas."
-msgstr "Reads {names}, which read it back. No order can fix a loop: change one of the formulas."
+msgstr "Membaca {names}, yang juga membaca kolom ini. Mengubah urutan tidak dapat mengatasi siklus; ubah salah satu rumus."
 
 msgid "Reads {name}, which calculates later, so it shows an old value."
-msgstr "Reads {name}, which calculates later, so it shows an old value."
+msgstr "Membaca {name} yang dihitung belakangan, sehingga nilai yang ditampilkan belum diperbarui."
 
 msgid "Reads {name}, which the form doesn't have, so it gets no value there."
-msgstr "Reads {name}, which the form doesn't have, so it gets no value there."
+msgstr "Membaca {name} yang tidak ada di formulir, sehingga tidak mendapat nilai dari kolom itu."
 
 msgid "Real length"
 msgstr ""
@@ -8338,7 +8338,7 @@ msgid "Recent colours"
 msgstr "Warna terbaru"
 
 msgid "Recent files to keep"
-msgstr "Recent files to keep"
+msgstr "Jumlah file terakhir dalam daftar"
 
 msgid "Recipients"
 msgstr "Penerima"
@@ -8410,7 +8410,7 @@ msgid "Redact all"
 msgstr "Sensor semua"
 
 msgid "Redact Image"
-msgstr "Redaksi gambar"
+msgstr "Sensor gambar"
 
 msgid "Redact pages"
 msgstr "Sensori halaman"
@@ -8431,7 +8431,7 @@ msgid "Redaction code:"
 msgstr "Kode sensor:"
 
 msgid "Redaction mark appearance"
-msgstr "Tampilan tanda redaksi"
+msgstr "Tampilan tanda sensor"
 
 msgid "Redaction properties…"
 msgstr "Properti penyensoran…"
@@ -8482,13 +8482,13 @@ msgid "Reflowable"
 msgstr "Dapat dialirkan ulang"
 
 msgid "Refresh lists scanners. It does not feed paper."
-msgstr "Refresh lists scanners. It does not feed paper."
+msgstr "Segarkan memperbarui daftar pemindai tanpa menarik kertas."
 
 msgid "Refresh plugins"
 msgstr ""
 
 msgid "Region in inches. Leave the width or the height at zero to scan the whole area."
-msgstr "Region in inches. Leave the width or the height at zero to scan the whole area."
+msgstr "Area dalam inci. Biarkan lebar atau tinggi bernilai nol untuk memindai seluruh area."
 
 msgid "Registration marks"
 msgstr "Tanda registrasi"
@@ -8859,7 +8859,7 @@ msgid "Reset side panels"
 msgstr ""
 
 msgid "Reset to Initial Visibility"
-msgstr "Reset to Initial Visibility"
+msgstr "Kembalikan ke tampilan awal"
 
 msgid "Reset to printer defaults"
 msgstr "Atur ulang ke bawaan printer"
@@ -8940,13 +8940,13 @@ msgid "Reverse portrait"
 msgstr "Potret terbalik"
 
 msgid "reverse side(s)"
-msgstr "reverse side(s)"
+msgstr "sisi belakang"
 
 msgid "Reverse sides"
-msgstr "Reverse sides"
+msgstr "Sisi belakang"
 
 msgid "Reverse sides interleaved."
-msgstr "Reverse sides interleaved."
+msgstr "Sisi depan dan belakang sudah diselingi."
 
 msgid "Revert changes"
 msgstr "Kembalikan perubahan"
@@ -9385,7 +9385,7 @@ msgid "Scan correction"
 msgstr "Koreksi hasil pindai"
 
 msgid "Scan interrupted"
-msgstr "Scan interrupted"
+msgstr "Pemindaian terhenti"
 
 msgid "Scan next page"
 msgstr ""
@@ -9394,25 +9394,25 @@ msgid "Scan processing cancelled"
 msgstr "Pemrosesan hasil pindai dibatalkan"
 
 msgid "Scan reverse side now (1 front)"
-msgstr "Scan reverse side now (1 front)"
+msgstr "Pindai sisi belakang sekarang (1 sisi depan)"
 
 msgid "Scan reverse sides"
-msgstr "Scan reverse sides"
+msgstr "Pindai sisi belakang"
 
 msgid "Scan reverse sides now ({n} fronts)"
-msgstr "Scan reverse sides now ({n} fronts)"
+msgstr "Pindai sisi belakang sekarang ({n} sisi depan)"
 
 msgid "Scan the front, flip the sheet on the bed, then scan the reverse side."
-msgstr "Scan the front, flip the sheet on the bed, then scan the reverse side."
+msgstr "Pindai sisi depan, balik lembar di kaca pemindai, lalu pindai sisi belakangnya."
 
 msgid "Scan the fronts before the reverse sides."
-msgstr "Scan the fronts before the reverse sides."
+msgstr "Pindai sisi depan sebelum sisi belakang."
 
 msgid "Scan the fronts, flip the stack (last sheet on top), then scan the reverse sides. Pages are interleaved front, back, …"
-msgstr "Scan the fronts, flip the stack (last sheet on top), then scan the reverse sides. Pages are interleaved front, back, …"
+msgstr "Pindai sisi depan, balik tumpukan (lembar terakhir di atas), lalu pindai sisi belakang. Halaman akan diselingi: depan, belakang, …"
 
 msgid "Scan the missing reverse sides, then choose Finish."
-msgstr "Scan the missing reverse sides, then choose Finish."
+msgstr "Pindai sisi belakang yang belum dipindai, lalu pilih Selesai."
 
 msgid "Scanned pages are already being enhanced"
 msgstr ""
@@ -9427,43 +9427,43 @@ msgid "Scanned text detected"
 msgstr "Teks pindaian terdeteksi"
 
 msgid "Scanner"
-msgstr "Scanner"
+msgstr "Pemindai"
 
 msgid "Scanner settings"
-msgstr "Scanner settings"
+msgstr "Pengaturan pemindai"
 
 msgid "Scanner's full area"
 msgstr ""
 
 msgid "Scanning front {n} of {t}…"
-msgstr "Scanning front {n} of {t}…"
+msgstr "Memindai sisi depan {n} dari {t}…"
 
 msgid "Scanning front {n}…"
-msgstr "Scanning front {n}…"
+msgstr "Memindai sisi depan {n}…"
 
 msgid "Scanning isn't available in the web version"
 msgstr ""
 
 msgid "Scanning needs Windows (WIA) in this version."
-msgstr "Scanning needs Windows (WIA) in this version."
+msgstr "Versi ini memerlukan Windows (WIA) untuk memindai."
 
 msgid "Scanning page {n} of {t}…"
-msgstr "Scanning page {n} of {t}…"
+msgstr "Memindai halaman {n} dari {t}…"
 
 msgid "Scanning page {n}…"
-msgstr "Scanning page {n}…"
+msgstr "Memindai halaman {n}…"
 
 msgid "Scanning reverse side {n} of {t}…"
-msgstr "Scanning reverse side {n} of {t}…"
+msgstr "Memindai sisi belakang {n} dari {t}…"
 
 msgid "Scanning reverse side {n}…"
-msgstr "Scanning reverse side {n}…"
+msgstr "Memindai sisi belakang {n}…"
 
 msgid "Scanning was stopped"
 msgstr ""
 
 msgid "Scanning…"
-msgstr "Scanning…"
+msgstr "Memindai…"
 
 msgid "Screen / email"
 msgstr ""
@@ -9478,7 +9478,7 @@ msgid "Screen resolution"
 msgstr ""
 
 msgid "Script"
-msgstr "Script"
+msgstr "Skrip"
 
 msgid "Script Name:"
 msgstr "Nama Skrip:"
@@ -9517,10 +9517,10 @@ msgid "Scroll the page"
 msgstr "Gulir halaman"
 
 msgid "Search a folder"
-msgstr "Search a folder"
+msgstr "Cari di folder"
 
 msgid "Search a folder…"
-msgstr "Search a folder…"
+msgstr "Cari di folder…"
 
 msgid "Search all tools…"
 msgstr ""
@@ -9556,7 +9556,7 @@ msgid "Searchable Image (Exact)"
 msgstr "Gambar yang Dapat Dicari (Tepat)"
 
 msgid "Searching a folder needs the desktop app"
-msgstr "Searching a folder needs the desktop app"
+msgstr "Pencarian di folder memerlukan aplikasi desktop"
 
 msgid "Searching…"
 msgstr ""
@@ -9571,7 +9571,7 @@ msgid "Search…"
 msgstr "Cari…"
 
 msgid "Secured"
-msgstr "Secured"
+msgstr "Terlindungi"
 
 msgid "Security handler"
 msgstr ""
@@ -9746,10 +9746,10 @@ msgid "Separate PDFs"
 msgstr "Pisahkan PDF"
 
 msgid "Separate the sheets and load the remaining ones, then choose Continue."
-msgstr "Separate the sheets and load the remaining ones, then choose Continue."
+msgstr "Pisahkan lembar yang menempel dan masukkan sisa kertas, lalu pilih Lanjutkan."
 
 msgid "Separate the sheets and load them again, then choose Try again."
-msgstr "Separate the sheets and load them again, then choose Try again."
+msgstr "Pisahkan lembar yang menempel dan masukkan kembali, lalu pilih Coba lagi."
 
 msgid "Separate vertical units"
 msgstr ""
@@ -9871,7 +9871,7 @@ msgid "Set Trapped to True"
 msgstr ""
 
 msgid "Settings this source offers. Leave a control alone to keep the driver’s value."
-msgstr "Settings this source offers. Leave a control alone to keep the driver’s value."
+msgstr "Pengaturan yang tersedia untuk sumber ini. Biarkan pengaturan tetap seperti semula untuk memakai nilai dari driver."
 
 msgid "Several files have the same name, so their results would overwrite each other; nothing was written: {list}"
 msgstr ""
@@ -9997,7 +9997,7 @@ msgid "Show on other pages too"
 msgstr "Tampilkan juga di halaman lain"
 
 msgid "Show on the page which fields each field reads"
-msgstr "Show on the page which fields each field reads"
+msgstr "Tampilkan di halaman kolom mana yang menjadi sumber nilai setiap kolom"
 
 msgid "Show or hide the side panel"
 msgstr ""
@@ -10024,7 +10024,7 @@ msgid "Show the accessibility report"
 msgstr "Tampilkan laporan aksesibilitas"
 
 msgid "Show the current page number over the document"
-msgstr "Show the current page number over the document"
+msgstr "Tampilkan nomor halaman saat ini di atas dokumen"
 
 msgid "Show the Discord button in the title bar and the community card on Home"
 msgstr "Tampilkan tombol Discord di bilah judul dan kartu komunitas di Beranda"
@@ -10063,7 +10063,7 @@ msgid "Shrink oversized pages"
 msgstr "Perkecil halaman yang terlalu besar"
 
 msgid "Shrink the page content to make room for the header and footer"
-msgstr "Shrink the page content to make room for the header and footer"
+msgstr "Perkecil isi halaman untuk memberi ruang bagi header dan footer"
 
 msgid "Side by side"
 msgstr "Berdampingan"
@@ -10283,7 +10283,7 @@ msgid "Smaller text"
 msgstr ""
 
 msgid "Smaller thumbnails"
-msgstr "Smaller thumbnails"
+msgstr "Perkecil gambar mini"
 
 msgid "Smart card  ·  "
 msgstr "Kartu pintar  ·  "
@@ -10310,7 +10310,7 @@ msgid "Snap to points and lines (Alt skips it)"
 msgstr ""
 
 msgid "Snapping"
-msgstr "Snapping"
+msgstr "Lekat otomatis"
 
 msgid "Social Security Number"
 msgstr "Nomor Jaminan Sosial"
@@ -10337,7 +10337,7 @@ msgid "Some content could not be classified safely and was kept in the count."
 msgstr "Beberapa konten tidak dapat diklasifikasikan dengan aman dan tetap dihitung."
 
 msgid "Some names are built as it runs"
-msgstr "Some names are built as it runs"
+msgstr "Sebagian nama disusun saat skrip berjalan"
 
 msgid "Some page content couldn't be read; snapping uses the rest."
 msgstr "Sebagian konten halaman tidak dapat dibaca; tempelan memakai bagian sisanya."
@@ -10419,7 +10419,7 @@ msgid "Spot colours"
 msgstr ""
 
 msgid "Spreadsheet (.xlsx)"
-msgstr "Spreadsheet (.xlsx)"
+msgstr "Lembar kerja (.xlsx)"
 
 msgid "Square kilometres"
 msgstr ""
@@ -10514,13 +10514,13 @@ msgid "Stop reading"
 msgstr ""
 
 msgid "Stopped at {limit} matches."
-msgstr "Stopped at {limit} matches."
+msgstr "Pencarian dihentikan setelah {limit} hasil cocok."
 
 msgid "Stopped before the end."
-msgstr "Stopped before the end."
+msgstr "Dihentikan sebelum selesai."
 
 msgid "Stopped: too many files took too long to read."
-msgstr "Stopped: too many files took too long to read."
+msgstr "Dihentikan karena terlalu banyak file yang lama dibaca."
 
 msgid "Store JPEG images as JPEG XL (smaller, can be undone; needs a reader that supports JPEG XL)"
 msgstr "Simpan gambar JPEG sebagai JPEG XL (lebih kecil, dapat dibatalkan; memerlukan pembaca yang mendukung JPEG XL)"
@@ -10541,7 +10541,7 @@ msgid "Straighten skewed text lines"
 msgstr ""
 
 msgid "Straighten the page"
-msgstr "Straighten the page"
+msgstr "Luruskan halaman"
 
 msgid "Straightens skewed text lines before reading"
 msgstr ""
@@ -10633,10 +10633,10 @@ msgid "Switch page theme"
 msgstr ""
 
 msgid "Switch the scanner off and on again, wait until it is ready, then choose Continue."
-msgstr "Switch the scanner off and on again, wait until it is ready, then choose Continue."
+msgstr "Matikan lalu nyalakan kembali pemindai. Tunggu hingga siap, lalu pilih Lanjutkan."
 
 msgid "Switch the scanner off and on again, wait until it is ready, then choose Try again."
-msgstr "Switch the scanner off and on again, wait until it is ready, then choose Try again."
+msgstr "Matikan lalu nyalakan kembali pemindai. Tunggu hingga siap, lalu pilih Coba lagi."
 
 msgid "Switch to List view to change the pages it takes."
 msgstr "Beralih ke tampilan Daftar untuk mengubah halaman yang digunakannya."
@@ -10892,7 +10892,7 @@ msgid "the area, the spacing and the column widths must be numbers, the spacing 
 msgstr "area, jarak, dan lebar lajur harus berupa angka, jarak 0 atau lebih dan setiap lebar lebih dari 0"
 
 msgid "The bed scans one page at a time. Scan one front, flip it, then scan its reverse side."
-msgstr "The bed scans one page at a time. Scan one front, flip it, then scan its reverse side."
+msgstr "Kaca pemindai memindai satu halaman setiap kali. Pindai sisi depan, balik lembar, lalu pindai sisi belakangnya."
 
 msgid "The bleed is {} mm on its narrowest side"
 msgstr ""
@@ -11116,7 +11116,7 @@ msgid "The document's security settings don't allow filling in form fields"
 msgstr "Pengaturan keamanan dokumen tidak mengizinkan pengisian kolom formulir"
 
 msgid "The document's security settings don't allow printing"
-msgstr "The document's security settings don't allow printing"
+msgstr "Pengaturan keamanan dokumen tidak mengizinkan pencetakan"
 
 msgid "The document's security settings don't allow this change"
 msgstr "Pengaturan keamanan dokumen tidak mengizinkan perubahan ini"
@@ -11125,13 +11125,13 @@ msgid "The draft contains PDF attachments. Open it with a mail app that supports
 msgstr ""
 
 msgid "The driver may accept a turn and leave the picture as it was."
-msgstr "The driver may accept a turn and leave the picture as it was."
+msgstr "Driver mungkin menerima perintah rotasi tanpa memutar gambar."
 
 msgid "The driver reports a paper jam."
-msgstr "The driver reports a paper jam."
+msgstr "Driver melaporkan kertas macet."
 
 msgid "The driver reports a sheet waiting. The bit can stay on after the tray is empty."
-msgstr "The driver reports a sheet waiting. The bit can stay on after the tray is empty."
+msgstr "Driver melaporkan ada lembar yang menunggu. Status ini bisa tetap aktif meski baki sudah kosong."
 
 msgid "The ECDSA signature is not in canonical DER (trailing bytes, padding or a missing sign byte); it was read anyway."
 msgstr "Tanda tangan ECDSA bukan DER kanonis (byte tambahan, padding, atau byte tanda yang hilang); tetapi tetap dibaca."
@@ -11152,10 +11152,10 @@ msgid "The extracted pages aren't protected: the original's security settings do
 msgstr "Halaman yang diekstrak tidak dilindungi: pengaturan keamanan dokumen asli tidak ikut terbawa."
 
 msgid "The feeder ran out of paper."
-msgstr "The feeder ran out of paper."
+msgstr "Kertas di pengumpan habis."
 
 msgid "The feeder took more than one sheet."
-msgstr "The feeder took more than one sheet."
+msgstr "Pengumpan menarik lebih dari satu lembar sekaligus."
 
 msgid "The field properties could not be changed."
 msgstr "Properti kolom tidak dapat diubah."
@@ -11221,7 +11221,7 @@ msgid "The form's purpose and its fields (names, types, tab order)"
 msgstr ""
 
 msgid "The fronts already scanned are kept for the reverse-side pass."
-msgstr "The fronts already scanned are kept for the reverse-side pass."
+msgstr "Hasil pindai sisi depan tetap disimpan untuk dipasangkan dengan sisi belakang."
 
 msgid "The height follows the text. Widen the box or use one line to reduce it."
 msgstr ""
@@ -11332,7 +11332,7 @@ msgid "The operation failed."
 msgstr "Operasi gagal."
 
 msgid "The order saved in the PDF needs tidying"
-msgstr "The order saved in the PDF needs tidying"
+msgstr "Urutan yang disimpan di PDF perlu diperbaiki"
 
 msgid "The originals are not changed. A file of the same name in the output folder is kept, and the new one gets a number."
 msgstr "Berkas asli tidak diubah. Berkas bernama sama di folder keluaran tetap disimpan, dan berkas baru diberi nomor."
@@ -11401,7 +11401,7 @@ msgid "The page's words were cleared (undo in the panel)"
 msgstr ""
 
 msgid "The pages already scanned were kept in the document."
-msgstr "The pages already scanned were kept in the document."
+msgstr "Halaman yang sudah dipindai tetap ada di dokumen."
 
 msgid "The pages use {} spot colours"
 msgstr ""
@@ -11455,7 +11455,7 @@ msgid "The PKCS #11 tokens' digital IDs couldn't be listed: {e}"
 msgstr ""
 
 msgid "The preview could not be shown."
-msgstr "The preview could not be shown."
+msgstr "Pratinjau tidak dapat ditampilkan."
 
 msgid "The print job stopped unexpectedly"
 msgstr "Pekerjaan cetak berhenti secara tak terduga"
@@ -11527,16 +11527,16 @@ msgid "The resolution of an image can't be measured"
 msgstr ""
 
 msgid "The rest are left out of this list."
-msgstr "The rest are left out of this list."
+msgstr "Sisanya tidak ditampilkan dalam daftar ini."
 
 msgid "The restrictions apply to recipients without “All permissions”. It's applied when you save."
 msgstr "Pembatasan berlaku untuk penerima tanpa “Semua izin”. Diterapkan saat Anda menyimpan."
 
 msgid "The reverse sides already scanned are kept."
-msgstr "The reverse sides already scanned are kept."
+msgstr "Hasil pindai sisi belakang yang sudah diterima tetap disimpan."
 
 msgid "The reverse sides were cancelled: their document was closed."
-msgstr "The reverse sides were cancelled: their document was closed."
+msgstr "Pemindaian sisi belakang dibatalkan karena dokumennya ditutup."
 
 msgid "The role map maps {} in a circle"
 msgstr ""
@@ -11554,55 +11554,55 @@ msgid "The same password is tried on each file."
 msgstr "Kata sandi yang sama dicoba pada setiap file."
 
 msgid "The same printer is also available over the network."
-msgstr "The same printer is also available over the network."
+msgstr "Printer yang sama juga tersedia melalui jaringan."
 
 msgid "The same printer is also available over USB."
-msgstr "The same printer is also available over USB."
+msgstr "Printer yang sama juga tersedia melalui USB."
 
 msgid "The scan could not be started."
-msgstr "The scan could not be started."
+msgstr "Pemindaian tidak dapat dimulai."
 
 msgid "The scan produced no pages."
-msgstr "The scan produced no pages."
+msgstr "Pemindaian tidak menghasilkan halaman."
 
 msgid "The scan was cancelled at the scanner."
-msgstr "The scan was cancelled at the scanner."
+msgstr "Pemindaian dibatalkan dari perangkat pemindai."
 
 msgid "The scan was interrupted."
-msgstr "The scan was interrupted."
+msgstr "Pemindaian terhenti."
 
 msgid "The scan was stopped: its document was closed."
-msgstr "The scan was stopped: its document was closed."
+msgstr "Pemindaian dihentikan karena dokumennya ditutup."
 
 msgid "The scanner has a paper jam."
-msgstr "The scanner has a paper jam."
+msgstr "Kertas macet di pemindai."
 
 msgid "The scanner is busy, or the feeder has no paper."
-msgstr "The scanner is busy, or the feeder has no paper."
+msgstr "Pemindai sedang digunakan, atau kertas di pengumpan habis."
 
 msgid "The scanner is busy."
-msgstr "The scanner is busy."
+msgstr "Pemindai sedang digunakan."
 
 msgid "The scanner is offline or needs attention."
-msgstr "The scanner is offline or needs attention."
+msgstr "Pemindai tidak tersambung atau memerlukan penanganan."
 
 msgid "The scanner list could not be refreshed."
-msgstr "The scanner list could not be refreshed."
+msgstr "Daftar pemindai tidak dapat diperbarui."
 
 msgid "The scanner needs attention."
-msgstr "The scanner needs attention."
+msgstr "Pemindai memerlukan penanganan."
 
 msgid "The scanner reported a lamp or device error."
-msgstr "The scanner reported a lamp or device error."
+msgstr "Pemindai melaporkan gangguan lampu atau perangkat."
 
 msgid "The scanner reported a paper problem (a jam or several sheets fed together)."
-msgstr "The scanner reported a paper problem (a jam or several sheets fed together)."
+msgstr "Pemindai melaporkan masalah kertas (macet atau beberapa lembar tertarik bersamaan)."
 
 msgid "The screen's own pixels per inch. Calibrate with a ruler so that Actual size (100%) shows pages at their real size."
 msgstr ""
 
 msgid "The search stopped unexpectedly."
-msgstr "The search stopped unexpectedly."
+msgstr "Pencarian berhenti secara tak terduga."
 
 msgid "The searchable copies are written here under the source names"
 msgstr ""
@@ -12121,7 +12121,7 @@ msgid "This file was damaged and has been repaired. Saving keeps the repaired ve
 msgstr "File ini rusak dan telah diperbaiki. Menyimpan mempertahankan versi yang sudah diperbaiki."
 
 msgid "This folder is too large or too deep to search all of it."
-msgstr "This folder is too large or too deep to search all of it."
+msgstr "Folder ini terlalu besar atau memiliki terlalu banyak tingkat subfolder untuk ditelusuri seluruhnya."
 
 msgid "This folder isn't available right now. It may have moved, or its drive or cloud sync is offline."
 msgstr "Folder ini sedang tidak tersedia. Folder mungkin telah berpindah, atau drive atau sinkronisasi cloud-nya sedang luring."
@@ -12172,7 +12172,7 @@ msgid "This key moves around the interface on its own. Add Ctrl to use it."
 msgstr "Tombol ini bergerak di antarmuka dengan sendirinya. Tambahkan Ctrl untuk menggunakannya."
 
 msgid "This large file is being read from disk to save memory, so it can't be edited, filled in or signed yet."
-msgstr "This large file is being read from disk to save memory, so it can't be edited, filled in or signed yet."
+msgstr "File besar ini dibaca langsung dari disk untuk menghemat memori, sehingga belum dapat diedit, diisi, atau ditandatangani."
 
 msgid "This machine: {ram} GB RAM, {disk} GB free"
 msgstr ""
@@ -12271,7 +12271,7 @@ msgid "Thousands separator"
 msgstr ""
 
 msgid "Thumbnail size"
-msgstr "Thumbnail size"
+msgstr "Ukuran gambar mini"
 
 msgid "Tile scale:"
 msgstr "Skala ubin:"
@@ -12298,7 +12298,7 @@ msgid "To change locked fields, also set Locked to No."
 msgstr "Untuk mengubah kolom terkunci, tetapkan juga Terkunci ke Tidak."
 
 msgid "To print this large file, load all of it first with Load to edit."
-msgstr "To print this large file, load all of it first with Load to edit."
+msgstr "Untuk mencetak file besar ini, muat seluruh isinya lebih dulu dengan Muat untuk diedit."
 
 msgid "to {n}"
 msgstr "hingga {n}"
@@ -12325,7 +12325,7 @@ msgid "Tokens and smart cards sign through a PKCS #11 module. Only add modules y
 msgstr "Token dan kartu pintar menandatangani melalui modul PKCS #11. Tambahkan hanya modul yang Anda percayai: modul menjalankan kodenya sendiri."
 
 msgid "Too early"
-msgstr "Too early"
+msgstr "Terlalu awal"
 
 msgid "Too many copies: increase the spacing or the size."
 msgstr ""
@@ -12340,7 +12340,7 @@ msgid "Too many windows for this document"
 msgstr ""
 
 msgid "Took too long to read"
-msgstr "Took too long to read"
+msgstr "Waktu baca terlalu lama"
 
 msgid "Toolbar size"
 msgstr ""
@@ -12352,10 +12352,10 @@ msgid "Tools shown in All tools"
 msgstr "Alat yang ditampilkan di «Semua alat»"
 
 msgid "Tooltip"
-msgstr "Tooltip"
+msgstr "Petunjuk"
 
 msgid "Tooltip:"
-msgstr "Tooltip:"
+msgstr "Petunjuk:"
 
 msgid "Top left"
 msgstr "Kiri atas"
@@ -12379,7 +12379,7 @@ msgid "TR must be a child of Table, THead, TBody, or TFoot"
 msgstr "TR harus menjadi anak dari Table, THead, TBody, atau TFoot"
 
 msgid "Transfer format: {format}."
-msgstr "Transfer format: {format}."
+msgstr "Format transfer: {format}."
 
 msgid "Transform image"
 msgstr ""
@@ -12434,7 +12434,7 @@ msgid "Turn upside down (180°)"
 msgstr "Putar terbalik (180°)"
 
 msgid "Turned left"
-msgstr "Turned left"
+msgstr "Diputar ke kiri"
 
 msgid "Turned off because your administrator's policy couldn't be read."
 msgstr "Dimatikan karena kebijakan administrator Anda tidak dapat dibaca."
@@ -12495,7 +12495,7 @@ msgid "Unchecked"
 msgstr "Tidak dicentang"
 
 msgid "Unchecked reads"
-msgstr "Unchecked reads"
+msgstr "Ketergantungan yang belum diperiksa"
 
 msgid "Underline text"
 msgstr "Teks bergaris bawah"
@@ -12516,7 +12516,7 @@ msgid "Ungroup artwork"
 msgstr "Pisahkan grup grafis"
 
 msgid "Unit"
-msgstr "Unit"
+msgstr "Satuan"
 
 msgid "Unit before value"
 msgstr ""
@@ -12630,7 +12630,7 @@ msgid "Updating 3D view…"
 msgstr ""
 
 msgid "Upside down"
-msgstr "Upside down"
+msgstr "Terbalik"
 
 msgid "URL to submit to"
 msgstr "URL tujuan pengiriman"
@@ -12872,7 +12872,7 @@ msgid "Vertical layout"
 msgstr ""
 
 msgid "Vertical resolution"
-msgstr "Vertical resolution"
+msgstr "Resolusi vertikal"
 
 msgid "Vertical reversed"
 msgstr "Vertikal terbalik"
@@ -12950,10 +12950,10 @@ msgid "Wait for text recognition to finish before changing add-ons"
 msgstr "Tunggu hingga pengenalan teks selesai sebelum mengubah add-on"
 
 msgid "Wait for the scanner to finish, or close any other program using it, then choose Continue."
-msgstr "Wait for the scanner to finish, or close any other program using it, then choose Continue."
+msgstr "Tunggu hingga pemindai selesai, atau tutup aplikasi lain yang menggunakannya, lalu pilih Lanjutkan."
 
 msgid "Wait for the scanner to finish, or close any other program using it, then choose Try again."
-msgstr "Wait for the scanner to finish, or close any other program using it, then choose Try again."
+msgstr "Tunggu hingga pemindai selesai, atau tutup aplikasi lain yang menggunakannya, lalu pilih Coba lagi."
 
 msgid "Waiting for the system print dialog…"
 msgstr "Menunggu dialog cetak sistem…"
@@ -13012,10 +13012,10 @@ msgid "Width between lines"
 msgstr ""
 
 msgid "Will use the bed."
-msgstr "Will use the bed."
+msgstr "Akan memakai kaca pemindai."
 
 msgid "Will use the feeder."
-msgstr "Will use the feeder."
+msgstr "Akan memakai pengumpan kertas."
 
 msgid "Window Options"
 msgstr "Opsi Jendela"
@@ -13213,7 +13213,7 @@ msgid_plural "{fields} are missing"
 msgstr[0] ""
 
 msgid "{fields} read each other"
-msgstr "{fields} read each other"
+msgstr "{fields} saling membaca nilai"
 
 msgctxt "@plural"
 msgid "{fields} reads it"
@@ -13226,16 +13226,16 @@ msgid_plural "{field} calculates before {fields}, which it reads."
 msgstr[0] ""
 
 msgid "{field} reads fields named as it runs"
-msgstr "{field} reads fields named as it runs"
+msgstr "{field} membaca kolom yang namanya disusun saat skrip berjalan"
 
 msgid "{field} reads its own value"
-msgstr "{field} reads its own value"
+msgstr "{field} membaca nilainya sendiri"
 
 msgid "{field} reads no other field"
-msgstr "{field} reads no other field"
+msgstr "{field} tidak membaca kolom lain"
 
 msgid "{field} reads {fields}"
-msgstr "{field} reads {fields}"
+msgstr "{field} membaca {fields}"
 
 msgctxt "@plural"
 msgid "{field} reads {fields}, which the form doesn't have."
@@ -13336,7 +13336,7 @@ msgid "{mib} MiB ({bytes} bytes)"
 msgstr ""
 
 msgid "{month} {day}, {y}"
-msgstr "{month} {day}, {y}"
+msgstr "{day} {month} {y}"
 
 msgid "{month} {y}"
 msgstr "{month} {y}"
@@ -13345,7 +13345,7 @@ msgid "{msg} to {dir}"
 msgstr "{msg} ke {dir}"
 
 msgid "{names} and {last}"
-msgstr "{names} and {last}"
+msgstr "{names} dan {last}"
 
 msgid "{names} certifies this document without allowing comments, and will report this change."
 msgstr "{names} menyertifikasi dokumen ini tanpa mengizinkan komentar, dan akan melaporkan perubahan ini."
@@ -13494,7 +13494,7 @@ msgid_plural "{n} objects selected"
 msgstr[0] "{n} objek dipilih"
 
 msgid "{n} of {m} pages were scanned."
-msgstr "{n} of {m} pages were scanned."
+msgstr "{n} dari {m} halaman berhasil dipindai."
 
 msgctxt "@plural"
 msgid "{n} page is not a scan."
@@ -13523,7 +13523,7 @@ msgid "{n} pages selected."
 msgstr "{n} halaman dipilih."
 
 msgid "{n} pages were scanned."
-msgstr "{n} pages were scanned."
+msgstr "{n} halaman berhasil dipindai."
 
 msgctxt "@plural"
 msgid "{n} page"
@@ -13633,7 +13633,7 @@ msgid "{words} on {pages}"
 msgstr "{words} di {pages}"
 
 msgid "{w} × {h} in, {pxw} × {pxh} pixels, {size}"
-msgstr "{w} × {h} in, {pxw} × {pxh} pixels, {size}"
+msgstr "{w} × {h} inci, {pxw} × {pxh} piksel, {size}"
 
 msgid "{} annotation on page {p} has no description (Contents), and its tag no alternate text"
 msgstr ""

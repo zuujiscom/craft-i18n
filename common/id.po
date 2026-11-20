@@ -570,7 +570,7 @@ msgid "Clear Recent Files"
 msgstr "Hapus Daftar Berkas Terakhir"
 
 msgid "Clipboard"
-msgstr "Clipboard"
+msgstr "Papan klip"
 
 msgid "Clipping Mask"
 msgstr "Masker kliping"
@@ -887,7 +887,7 @@ msgid "Decrease Font Size"
 msgstr "Perkecil ukuran font"
 
 msgid "Default"
-msgstr "Default"
+msgstr "Bawaan"
 
 msgid "Delete"
 msgstr "Hapus"
@@ -1637,7 +1637,7 @@ msgid "Hollow"
 msgstr "Berongga"
 
 msgid "Home"
-msgstr "Home"
+msgstr "Beranda"
 
 msgid "Horizontal"
 msgstr "Horizontal"
@@ -1856,7 +1856,7 @@ msgid "Layers"
 msgstr "Lapisan"
 
 msgid "Layout"
-msgstr "Layout"
+msgstr "Tata letak"
 
 msgid "Layout:"
 msgstr "Tata letak:"
@@ -2141,7 +2141,7 @@ msgid "Minimum"
 msgstr "Minimum"
 
 msgid "Mirror"
-msgstr "Cermin"
+msgstr "Cerminkan"
 
 msgid "Missing"
 msgstr "Hilang"
@@ -3092,7 +3092,7 @@ msgid "Set"
 msgstr "Atur"
 
 msgid "Set as Default"
-msgstr "Atur sebagai default"
+msgstr "Jadikan bawaan"
 
 msgid "Set:"
 msgstr "Set:"
@@ -3347,7 +3347,7 @@ msgid "Stippled"
 msgstr "Bertitik"
 
 msgid "Stop"
-msgstr "Berhenti"
+msgstr "Hentikan"
 
 msgid "Strength"
 msgstr "Kekuatan"
@@ -3653,7 +3653,7 @@ msgid "UPPERCASE"
 msgstr "HURUF BESAR"
 
 msgid "Use Default"
-msgstr "Gunakan default"
+msgstr "Gunakan bawaan"
 
 msgid "User"
 msgstr "Pengguna"
@@ -3809,13 +3809,13 @@ msgid "Zoom In"
 msgstr "Perbesar"
 
 msgid "Zoom in"
-msgstr "Zoom in"
+msgstr "Perbesar"
 
 msgid "Zoom Out"
 msgstr "Perkecil"
 
 msgid "Zoom out"
-msgstr "Zoom out"
+msgstr "Perkecil"
 
 msgid "Zoom Tool"
 msgstr "Alat Zoom"
